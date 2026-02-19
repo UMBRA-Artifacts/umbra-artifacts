@@ -91,7 +91,7 @@ class Automatic_Dark_Patterns():
                          "DP16": "Pre-consent cookie loading. (PreConsent Cookies)",
                          "DP17": "Unclear Legal Basis. ((LegalBasisAmbiguity)",
                          "DP18": "Default Rejection as Non-functional. (FakeOptOut)",
-                         "DP19" : "Takes more clicks to Opt-out than Opt-in or Opt-out option is not clearly visible.(OptOutMore Cookies)",
+                         "DP19" : "Takes more clicks to Opt-out than Opt-in or Opt-out option is not clearly visible.(Multi-Click Opt-Out)",
                          }
         # Create a dictionart to store the dark pattern values.
         dark_patterns = {d:False for d in dark_patterns_desc}
