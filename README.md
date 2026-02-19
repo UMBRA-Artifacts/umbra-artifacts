@@ -1,6 +1,6 @@
 # UMBRA Artifact Repository
 
-## Dataset and Supplementary Materials
+## Source Code and Supplementary Materials
 
 ### 1. Ground Truth Dataset/
 This directory contains manually annotated labels used to validate and evaluate the accuracy of UMBRA’s detection modules.
