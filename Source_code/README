@@ -3,7 +3,7 @@ UMBRA: An Automated System for Analyzing Cookie Consent Interfaces
 UMBRA is an automated system for large-scale analysis of evolved dark patterns in cookie consent interfaces. 
 It detects banners, interacts with their UI elements, and monitors cookie behavior across multiple interaction 
 states to identify regulatory and security-related violations.
-The system is capable of automatically identifying nine advanced categories of dark patterns (DP11–DP19), 
+The system is capable of automatically identifying nine advanced categories of dark patterns (DP11–DP19), along with DP1-DP10
 including transparency failures, opt-out pricing, revocation barriers, and consent circumvention behaviors.
 
 ## Prerequisites
