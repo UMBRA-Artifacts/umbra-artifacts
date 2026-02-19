@@ -1,4 +1,43 @@
 UMBRA: An Automated System for Analyzing Cookie Consent Interfaces
 
-UMBRA is an automated system for large-scale analysis of evolved dark patterns in cookie consent interfaces. It detects banners, interacts with their UI elements, and monitors cookie behavior across multiple interaction states to identify regulatory and security-related violations.
-The system is capable of automatically identifying nine advanced categories of dark patterns (DP11–DP19), including transparency failures, opt-out pricing, revocation barriers, and consent circumvention behaviors.
+UMBRA is an automated system for large-scale analysis of evolved dark patterns in cookie consent interfaces. 
+It detects banners, interacts with their UI elements, and monitors cookie behavior across multiple interaction 
+states to identify regulatory and security-related violations.
+The system is capable of automatically identifying nine advanced categories of dark patterns (DP11–DP19), 
+including transparency failures, opt-out pricing, revocation barriers, and consent circumvention behaviors.
+
+## Prerequisites
+
+The system requires the following software to be installed:
+
+Python 3.8 or higher (tested with Python 3.9+)
+
+Google Chrome (latest stable version recommended)
+
+ChromeDriver (matching the installed Chrome version)
+
+ ## Installation
+
+Run the following commands inside the directory containing requirements.txt.
+
+(Recommended) Create a Virtual Environment
+
+Windows
+
+python -m venv umbra_env
+umbra_env\Scripts\activate
+
+
+Linux / macOS
+
+python3 -m venv umbra_env
+source umbra_env/bin/activate
+
+## Install Dependencies
+pip install -r requirements.txt
+
+## Usage
+cd Source_code
+python run_auto.py
+
+
