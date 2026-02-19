@@ -1,0 +1,52 @@
+[
+    {
+        "name": "__Host-next-auth.csrf-token",
+        "domain": "www.france.tv",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "0e1a94e2f82f33aa0135ee567246e865f163bc728a40407e2418aaca3ae6ba64%7C47a83771417b2c2392e222001e273c7e70ab76d363fc081137bd798e429035ed"
+    },
+    {
+        "name": "__Secure-next-auth.callback-url",
+        "domain": "www.france.tv",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "https%3A%2F%2Fwww.france.tv"
+    },
+    {
+        "name": "_pprv",
+        "domain": ".france.tv",
+        "path": "/",
+        "expiry": "1798480837",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6ImVzc2VudGlhbCJ9LCIxIjp7Im1vZGUiOiJvcHQtaW4ifSwiMiI6eyJtb2RlIjoib3B0LWluIn0sIjMiOnsibW9kZSI6Im9wdC1pbiJ9LCI0Ijp7Im1vZGUiOiJvcHQtaW4ifSwiNSI6eyJtb2RlIjoib3B0LWluIn0sIjYiOnsibW9kZSI6Im9wdC1pbiJ9LCI3Ijp7Im1vZGUiOiJvcHQtaW4ifX0sInB1cnBvc2VzIjpudWxsLCJfdCI6Im15N2wxem1jfG1pajY0aWFjIn0%3D"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".france.tv",
+        "path": "/",
+        "expiry": "1798480837",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22browserId%22%3A%22mij64ia71zl3xt9c%22%2C%22_t%22%3A%22my7l1zmf%7Cmij64iaf%22%7D"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".france.tv",
+        "path": "/",
+        "expiry": "1798480837",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAJ4B2VAEYAXvwDmAH370AVgDYALPULSQAXyA"
+    }
+]

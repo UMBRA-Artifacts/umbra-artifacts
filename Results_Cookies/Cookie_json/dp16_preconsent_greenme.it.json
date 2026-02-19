@@ -1,0 +1,12 @@
+[
+    {
+        "name": "IMRID",
+        "domain": ".imrworldwide.com",
+        "path": "/",
+        "expiry": "1798041525.27172",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1e61da01-cc73-11f0-a328-ff0a39c01415"
+    }
+]

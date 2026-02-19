@@ -1,0 +1,102 @@
+[
+    {
+        "name": "wteid_752252631714867",
+        "domain": "editorialelibero01.webtrekk.net",
+        "path": "/752252631714867",
+        "expiry": "1779983311.42734",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "4176443128500744580"
+    },
+    {
+        "name": "wtsid_752252631714867",
+        "domain": "editorialelibero01.webtrekk.net",
+        "path": "/752252631714867",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "_ga",
+        "domain": ".iltempo.it",
+        "path": "/",
+        "expiry": "1827503311",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.727491640.1764431283"
+    },
+    {
+        "name": "UID",
+        "domain": ".scorecardresearch.com",
+        "path": "/",
+        "expiry": "1798127311.55615",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "142355c239d6c2a7c0fa9a11764431283"
+    },
+    {
+        "name": "XID",
+        "domain": ".scorecardresearch.com",
+        "path": "/",
+        "expiry": "1798127311.55625",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "142355c239d6c2a7c0fa9a11764431283"
+    },
+    {
+        "name": "usprivacy",
+        "domain": ".www.iltempo.it",
+        "path": "/",
+        "expiry": "1798127311.35133",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "1---"
+    },
+    {
+        "name": "cc_cookie_accept",
+        "domain": "www.iltempo.it",
+        "path": "/",
+        "expiry": "1795967310",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "cc_cookie_accept"
+    },
+    {
+        "name": "_ga_YS38L20E8P",
+        "domain": ".iltempo.it",
+        "path": "/",
+        "expiry": "1827503311",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764431282$o1$g1$t1764431311$j31$l0$h0"
+    },
+    {
+        "name": "wt_rla",
+        "domain": ".iltempo.it",
+        "path": "/",
+        "expiry": "1769615311",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "752252631714867%2C2%2C1764431283643"
+    },
+    {
+        "name": "_scor_uid",
+        "domain": ".iltempo.it",
+        "path": "/",
+        "expiry": "1798127311",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "3360c4e746f4444ca61865a3949976a4"
+    }
+]

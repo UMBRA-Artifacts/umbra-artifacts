@@ -1,0 +1,82 @@
+[
+    {
+        "name": "__lc_cid",
+        "domain": ".accounts.livechatinc.com",
+        "path": "/v2/customer/token",
+        "expiry": "1827149197.41198",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "6c62f139-7c39-47e8-b4fc-a62d4ad65b5c"
+    },
+    {
+        "name": "__lc_cst",
+        "domain": ".accounts.livechatinc.com",
+        "path": "/v2/customer/token",
+        "expiry": "1827149197.41214",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "d19e88e4595ed305a304f26d27d86bc1f8b92d4b51a281fafd4f1499df93fa82f587fe4dfdd9c6e9f3bf2d931d155f818958d3b00c33297fd8e1a8de19cf"
+    },
+    {
+        "name": "__lc_cid",
+        "domain": ".accounts.livechatinc.com",
+        "path": "/customer/token",
+        "expiry": "1827149197.41219",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "6c62f139-7c39-47e8-b4fc-a62d4ad65b5c"
+    },
+    {
+        "name": "__lc_cst",
+        "domain": ".accounts.livechatinc.com",
+        "path": "/customer/token",
+        "expiry": "1827149197.41224",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "d19e88e4595ed305a304f26d27d86bc1f8b92d4b51a281fafd4f1499df93fa82f587fe4dfdd9c6e9f3bf2d931d155f818958d3b00c33297fd8e1a8de19cf"
+    },
+    {
+        "name": "XSRF-TOKEN",
+        "domain": "www.lex.pl",
+        "path": "/",
+        "expiry": "1764509195.54958",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "8cEN3VO5u1jHxYT0sXjkRhxXFmhddnLGXPA6i6Dp"
+    },
+    {
+        "name": "user_session",
+        "domain": "www.lex.pl",
+        "path": "/",
+        "expiry": "1764509195.54966",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "eyJpdiI6IkFodWZEQ1Z5NUp4M0JoZmJxRlYyanc9PSIsInZhbHVlIjoiQUJBOGJSMUk3dEpLTGdScU0rR1FPU2JwWUVLVnZVaU5wczJIaU4yQVpHWS9Fbk1qRUFsZSt3VUdLZmVlYWdyejF4c3lBL0JCRVNyVFIwaGZZcm1BejZWQTNGZzV0ZHBRUm5UbUE0S1FrNXZkeXkvNDA1RE11VUxPTkcwNmp0VUMiLCJtYWMiOiJkNzZkMGM5YWU1ZWUyMmQ4MDJjMTEzYzA3OWQxNWM3ZDYyOGRiMDRkMjQyMTI5MTJkNDk5MDBjNThlM2I3OTUwIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "name": "OptanonAlertBoxClosed",
+        "domain": ".lex.pl",
+        "path": "/",
+        "expiry": "1779629200",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "2025-11-25T13:26:40.110Z"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".lex.pl",
+        "path": "/",
+        "expiry": "1779629200",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Tue+Nov+25+2025+22%3A26%3A40+GMT%2B0900+(Korean+Standard+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=23792ac0-bf67-428c-a304-2caf3612d06c&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0&hosts=H309%3A1%2CH40%3A0%2CH730%3A0%2CH1085%3A0%2CH709%3A0%2CH1%3A0%2CH2%3A0%2CH118%3A0%2CH5%3A0%2CH865%3A0%2CH122%3A0%2CH7%3A0%2CH546%3A0%2CH1050%3A0%2CH125%3A0%2CH1227%3A0%2CH1089%3A0%2CH18%3A0%2CH128%3A0%2CH1215%3A0%2CH1060%3A0%2CH248%3A0%2CH1095%3A0%2CH28%3A0&genVendors="
+    }
+]

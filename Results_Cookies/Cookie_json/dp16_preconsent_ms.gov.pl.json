@@ -1,0 +1,22 @@
+[
+    {
+        "name": "_pk_id.1.66a7",
+        "domain": "www.gov.pl",
+        "path": "/",
+        "expiry": "1798278932",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "4d26dfc2a0de7549.1764323732."
+    },
+    {
+        "name": "_pk_ses.1.66a7",
+        "domain": "www.gov.pl",
+        "path": "/",
+        "expiry": "1764325537",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "s_v0_userInt",
+        "domain": "www.kpn.com",
+        "path": "/",
+        "expiry": "1764076082",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "no%20value:novalue:no%20value:no%20value"
+    },
+    {
+        "name": "s_v0_navMethod",
+        "domain": "www.kpn.com",
+        "path": "/",
+        "expiry": "1764076082",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": ""
+    },
+    {
+        "name": "s_gpv_pageName",
+        "domain": "www.kpn.com",
+        "path": "/",
+        "expiry": "1764076082",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "kpn:web:cm:open:home"
+    },
+    {
+        "name": "s_ecid",
+        "domain": ".kpn.com",
+        "path": "/",
+        "expiry": "1827146283.2706",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "MCMID%7C06428268444826032491095810418161312868"
+    },
+    {
+        "name": "kndctr_BCC6148954F6271F0A4C98BC_AdobeOrg_cluster",
+        "domain": ".kpn.com",
+        "path": "/",
+        "expiry": "1764076083.4524",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "jpn3"
+    },
+    {
+        "name": "kndctr_BCC6148954F6271F0A4C98BC_AdobeOrg_identity",
+        "domain": ".kpn.com",
+        "path": "/",
+        "expiry": "1798202283.28073",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CiY1Mzg2ODA4MzIxNDYyNzgzNTIxMjAxNDQyOTYzODM1NzQwMDYxNVITCPXBldirMxABGAEqBEpQTjMwAKAB%5FMGV2KszsAG9kwLwAfXBldirMw%3D%3D"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".kpn.com",
+        "path": "/",
+        "expiry": "1795610283",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Tue+Nov+25+2025+21%3A38%3A03+GMT%2B0900+(Korean+Standard+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=88c04a5f-5f2f-4c19-80ed-0589ae853308&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.kpn.com%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0"
+    },
+    {
+        "name": "AMCVS_BCC6148954F6271F0A4C98BC%40AdobeOrg",
+        "domain": ".kpn.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "AMCV_BCC6148954F6271F0A4C98BC%40AdobeOrg",
+        "domain": ".kpn.com",
+        "path": "/",
+        "expiry": "1827146283",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1176715910%7CMCMID%7C06428268444826032491095810418161312868%7CMCAID%7CNONE%7CMCOPTOUT-1764081483s%7CNONE%7CvVersion%7C5.4.0"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "name": "auth0_MfUkYccbREwmVhRMm8z6vx55FEialpk2_config",
+        "domain": "www.limburger.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "env=production&brand=dl&prefix=&version=v2"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".limburger.nl",
+        "path": "/",
+        "expiry": "1764353572.11808",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "KiaIOvwBidRn_bLZQnoOW3.dJhK3383MAeWAS6KyFtg-1764351772-1.0.1.1-AvdvneZTXx43FPuYuH08r3tWDz3j9jb6aEEdFxR.KV6BwKjWKVZAxueOb.AgoI_Tq9E11SpemdoMZvxhh6sNIQt.b5AoNQALY_C7fY12LxM"
+    },
+    {
+        "name": "did",
+        "domain": "login.mediahuis.com",
+        "path": "/",
+        "expiry": "1795909372.86458",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "s%3Av0%3Ae89d0b7c-c892-4452-8b90-56fd9f94db15.3UQzCsIj4%2BxRIeDxU0j5WYiLViSCI20Wp5t2FjC1eKY"
+    },
+    {
+        "name": "did_compat",
+        "domain": "login.mediahuis.com",
+        "path": "/",
+        "expiry": "1795909372.86467",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "s%3Av0%3Ae89d0b7c-c892-4452-8b90-56fd9f94db15.3UQzCsIj4%2BxRIeDxU0j5WYiLViSCI20Wp5t2FjC1eKY"
+    },
+    {
+        "name": "auth0_MfUkYccbREwmVhRMm8z6vx55FEialpk2_silent_auth",
+        "domain": "www.limburger.nl",
+        "path": "/",
+        "expiry": "1764353572.88642",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "1764351772880"
+    },
+    {
+        "name": "mh_pw_se",
+        "domain": "www.limburger.nl",
+        "path": "/",
+        "expiry": "1795887775.57672",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "I788amL/45tZaJevw3OFkUL0CAsWJCyE2b5+3RQpgEK8lhhiz6tukibdRb31vTvY94hiWQ==:$M/PbkRYeTT/amOJZ"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".mediahuis.be",
+        "path": "/",
+        "expiry": "1764353575.92512",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "F6SSCQMlq9RAn36UAIGOnumNZ.QfOeR3TiG8ayErvHo-1764351775-1.0.1.1-AsxY0sogXWckJ5rfnw2t0.xrRzbOE9Dy0VzsJqSxznX.FQyMuOJEXeRgZEU7rpjDaBb7axWI1rHUtaZTtU3c5TiW8Yt0ebVhv_dwrvr93Ig"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".telegraaf.nl",
+        "path": "/",
+        "expiry": "1764353576.42917",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "LwTvzb7AfyfDkagDOYsVUWEvkUqS4CV8RjpMh28A1GI-1764351776-1.0.1.1-35MRAwlgTa2S3Lr0r29WtJD0uigmhhRIzOtEy3zW.lZDGHcmZLZTnROHa7zOJ666DQqLkgturOQzdW7y7Ex2h2aeehso3m4zpwWFHeT2BJc"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".kaching.eu.com",
+        "path": "/",
+        "expiry": "1764353576.66239",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "lRMirq6z.H2Z7D1dhKwxx6CkiTBNTMXPlv25I481Dz8-1764351776-1.0.1.1-p36hTsBe3ZH_KLeAALdZNp71wQ8__8O1VPilx32AvYvfGDPNDWqmup9zpgDP1ZZfhQsfEsGryELErj0keaTZHrHa3O0cbr3k3yY6Gzq7BUM"
+    },
+    {
+        "name": "cs_fpid",
+        "domain": "www.limburger.nl",
+        "path": "/",
+        "expiry": "4356351777",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764351777018_70876123"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".limburger.nl",
+        "path": "/",
+        "expiry": "1798479777",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAWDgDgDsAVgBsABjEAmEQO5ju3SQE4QAXyA"
+    },
+    {
+        "name": "didomi_token",
+        "domain": ".limburger.nl",
+        "path": "/",
+        "expiry": "1795974177",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "eyJ1c2VyX2lkIjoiMTlhY2I4ZjktOTU4NC02NTYyLWIwMmItMDcyMjRiNzc5NzRkIiwiY3JlYXRlZCI6IjIwMjUtMTEtMjhUMTc6NDI6NTcuMTEyWiIsInVwZGF0ZWQiOiIyMDI1LTExLTI4VDE3OjQyOjU3LjExMloiLCJ2ZXJzaW9uIjpudWxsfQ=="
+    },
+    {
+        "name": "_mhtc_cId",
+        "domain": ".limburger.nl",
+        "path": "/",
+        "expiry": "1767030177",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "66b44da9-9beb-411c-9fe0-e6a095d41985"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".mhtr.be",
+        "path": "/",
+        "expiry": "1764353577.88052",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "8y0uXDp7l_2bhX9LZJMMuUndzA3ktHRDMttwvQgcCrk-1764351777-1.0.1.1-iTTQhB7i.MIFNQ7cWQ1rylrtNUNwovZ0YM8X0.p.EejHNvaJaEhZWIpByEjJ0JNRzYxioDMW3DBfZwTYtRA5T9nfyCtZ0KS7gJaTjSm3JDM"
+    },
+    {
+        "name": "_cs_c",
+        "domain": ".limburger.nl",
+        "path": "/",
+        "expiry": "1798515777",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "_cs_id",
+        "domain": ".limburger.nl",
+        "path": "/",
+        "expiry": "1798515777",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "050e18fd-db28-a769-bb44-3436e77dd611.1764351777.1.1764351777.1764351777.1735561151.1798515777894.1.x"
+    },
+    {
+        "name": "_ain_cid",
+        "domain": "www.limburger.nl",
+        "path": "/",
+        "expiry": "1764353577.9391",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764351777938.586805734.473056"
+    },
+    {
+        "name": "_ain_uid",
+        "domain": "www.limburger.nl",
+        "path": "/",
+        "expiry": "1779903777.93928",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764351777938.76523721.43972075"
+    },
+    {
+        "name": "_mhtc_sId",
+        "domain": ".limburger.nl",
+        "path": "/",
+        "expiry": "1764353592",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "873a7ac8-28d0-4cd3-adc7-fd40cbd81e97"
+    },
+    {
+        "name": "_rdt_uuid",
+        "domain": ".limburger.nl",
+        "path": "/",
+        "expiry": "1772127778",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764351778972.7ea73277-00f6-49dc-8ce5-ebfa860e9697"
+    },
+    {
+        "name": "_fbp",
+        "domain": ".limburger.nl",
+        "path": "/",
+        "expiry": "1772127779",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "fb.1.1764351779277.906905245170629554"
+    },
+    {
+        "name": "_cs_s",
+        "domain": ".limburger.nl",
+        "path": "/",
+        "expiry": "1764353607",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1.0.U.9.1764353607924"
+    }
+]

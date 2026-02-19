@@ -1,0 +1,142 @@
+[
+    {
+        "name": "__cflb",
+        "domain": "www.eska.pl",
+        "path": "/",
+        "expiry": "1764358195.04161",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0H28uoeF2fWqBJGyC9oF47erqda82LvFDQw7kaJmQJB"
+    },
+    {
+        "name": "pageViewSource",
+        "domain": ".eska.pl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "direct_1"
+    },
+    {
+        "name": "_fbp",
+        "domain": ".eska.pl",
+        "path": "/",
+        "expiry": "1772119795",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "fb.1.1764343795876.21681934773646286"
+    },
+    {
+        "name": "interstitial",
+        "domain": "www.eska.pl",
+        "path": "/",
+        "expiry": "1764347397",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "__gfp_64b",
+        "domain": ".eska.pl",
+        "path": "/",
+        "expiry": "1798471797",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "oXDK7xLuiEdSnmfMuP1d8y0wald5rxwRB0AbOdiJckX.Q7|1764343797|2|pl.ruid|8|8:3:32"
+    },
+    {
+        "name": "receive-cookie-deprecation",
+        "domain": ".hit.gemius.pl",
+        "path": "/",
+        "expiry": "1798471799.51053",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "Gtest",
+        "domain": ".hit.gemius.pl",
+        "path": "/",
+        "expiry": "1764948599.18638",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "KlST9RXGQMQGCe_yxkC_efRvssGMXP8c25nSGgUF80K8uZ1vsG.."
+    },
+    {
+        "name": "Gruid",
+        "domain": ".ruid.gemius.pl",
+        "path": "/",
+        "expiry": "1798471799.34201",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1|2344101647"
+    },
+    {
+        "name": "__gfp_ruid",
+        "domain": ".eska.pl",
+        "path": "/",
+        "expiry": "1798471817",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "9ucgoCsHT_pam5Stuf9CTgjm9qvYjb3ILX9ZMI1rK.z.37|1764430197|2|10|0"
+    },
+    {
+        "name": "__gfp_ruid_pub",
+        "domain": ".eska.pl",
+        "path": "/",
+        "expiry": "1798471817",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "9ucgoCsHT_pam5Stuf9CTgjm9qvYjb3ILX9ZMI1rK.z.37"
+    },
+    {
+        "name": "Gdyn",
+        "domain": ".hit.gemius.pl",
+        "path": "/",
+        "expiry": "1798471799.51058",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "KlxdBMGGQMQGCe_yxkC_efRvssGM_1JiL6nxmG89yir1o7TnGsRPtP7iGKGGqXB0gGllle82GGUrxFs_XFZGsG.."
+    },
+    {
+        "name": "Gdynp",
+        "domain": ".hit.gemius.pl",
+        "path": "/",
+        "expiry": "1798471799.5106",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "49vM7wYD0k.wReQtoO1zAPdt9lWE09mUMmq7CKSDAF3.R7"
+    },
+    {
+        "name": "C",
+        "domain": ".adform.net",
+        "path": "/",
+        "expiry": "1766935806.8724",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "uid",
+        "domain": ".adform.net",
+        "path": "/",
+        "expiry": "1769527807.14443",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2058584687484186764"
+    }
+]

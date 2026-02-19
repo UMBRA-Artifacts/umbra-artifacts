@@ -1,0 +1,172 @@
+[
+    {
+        "name": "APPSESSID",
+        "domain": ".targeo.pl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "ap3~n7p8acm7mcldlsviitjqcg9vnn1v3mkp"
+    },
+    {
+        "name": "U",
+        "domain": ".targeo.pl",
+        "path": "/",
+        "expiry": "1795885295.58998",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "b7b42561f0293005c2a3cb54e84b6b8e"
+    },
+    {
+        "name": "OAID",
+        "domain": "news.targeo.pl",
+        "path": "/",
+        "expiry": "1795885297.86844",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "01000111010001000101000001010010"
+    },
+    {
+        "name": "kloc",
+        "domain": ".www.targeo.pl",
+        "path": "/",
+        "expiry": "1795885297",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "Warszawa"
+    },
+    {
+        "name": "CLID",
+        "domain": "www.clarity.ms",
+        "path": "/",
+        "expiry": "1795885298.10542",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0401366886884d749aee2698da924eb7.20251128.20261128"
+    },
+    {
+        "name": "_clck",
+        "domain": ".targeo.pl",
+        "path": "/",
+        "expiry": "1795885298",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1qx74t0%5E2%5Eg1e%5E0%5E2158"
+    },
+    {
+        "name": "_clsk",
+        "domain": ".targeo.pl",
+        "path": "/",
+        "expiry": "1764435698",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "eh7z9y%5E1764349298970%5E1%5E1%5El.clarity.ms%2Fcollect"
+    },
+    {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "path": "/",
+        "expiry": "1798045301.40047",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "376FD08E49E86FF50F77C63C48646ECA"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1764954101.40051",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "SRM_B",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1798045301.40052",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "376FD08E49E86FF50F77C63C48646ECA"
+    },
+    {
+        "name": "SM",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "C"
+    },
+    {
+        "name": "MUID",
+        "domain": ".clarity.ms",
+        "path": "/",
+        "expiry": "1798045300.41097",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "376FD08E49E86FF50F77C63C48646ECA"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1764954100.411",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "ANONCHK",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1764349900.41102",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "CookieScriptConsent",
+        "domain": ".targeo.pl",
+        "path": "/",
+        "expiry": "1807549301",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "{\"googleconsentmap\":{\"ad_storage\":\"targeting\",\"analytics_storage\":\"performance\",\"ad_personalization\":\"targeting\",\"ad_user_data\":\"targeting\",\"functionality_storage\":\"functionality\",\"personalization_storage\":\"functionality\",\"security_storage\":\"functionality\"},\"firstpage\":\"https://www.targeo.pl/\",\"bannershown\":1}"
+    },
+    {
+        "name": "_pk_id.1.c431",
+        "domain": "www.targeo.pl",
+        "path": "/",
+        "expiry": "1798304558",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "43836919e4a26a9f.1764349358."
+    },
+    {
+        "name": "_pk_ses.1.c431",
+        "domain": "www.targeo.pl",
+        "path": "/",
+        "expiry": "1764351218",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    }
+]

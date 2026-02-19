@@ -1,0 +1,252 @@
+[
+    {
+        "name": "_gcl_au",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1771852298",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1.1.809403889.1764076298"
+    },
+    {
+        "name": "last_checkout",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1766668298",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "homepage"
+    },
+    {
+        "name": "_ga_XXXXXXX",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1827148298",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764076298$o1$g0$t1764076298$j60$l0$h202085500"
+    },
+    {
+        "name": "_ga",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1827148298",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.244726463.1764076299"
+    },
+    {
+        "name": "pa_privacy",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1798204298",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%22exempt%22"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1798204298",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22browserId%22%3A%22mielhbji3bgqyx7j%22%2C%22_t%22%3A%22my30esws%7Cmielhbks%22%7D"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1798204298",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAJ4BmAAxQIAdzAAffvSioAFgCMA1mBABfIA"
+    },
+    {
+        "name": "onp_fonts_loaded",
+        "domain": "www.operadeparis.fr",
+        "path": "/",
+        "expiry": "50908396298",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "Y"
+    },
+    {
+        "name": "__Secure-YNID",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779628299.14067",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "13.YT=jstofBuH0z3Heo4aSIibdCxcy9gbOB6PWulNVazSTpcS6wm9zCezi4aF_v7JJv4D2mDFGUpJAzJpLb372T7bFmuXob6i9rfxoW1p2BHLc79lgqmHqX94CLsLASRDIahzumAAGFWMADeTbteB0eUXCyzLVSlLRRUPBz5Bc3YSntCuFpWahDEUJs5J-TNolmUL75RX5p7nRMxCX1VYNJ3_-jbQJ0BRsA0qhy7YSgHN8cZPZbVQ-f2nO3grrxcrkDdS6can7aq7oOzlsP4PFw3tMO1-ttwdoQRoCS41fCGEORiQSy3uhACjHdsetB8al-vuH5SFZ9R74XQBdKMP_l8jQw"
+    },
+    {
+        "name": "YSC",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "huS95uBr5Qg"
+    },
+    {
+        "name": "__Secure-ROLLOUT_TOKEN",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779628299.14075",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CIu49fSgg6PVcBDr56ipsI2RAxjr56ipsI2RAw%3D%3D"
+    },
+    {
+        "name": "VISITOR_INFO1_LIVE",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779628299.14078",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ZPSkMGF9r1U"
+    },
+    {
+        "name": "VISITOR_PRIVACY_METADATA",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779628299.14079",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CgJLUhIEGgAgSg%3D%3D"
+    },
+    {
+        "name": "onp",
+        "domain": "www.operadeparis.fr",
+        "path": "/",
+        "expiry": "1764083499.2893",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "eyJpdiI6IkRBY3VsS3Vtb2NwclVncjM1SXJjUkE9PSIsInZhbHVlIjoidGJmRngrdktPaldXM0Nka1VkcFJtaWtZNUlua3ZpdlE1RGtTdW9qUldiV3dmNDhicEJDeG1YbzhseGt6OWxMOGxaY3pIRjVVQm4vMFBVQkFBVGxBTzlkKzQ5bHE1cmUxOUNQOVpBS2QyVVlWVy9ZNEQ2OGs4REhKVVl0Z3N1SE0iLCJtYWMiOiI0ZWVjNjMyMDY4OGQ1MGRlMzY1ZDVkNGE0NDI3YjczYThlY2VkZDQ1NjNlMzhmZjY4Njk4YjBmY2UyNWU3ZmM4IiwidGFnIjoiIn0%3D"
+    },
+    {
+        "name": "axeptio_cookies",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1780492299",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "{%22$$token%22:%2227qs-dezQFDIX683p4i0JRVzjI%22%2C%22$$date%22:%222025-11-25T13:11:39.323Z%22%2C%22$$cookiesVersion%22:{}%2C%22$$completed%22:false}"
+    },
+    {
+        "name": "axeptio_authorized_vendors",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1780492299",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "%2C%2C"
+    },
+    {
+        "name": "axeptio_all_vendors",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1780492299",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "%2C%2C"
+    },
+    {
+        "name": "FPID",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1827148299.42476",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "FPID2.2.nJwIJChfsI5LfRsEq5XyAd1A3xgnaZkNCf2mLBNoP2Y%3D.1764076299"
+    },
+    {
+        "name": "FPLC",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1764148299.42489",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "4TX0LWJ7RU0fRaHfx%2BAYOMwxTLaR6VSJqa30VWTduWDUklQvrAxjdUk6DuSmfGqaxqLI79NEUUHrVHt0Jvqd2D%2FfDyPvLDA1GnlpHnQrAQbt%2FiDoWOHMHhDbwUM%2BAA%3D%3D"
+    },
+    {
+        "name": "FPAU",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1771852298.42495",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "1.1.809403889.1764076298"
+    },
+    {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expiry": "1827148299.52505",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "AHWqTUk5pgInkid0jJ3AhKR9SHUY7KExJFDKESoLoEvq8cGxeV0xbmvhJm3lmxP2"
+    },
+    {
+        "name": "__gads",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1797772299",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ID=051f4b6974deb20a:T=1764076299:RT=1764076299:S=ALNI_MZBexHfUENPfCzlj7yXv5WINTZ0xg"
+    },
+    {
+        "name": "_fbp",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1771852299.7569",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "fb.1.1764076299285.1275871395"
+    },
+    {
+        "name": "__gpi",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1797772299",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "UID=000011bc927c8331:T=1764076299:RT=1764076299:S=ALNI_Ma5KlryG3RZvgJ0yZvjVu06_jDJOw"
+    },
+    {
+        "name": "__eoi",
+        "domain": ".operadeparis.fr",
+        "path": "/",
+        "expiry": "1779628299",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ID=f369c0ed39d35cc4:T=1764076299:RT=1764076299:S=AA-AfjafAFVq02Gl-ufZy40sevaM"
+    }
+]

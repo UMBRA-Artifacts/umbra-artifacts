@@ -1,0 +1,102 @@
+[
+    {
+        "name": "ultimahora",
+        "domain": "www.ultimahora.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "bs73geamncl8bhkdpt38ertu4h"
+    },
+    {
+        "name": "_ga",
+        "domain": ".ultimahora.es",
+        "path": "/",
+        "expiry": "1827499305",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.351959010.1764427306"
+    },
+    {
+        "name": "gig_canary",
+        "domain": "cdns.gigya.com",
+        "path": "/",
+        "expiry": "1764427905.91689",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "next"
+    },
+    {
+        "name": "_ga_78FP43DJTZ",
+        "domain": ".ultimahora.es",
+        "path": "/",
+        "expiry": "1827499305",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764427305$o1$g0$t1764427305$j60$l0$h0"
+    },
+    {
+        "name": "gig_canary",
+        "domain": "cdns.eu1.gigya.com",
+        "path": "/",
+        "expiry": "1764427908.12006",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "next"
+    },
+    {
+        "name": "_ga_ET5BYX147V",
+        "domain": ".ultimahora.es",
+        "path": "/",
+        "expiry": "1827499309",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764427305$o1$g0$t1764427309$j60$l0$h0"
+    },
+    {
+        "name": "gmid",
+        "domain": ".gigya.ultimahora.es",
+        "path": "/",
+        "expiry": "1795963310.9469",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "gmid.ver4.AtLtLlyMMQ.xFxPoc7OScz5F8QE1RuYxaxrwSeB1RJLZBWrNzEkVsstSr1m2npyAEVluXP31Tc8.zDdGiZCRRNxcY5dK1211CYIQ8QvAHAYvptkAlmmu8s_XDMnArp0LNLLlh_DLjeV0MWjtnZbB4cn6rU5lOBweqA.sc3"
+    },
+    {
+        "name": "ucid",
+        "domain": ".gigya.ultimahora.es",
+        "path": "/",
+        "expiry": "1795963310.94694",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "oT2D74UMtc6dI1MPnjk-Pg"
+    },
+    {
+        "name": "hasGmid",
+        "domain": ".gigya.ultimahora.es",
+        "path": "/",
+        "expiry": "1780065710.94695",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ver4"
+    },
+    {
+        "name": "gig_bootstrap_3_bEdjNw-fZ4jKaNZTISYR4EqVth5GArTBalNTbPqj6TbQId1kSc0pytQEB91-QrtZ",
+        "domain": ".ultimahora.es",
+        "path": "/",
+        "expiry": "1795963309",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "gigya_ver4"
+    }
+]

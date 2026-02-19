@@ -1,0 +1,182 @@
+[
+    {
+        "name": "myapple_production",
+        "domain": ".myapple.pl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "592CexddBuI3N0EgYsM5Mt4vu4OAIAuSUjLY0zz7VIxOrvR3Pkwgz%2BLgyyyxKsm9inHQHtFTw1Fff3PwaW7QD7g9pX%2FDOtMHd2DnwHBGdOz3Yo90%2FTlVEH4jNZJ3Y%2Bk%2Bp7R8zrbyvfT%2Fdet%2Fva2tFfAL29xhtJJT8gmTD5s2KBZsAw%3D%3D--ilxaZzWiFisrbuoO--%2FaDQJlu9wpONfZ7uYM9BaQ%3D%3D"
+    },
+    {
+        "name": "OAID",
+        "domain": "ad.myapple.pl",
+        "path": "/",
+        "expiry": "1796092777.76999",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "01000111010001000101000001010010"
+    },
+    {
+        "name": "_ga",
+        "domain": ".myapple.pl",
+        "path": "/",
+        "expiry": "1827628776",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.2.1063376715.1764556777"
+    },
+    {
+        "name": "_gid",
+        "domain": ".myapple.pl",
+        "path": "/",
+        "expiry": "1764643176",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.2.1938050352.1764556777"
+    },
+    {
+        "name": "_gat",
+        "domain": ".myapple.pl",
+        "path": "/",
+        "expiry": "1764556836",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "_fbp",
+        "domain": ".myapple.pl",
+        "path": "/",
+        "expiry": "1772332776",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "fb.1.1764556776870.533725386255359426"
+    },
+    {
+        "name": "hideCookiesInformation",
+        "domain": ".myapple.pl",
+        "path": "/",
+        "expiry": "2079916777",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "_ga_TYPB44WZ4W",
+        "domain": ".myapple.pl",
+        "path": "/",
+        "expiry": "1827628777",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.2.s1764556777$o1$g0$t1764556777$j60$l0$h0"
+    },
+    {
+        "name": "CMID",
+        "domain": ".casalemedia.com",
+        "path": "/",
+        "expiry": "1796092777.95401",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "aSz-6W4sB8gAMduCDH3NYAAA"
+    },
+    {
+        "name": "CMPS",
+        "domain": ".casalemedia.com",
+        "path": "/",
+        "expiry": "1772332777.66452",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "5924"
+    },
+    {
+        "name": "CMPRO",
+        "domain": ".casalemedia.com",
+        "path": "/",
+        "expiry": "1772332777.95407",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "5924"
+    },
+    {
+        "name": "__gads",
+        "domain": ".myapple.pl",
+        "path": "/",
+        "expiry": "1798252776",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ID=5b6bb8119b216deb:T=1764556776:RT=1764556776:S=ALNI_MZBZ9a-oScKwduaHCVA8QvXbMjJWA"
+    },
+    {
+        "name": "__gpi",
+        "domain": ".myapple.pl",
+        "path": "/",
+        "expiry": "1798252776",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "UID=000011bfd7eb1639:T=1764556776:RT=1764556776:S=ALNI_Mae20C0cRSDEM-HiZ4iMdAnJRtJcA"
+    },
+    {
+        "name": "__eoi",
+        "domain": ".myapple.pl",
+        "path": "/",
+        "expiry": "1780108776",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ID=370fe8db01e72d25:T=1764556776:RT=1764556776:S=AA-Afjb6FW8VGu9ZYT_O9tq8Ro47"
+    },
+    {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expiry": "1827628778.01175",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "AHWqTUkZrflUogk4SjXLp8IOSxGiXTEZoAc69RfCHzmLo9yXKePLP6EzTkqkGj1f2c8"
+    },
+    {
+        "name": "anj",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expiry": "1772332778.06643",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "dTM7k!M41.D>6NRF']wIg2E?bx:<lu!]tbPl1M>e)ZlrFUfJ+tGXxo3>u/PiX[]NtbWkncSDT4i9(+Jj_/!JCVsuAb3If)y3KL9D3I?+ZBWfSH"
+    },
+    {
+        "name": "XANDR_PANID",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expiry": "1772332778.08376",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "3PpAmsCSdQSfyOghVWuK0-YvfcNHwgP_NUtI5dlcpEa0PUHX4NkTMf4KdppLcujnPuqTTKQrDyFK5vnkJ3I7c7DuFNtn_Oey9mzHOteZWPw."
+    },
+    {
+        "name": "uuid2",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expiry": "1772332778.08383",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "8754675891728705971"
+    }
+]

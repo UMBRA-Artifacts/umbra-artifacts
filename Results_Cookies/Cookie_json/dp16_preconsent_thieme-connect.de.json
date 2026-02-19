@@ -1,0 +1,62 @@
+[
+    {
+        "name": "FIZ-Cookie",
+        "domain": "www.thieme-connect.de",
+        "path": "/",
+        "expiry": "1764073314.38591",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "!QkLNR+ADnEGZloqz1fpB4d0ZANXocm/Ur4Pn9uaxRFddGRJJ/Gw0ZXVtCWiL0Sevizp0vKRkSylY3A=="
+    },
+    {
+        "name": "JSESSIONID",
+        "domain": "www.thieme.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "731AF6D1E3A3783757A0D54881B21080.a1"
+    },
+    {
+        "name": "ret",
+        "domain": "www.thieme.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "SID-FA2A3C74-4CBACF65"
+    },
+    {
+        "name": "TS01cb552a",
+        "domain": "www.thieme.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "0155c75164b12510ee3007f35d0aba433234b8be92223c034c9a308e245c649ebf2dd0476308314c859de555493105b51268dc61f0d7e25fc8f5c5e2074a596c6113645d39e1f3f467e33f585faa0d65ae26757c82"
+    },
+    {
+        "name": "UserID1",
+        "domain": ".adfarm1.adition.com",
+        "path": "/",
+        "expiry": "1771848718.16807",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "7576634631583040717"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".thieme.de",
+        "path": "/",
+        "expiry": "1795608720",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "isGpcEnabled=0&datestamp=Tue+Nov+25+2025+21%3A12%3A00+GMT%2B0900+(Korean+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=de4f5311-3d6d-4497-bbcc-0b6af9fc3327&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.thieme.de%2Fde%2Fthieme-connect%2Fhome-3939.htm&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0"
+    }
+]

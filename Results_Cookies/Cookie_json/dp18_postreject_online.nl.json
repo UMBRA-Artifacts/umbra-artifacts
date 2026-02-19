@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ASP.NET_SessionId",
+        "domain": "www.online.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "rjcipjtcgnu3cqrkefp4tq42"
+    },
+    {
+        "name": "BasketID",
+        "domain": "www.online.nl",
+        "path": "/",
+        "expiry": "1766944223.42351",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "00d2ab82-b342-4e6e-a2b5-824004a09dc8"
+    },
+    {
+        "name": "CookieConsent",
+        "domain": "www.online.nl",
+        "path": "/",
+        "expiry": "1779990629",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "{stamp:%27mEB1fvrjWS5QZq4WbuWaD2klhPTAxkk7NAo7zN/jBqBUVakZcUyGvQ==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1764352229759%2Cregion:%27kr%27}"
+    }
+]

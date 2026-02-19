@@ -1,0 +1,132 @@
+[
+    {
+        "name": "TC_SONDE",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "0"
+    },
+    {
+        "name": "TCPID",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "1798175329",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "125114148491134478395"
+    },
+    {
+        "name": "check",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "true"
+    },
+    {
+        "name": "TCID",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "1795756129",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1251141484911391601770"
+    },
+    {
+        "name": "TCSESSION",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "125114148498647401833"
+    },
+    {
+        "name": "tc_cj_v2",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "1795756129",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "DIRECT_ACCESS%40%40%40%40%40%401764220129207%40%40%40C"
+    },
+    {
+        "name": "axafrance!mboxSession",
+        "domain": ".axafrance.tt.omtrdc.net",
+        "path": "/",
+        "expiry": "1764221989.34506",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "67923044f7fd421ea15db8b83236300e"
+    },
+    {
+        "name": "axafrance!mboxPC",
+        "domain": ".axafrance.tt.omtrdc.net",
+        "path": "/",
+        "expiry": "1827464929.34519",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "67923044f7fd421ea15db8b83236300e.32_0"
+    },
+    {
+        "name": "mbox",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "1827464930",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "session#67923044f7fd421ea15db8b83236300e#1764221990|PC#67923044f7fd421ea15db8b83236300e.32_0#1827464930"
+    },
+    {
+        "name": "mboxEdgeCluster",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "1764221989",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "32"
+    },
+    {
+        "name": "tc_ipLabel",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "Base64_KzB8JyR9"
+    },
+    {
+        "name": "TC_PRIVACY",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "1797916132",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1%40051%7C54%7C1508%40%403%401764220132537%2C1764220132537%2C1797916132537%40"
+    },
+    {
+        "name": "TC_PRIVACY_CENTER",
+        "domain": ".axa.fr",
+        "path": "/",
+        "expiry": "1797916132",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": ""
+    }
+]

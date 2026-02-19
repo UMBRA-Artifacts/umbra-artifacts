@@ -1,0 +1,212 @@
+[
+    {
+        "name": "geo",
+        "domain": "www.elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1764596554.1299",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "{\"c\": \"KR\",\"r\": \"41\",\"o\": \"AS\"}"
+    },
+    {
+        "name": "_ga",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1827582155",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.45460677.1764510156"
+    },
+    {
+        "name": "_ga_6531QR0Y6B",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1827582156",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764510155$o1$g1$t1764510156$j59$l0$h0"
+    },
+    {
+        "name": "demdex",
+        "domain": ".demdex.net",
+        "path": "/",
+        "expiry": "1780062156.80294",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "30056338825485541532385289860930739692"
+    },
+    {
+        "name": "AMCVS_9854C13E58403FEB0A495D53%40AdobeOrg",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "ev_sid",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1795614156",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "692c49cc62ef7501b12e1839"
+    },
+    {
+        "name": "ev_did",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1795614156",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "692c49cc62ef7501b12e1838"
+    },
+    {
+        "name": "voc-rtim",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1767102156",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "{ \"geo-europe\" : false}"
+    },
+    {
+        "name": "vocuser_uuid",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1796046156",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2d63e8b9-6f4d-4a40-bcea-5ec9ecb66687"
+    },
+    {
+        "name": "vocuser_nfryl_volver_al_origen",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1764596556",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "https%3A%2F%2Fwww.elnortedecastilla.es%2F"
+    },
+    {
+        "name": "dextp",
+        "domain": ".demdex.net",
+        "path": "/",
+        "expiry": "1780062156",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "771-1-1764510156324"
+    },
+    {
+        "name": "voc_paywall",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1796046156",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "https://www.elnortedecastilla.es|anonimo"
+    },
+    {
+        "name": "s_ecid",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1827582156.54465",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "MCMID%7C29898835143844811992437110807438274538"
+    },
+    {
+        "name": "dpm",
+        "domain": ".dpm.demdex.net",
+        "path": "/",
+        "expiry": "1780062156.80302",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "30056338825485541532385289860930739692"
+    },
+    {
+        "name": "kndctr_9854C13E58403FEB0A495D53_AdobeOrg_identity",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1798638156",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CiYyOTg5ODgzNTE0Mzg0NDgxMTk5MjQzNzExMDgwNzQzODI3NDUzOFIRCOiMgaitMxgBKgRKUE4zMAPwAeiMgaitMw=="
+    },
+    {
+        "name": "kndctr_9854C13E58403FEB0A495D53_AdobeOrg_cluster",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1764511958.16188",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "jpn3"
+    },
+    {
+        "name": "AMCV_9854C13E58403FEB0A495D53%40AdobeOrg",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1827582156",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "179643557%7CMCIDTS%7C20423%7CMCMID%7C29898835143844811992437110807438274538%7CMCAAMLH-1765114956%7C11%7CMCAAMB-1765114956%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1764517356s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20430%7CvVersion%7C5.5.0"
+    },
+    {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expiry": "1827582156.75993",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "AHWqTUnbAzbRfSMBatWubnqb7HSRuCRVrpvrhi9x3ShoL5-BLkZi2xS4n0J5oFmnUqQ"
+    },
+    {
+        "name": "didomi_token",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1796132557",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJ1c2VyX2lkIjoiMTlhZDUwMDQtYTZmZS02MTMwLWEwNzEtYzE1NmY3NWVjMTFiIiwiY3JlYXRlZCI6IjIwMjUtMTEtMzBUMTM6NDI6MzcuNDIzWiIsInVwZGF0ZWQiOiIyMDI1LTExLTMwVDEzOjQyOjM3LjQyM1oiLCJ2ZXJzaW9uIjpudWxsfQ=="
+    },
+    {
+        "name": "vtm_op",
+        "domain": ".elnortedecastilla.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "true"
+    },
+    {
+        "name": "__bs_id",
+        "domain": "www.elnortedecastilla.es",
+        "path": "/",
+        "expiry": "1796046160",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.45460677.1764510156"
+    }
+]

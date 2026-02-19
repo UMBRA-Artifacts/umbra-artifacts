@@ -1,0 +1,42 @@
+[
+    {
+        "name": "OptanonConsent",
+        "domain": ".www.nintendo.com",
+        "path": "/es-es/",
+        "expiry": "1795699267",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Wed+Nov+26+2025+22%3A21%3A07+GMT%2B0900+(Korean+Standard+Time)&version=202503.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=V17%3A0%2CV9%3A0%2CV1%3A0%2CV10%3A0%2CV6%3A0%2CV5%3A0%2C&consentId=89e04084-26d5-44a2-836c-fe6aac455f23&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.nintendo.com%2Fes-es%2F&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0"
+    },
+    {
+        "name": "_abck",
+        "domain": ".nintendo.com",
+        "path": "/",
+        "expiry": "1795699268.42171",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "915EA3409F650C015EB7B4A75BFD208D~-1~YAAQSwk+F+xNnLOaAQAAOi9TwA5BQ/ZOW+DkiSsJXq4MHPb+yR1KwiX1AIlRE7Y5x/jGnGdG3nwJzCXCd+2heSZ6VkxiPvZoIvfc33+F1pmcSMAl8H1SwXOjMdqSWrhSBYjaW0z1BgqKPPzDCJ16d/ksgGWbMTvjsxzf1V4pqYFC6zffbicAUMvbPLL/gvVWhNnrLqFYL3tL/uSCHFBR0ftpKbIlkusUfqZH4PYJLxbiZ5vrTnBMTp5q5yvgI05UjzsewX/6+CBuLMPIuBY1UGoYk9Cxq0GJD/16YLFz+wvwtGnfgz1dKSrmmKZEl4gguk9tntD6u4QB2PdLLsSz0ojUcMN8w9HucMJp6w1MXoFTyJcn8tzhAZngUByEIUBcoX+8yvNAS0yMjcVqZMLFUFfw2Vsertm0Z2cyaDrnkS48GqgTmwXSifPxX2evB0Pf5hlU5oQMjlLP~-1~-1~-1~-1~-1"
+    },
+    {
+        "name": "bm_sz",
+        "domain": ".nintendo.com",
+        "path": "/",
+        "expiry": "1764177668.42184",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "5B934AE068F02897EAE7C10059134440~YAAQSwk+F+1NnLOaAQAAOi9TwB21axoFG2A6wQc0cQ39o4fFo/bhEGcV/wlACI9j0Co+siIhYwHibaTlTPnYM9WUHIcBcM05zSJLVn+Lhm+Nul1brZHjfxu2texKYq9961tmv5cfdDCjHcHmasDeNTn6/FH6XeKz7jITkF1ROZECrF/ic/u2DNeaR7cWXt7DmFQUkik17Od9SvPpYpeNy1h3Bu3BUQ6/RqMCDNMvT8ZKkxTcGhe513slgZ+kHMtXurFgo9j04e0IfGfE9yrvOXByA87dq1IbojrON2Oz0vltR9srCpEovWluugCfruqa6IsmPW+0NLwMzKncTw/Nmi6Ey+4DYlYtSsPaeASSMrz7yQ==~3422019~3621701"
+    },
+    {
+        "name": "NATID",
+        "domain": "accounts.nintendo.com",
+        "path": "/",
+        "expiry": "3340963269.32164",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "d7976a0f20f426b81b3c8168f0df67fd1e020535"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "4457cdb67a51cdcee988f7c2dc1fe32f",
+        "domain": "www.mimit.gov.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "flgleqnehfivjghbc69oahm3q9"
+    },
+    {
+        "name": "TS01f4b6fc",
+        "domain": "www.mimit.gov.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "019564bb50118c85d690d1f4600bf2499d2d3e523bea53aa44ee52e899569bfec55d475e05caa4f479347ec77a63cbb9f188a0ef74"
+    },
+    {
+        "name": "TS01f4b6fc028",
+        "domain": "www.mimit.gov.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "01c16b7fcd36aef3adc81a0d13415aff8fcc14f1a7ae99e43796a2fdc3bcd69fde1f1b814d1a99645b6f16b40fcd4f933b892517b5"
+    },
+    {
+        "name": "_pk_id.2.e9ae",
+        "domain": "www.mimit.gov.it",
+        "path": "/",
+        "expiry": "1798384501",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "1873ef386f06df17.1764429301."
+    },
+    {
+        "name": "_pk_ses.2.e9ae",
+        "domain": "www.mimit.gov.it",
+        "path": "/",
+        "expiry": "1764431100",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "_pk_id.14820.e9ae",
+        "domain": "www.mimit.gov.it",
+        "path": "/",
+        "expiry": "1798384501",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "f97d3d88095787d4.1764429301."
+    },
+    {
+        "name": "_pk_ses.14820.e9ae",
+        "domain": "www.mimit.gov.it",
+        "path": "/",
+        "expiry": "1764431100",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "1"
+    }
+]

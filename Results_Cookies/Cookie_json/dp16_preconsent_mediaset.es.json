@@ -1,0 +1,212 @@
+[
+    {
+        "name": "gig_canary",
+        "domain": "cdns.gigya.com",
+        "path": "/",
+        "expiry": "1764261589.03528",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "latest"
+    },
+    {
+        "name": "gig_canary",
+        "domain": "cdns.eu1.gigya.com",
+        "path": "/",
+        "expiry": "1764261590.35728",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "latest"
+    },
+    {
+        "name": "demdex",
+        "domain": ".demdex.net",
+        "path": "/",
+        "expiry": "1779812990.56335",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "38944083022057477124252197169185982005"
+    },
+    {
+        "name": "AMCVS_2A150C0F53DB12860A490D45%40AdobeOrg",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "AMCV_2A150C0F53DB12860A490D45%40AdobeOrg",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "1827332990",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "-2121179033%7CMCIDTS%7C20420%7CMCMID%7C38917741520201527924254558614716126701%7CMCAAMLH-1764865790%7C11%7CMCAAMB-1764865790%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1764268190s%7CNONE%7CvVersion%7C5.3.0"
+    },
+    {
+        "name": "didomi_token",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "1798475390",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "eyJ1c2VyX2lkIjoiMTlhYzYyNjQtZTg3Zi02NWEyLWIzYjUtMDRiNjZiNzY4ZWVhIiwiY3JlYXRlZCI6IjIwMjUtMTEtMjdUMTY6Mjk6NTAuNTk5WiIsInVwZGF0ZWQiOiIyMDI1LTExLTI3VDE2OjI5OjUwLjYwMFoiLCJ2ZXJzaW9uIjpudWxsfQ=="
+    },
+    {
+        "name": "apiDomain_3_fRCdhy-BsPfOWlddpTPTUk924Pc5b3uVWMf-AIDVMneKlTc57edHh9kKe3GGuVCE",
+        "domain": ".cdns.eu1.gigya.com",
+        "path": "/",
+        "expiry": "1795796990",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "login.mediaset.es"
+    },
+    {
+        "name": "ms_session_start",
+        "domain": "www.mediaset.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1764260991049"
+    },
+    {
+        "name": "57af196ac715da0d6e8b4da87cb6",
+        "domain": "www.mediaset.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "41d3beeb-443d-3057-f9dd-a16f098837d4"
+    },
+    {
+        "name": "s_ips",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "2424"
+    },
+    {
+        "name": "s_tp",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "8931"
+    },
+    {
+        "name": "s_cc",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "true"
+    },
+    {
+        "name": "gmid",
+        "domain": ".login.mediaset.es",
+        "path": "/",
+        "expiry": "1795796992.72398",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "gmid.ver4.AtLtbT1p7A.dsbr6ggpLKPIESltByHDppo91hl5F1x7ChhCp7GhxcXvkIFu7psfblWYKfCqAtlD.qenax0S-NYwjs2kszO_sFIRO7wXowHsBdp9LZi90PXlL6rEZPUC4oaHu0fraM8jm6D6qpKWZD6ehrHSw4IT0kA.sc3"
+    },
+    {
+        "name": "ucid",
+        "domain": ".login.mediaset.es",
+        "path": "/",
+        "expiry": "1795796992.72407",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "m99Gu5hnBOF18VJmfXXfWA"
+    },
+    {
+        "name": "hasGmid",
+        "domain": ".login.mediaset.es",
+        "path": "/",
+        "expiry": "1779899392.72412",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ver4"
+    },
+    {
+        "name": "gig_bootstrap_3_K3Ov9l124LXWfWJ4CBdrgJ_ppkblnMzUqsALe0rMlJYz-tIXLDqd-JFC-8TzqsnV",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "1795796991",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "login_ver4"
+    },
+    {
+        "name": "_cb",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "1798388992",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "B0gi3JCCuu8pDXD2-l"
+    },
+    {
+        "name": "_chartbeat2",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "1798388992",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": ".1764260992274.1764260992274.1.DgiGTpBPODcpDpDty8SZKMQNqHYq.1"
+    },
+    {
+        "name": "_cb_svref",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "1764262792",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "external"
+    },
+    {
+        "name": "_v__chartbeat3",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "1798388992",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "nb8i7TVd4OBc2RzI"
+    },
+    {
+        "name": "s_ppv",
+        "domain": ".mediaset.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "https%253A%252F%252Fwww.mediaset.es%252F%2C27%2C78%2C10%2C6935%2C10%2C7"
+    }
+]

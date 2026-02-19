@@ -1,0 +1,102 @@
+[
+    {
+        "name": "_GRECAPTCHA",
+        "domain": "www.google.com",
+        "path": "/recaptcha",
+        "expiry": "1779909572.72083",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "09ADiQh0dX8Pguj_kYdnLqe95HsEG1PhIgmsk_P8VjmiX66v0-fLs01t0DJ_tQK_J82RFyoHKKyvtUKsKlyvppgKM"
+    },
+    {
+        "name": "SID",
+        "domain": ".ticketmaster.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "xMIswkOLtMKl2u_7SZTkax0xDNqcZWwW-JmaNx-JP5pxZJbYNI2pDNmADLuh2Xwsho0ZcEud83TDmVmZ"
+    },
+    {
+        "name": "BID",
+        "domain": ".ticketmaster.be",
+        "path": "/",
+        "expiry": "1795893569.68896",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "d2FTQbOskGCziDXKDVncA5cOU9J_ry2pIXkWbVTMRH5msmS9H04pSqSIkDM3l5RNXx5LiMiPVGeZ3AEB"
+    },
+    {
+        "name": "language",
+        "domain": ".ticketmaster.be",
+        "path": "/",
+        "expiry": "1795893570",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "en-us"
+    },
+    {
+        "name": "LANGUAGE",
+        "domain": ".ticketmaster.be",
+        "path": "/",
+        "expiry": "1795893570",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "en-us"
+    },
+    {
+        "name": "NDMA",
+        "domain": ".ticketmaster.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "904"
+    },
+    {
+        "name": "eps_sid",
+        "domain": ".www.ticketmaster.be",
+        "path": "/",
+        "expiry": "1766949570.1887",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "a073905556d061c4.1764357570.muiPb6KOwjUvuMk3ZDcGMpXkeAQCx2RpvmCstiUu/BY="
+    },
+    {
+        "name": "OptanonGroups",
+        "domain": ".ticketmaster.be",
+        "path": "/",
+        "expiry": "1795893570",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": ",C0001,"
+    },
+    {
+        "name": "TMUO",
+        "domain": ".ticketmaster.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "east_IsKyPbeWBIVJKfiMsnCD5zG48AqrQ6LCVerFIuH89d8="
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".ticketmaster.be",
+        "path": "/",
+        "expiry": "1795893571",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "isGpcEnabled=0&datestamp=Sat+Nov+29+2025+04%3A19%3A31+GMT%2B0900+(Korean+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9b40d5f6-3129-4e7a-bfee-0773618d6435&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.ticketmaster.be%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0%2CV2STACK42%3A0"
+    }
+]

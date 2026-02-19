@@ -1,0 +1,152 @@
+[
+    {
+        "name": "JSESSIONID",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "A1351C44BCD174DF820EEBC3D03C8CD0"
+    },
+    {
+        "name": "COOKIE_SUPPORT",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "1795614510.33422",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "true"
+    },
+    {
+        "name": "portalserverid",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "572e0140253e28c3"
+    },
+    {
+        "name": "PD-H-SESSION-ID",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "0_O9RvQaG8TOYiUM38iKKCsVoxpDKZi6SDYhoNKyMfISW9F4Cea58=_AAAAAAA=_EiH8DAUQ+UyzECWaXrAaPdgVFFs="
+    },
+    {
+        "name": "DY20153010083111",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "1764079818.21605",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "rd1o00000000000000000000ffff0a2d046do80"
+    },
+    {
+        "name": "OPPID",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "2079654510.33443",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "a85bc5b0ca06ae696fc81f31e8864f7b0c2cc5f4ed4f043a3d394ed2e8b13bbe"
+    },
+    {
+        "name": "TS01b579aa028",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "01e7ab431b48895525e4666c4abf512b5ab02de1bf8e003089d9306ad270ea0a56c0d059e825da1bfe9609df1c4ee1d87d10b815c9"
+    },
+    {
+        "name": "demdex",
+        "domain": ".demdex.net",
+        "path": "/",
+        "expiry": "1779630513.73334",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "02371026668336773671308364682628020132"
+    },
+    {
+        "name": "AMCVS_7ED3E1CE5437BC210A4C98A5%40AdobeOrg",
+        "domain": ".op.fi",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "AMCV_7ED3E1CE5437BC210A4C98A5%40AdobeOrg",
+        "domain": ".op.fi",
+        "path": "/",
+        "expiry": "1827150513",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "179643557%7CMCIDTS%7C20418%7CMCMID%7C08041363110885714771894529553321402310%7CMCAAMLH-1764683313%7C11%7CMCAAMB-1764683313%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1764085713s%7CNONE%7CvVersion%7C5.5.0"
+    },
+    {
+        "name": "clusteredgecrumbs",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "ingresscookie2|aSWzt|aSWzs"
+    },
+    {
+        "name": "chat-csrf",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "1764107316.91467",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "AAAAAAAAAAAAAAAAqNlqo0JZo1JJ3jwPPXFrpC3YtVu_D_FmRpwBWVjl.jwQ_kwOOqe1pp1d8kZcjJvYGyFLBg--"
+    },
+    {
+        "name": "c_Banking_Domain_PROD_servlet_e",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "1764078816.91471",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "2683055370.36895.0000"
+    },
+    {
+        "name": "TS01b579aa",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "01d44bf52767b2f73ab84261b644db87d2610b28b54cfa342f26120c077f2b3c19551c2e14ae87c8e34011a4534242e0a5b3c3bc14fa19887bc99d19055938209c9c158fb5f43b025dcbfe0a00d883705e08cba5f227b6ad1ae1c11563251906b77e19597dbbc7eda9b2bd83a23852cd0a2a09ca221849844e457449eb0443ed36b0f4f7ebaf855ae8a95ea39b0ddacd5956a93bfb9d856e8bbec07ea554a04448a9aebd68"
+    },
+    {
+        "name": "LFR_SESSION_STATE_10161",
+        "domain": "www.op.fi",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "1764078517579"
+    }
+]

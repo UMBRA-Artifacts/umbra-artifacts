@@ -1,0 +1,72 @@
+[
+    {
+        "name": "rumble-journey-tracking",
+        "domain": "www.ruhrnachrichten.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "{}"
+    },
+    {
+        "name": "bdp.ruhrnachrichten.deses.5a42",
+        "domain": ".ruhrnachrichten.de",
+        "path": "/",
+        "expiry": "1764346599",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "*"
+    },
+    {
+        "name": "__cmpconsentx18741",
+        "domain": ".www.ruhrnachrichten.de",
+        "path": "/",
+        "expiry": "1772120772",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CQboTlgQboTlgAfLlCDECHFgAAAAAAAAAAYgAAAO2gBAA4AdsAAA"
+    },
+    {
+        "name": "__cmpcccx18741",
+        "domain": ".www.ruhrnachrichten.de",
+        "path": "/",
+        "expiry": "1772120772",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "aCQboaWuAAsAQhhIxSJiYAgIgDSSCYoGgCQjAA"
+    },
+    {
+        "name": "foo",
+        "domain": "bdp.ruhrnachrichten.de",
+        "path": "/",
+        "expiry": "1795880800.25654",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "435df183-fbdb-44bc-a6b1-bf6a35ed2fe0"
+    },
+    {
+        "name": "sid",
+        "domain": "ruhrnachrichten.weekli.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "a0uoia247siddpm0hjdb0n4c6c"
+    },
+    {
+        "name": "bdp.ruhrnachrichten.deid.5a42",
+        "domain": ".ruhrnachrichten.de",
+        "path": "/",
+        "expiry": "1827416799",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "41575cf9-6148-44b1-931a-c3ae8c73f8df.1764344771.1.1764344800..6342f8a3-e6bb-4e4e-b466-7f9bec173637..8a60cdc8-a3b7-4de4-9697-e1668a583d65.1764344771954.47"
+    }
+]

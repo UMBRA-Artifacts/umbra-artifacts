@@ -1,0 +1,122 @@
+[
+    {
+        "name": "gig_canary",
+        "domain": "cdns.eu1.gigya.com",
+        "path": "/",
+        "expiry": "1764324011.34309",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "latest"
+    },
+    {
+        "name": "TCPID",
+        "domain": ".tf1info.fr",
+        "path": "/",
+        "expiry": "1798278611",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1251151850117069901090"
+    },
+    {
+        "name": "_pprv",
+        "domain": ".tf1info.fr",
+        "path": "/",
+        "expiry": "1798451411",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6ImVzc2VudGlhbCJ9LCI3Ijp7Im1vZGUiOiJvcHQtaW4ifX0sInB1cnBvc2VzIjp7IjAiOiJBTSIsIjciOiJETCJ9LCJfdCI6Im15NzNqYXExfG1paW9sdGUxIn0%3D"
+    },
+    {
+        "name": "tc_unique_id",
+        "domain": ".tf1info.fr",
+        "path": "/",
+        "expiry": "1798451411",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "V1202511281850110.9199869629417465"
+    },
+    {
+        "name": "AB_test_privacy",
+        "domain": ".tf1info.fr",
+        "path": "/",
+        "expiry": "1766915411",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "A"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".tf1info.fr",
+        "path": "/",
+        "expiry": "1798451412",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22browserId%22%3A%22miioltdw50sokd6s%22%2C%22_t%22%3A%22my73jauh%7Cmiioltih%22%7D"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".tf1info.fr",
+        "path": "/",
+        "expiry": "1798451412",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAJ4B2AMwArQmHoAffvXqVU%2BBSAC%2BQA"
+    },
+    {
+        "name": "apiDomain_3_V0V05QSzDCimJF1kAfErvJQh1P_rQM90AuYUAbZtugjVzudO7Z9K-ijgH47eDMhd",
+        "domain": ".cdns.eu1.gigya.com",
+        "path": "/",
+        "expiry": "1795859412",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eu1.gigya.com"
+    },
+    {
+        "name": "gmid",
+        "domain": ".gigya.com",
+        "path": "/",
+        "expiry": "1795859414.17858",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "gmid.ver4.AtLtLAe-6g.sfrW3AO6i4CbGXPcW9DbQjCNBA9Nlci1OdJJV8FHcWpUBi_5iyBRoo8rbTlYk9OJ.YgH79WjVp5f9wUqxDk9qsMmp-RYCDMKFN2w8jVlQA2PSMKyGOr3anYPWihmF51N0u5xGL_OXyQhGvoZczFC4fA.sc3"
+    },
+    {
+        "name": "ucid",
+        "domain": ".gigya.com",
+        "path": "/",
+        "expiry": "1795859414.17867",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ykWElEJI3ASotI6FWhl-yA"
+    },
+    {
+        "name": "hasGmid",
+        "domain": ".gigya.com",
+        "path": "/",
+        "expiry": "1779961814.17872",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ver4"
+    },
+    {
+        "name": "gig_bootstrap_4_F6eVPrlCIOuV0NqD5VXolg",
+        "domain": ".tf1info.fr",
+        "path": "/",
+        "expiry": "1795859413",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "_gigya_ver4"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "COOKIE_SUPPORT",
+        "domain": "www.iberdrola.es",
+        "path": "/",
+        "expiry": "1795881044.56081",
+        "httpOnly": "1",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "true"
+    },
+    {
+        "name": "GUEST_LANGUAGE_ID",
+        "domain": "www.iberdrola.es",
+        "path": "/",
+        "expiry": "1795881044.56114",
+        "httpOnly": "1",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "es_ES"
+    },
+    {
+        "name": "JSESSIONID",
+        "domain": "www.iberdrola.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "ARYomm6IB_Sa7a_ej-nxjRbFsMUE2xdyV0gHTstw.illfray40449p01"
+    },
+    {
+        "name": "NSC_wt_mc_bqbdif-12262",
+        "domain": "www.iberdrola.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "4bb3a3d899f14f687e8abbe2c5799a6b594619209040dc3cd326dbbf82a419619ac0af19"
+    },
+    {
+        "name": "bm_sz",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1764359441.56145",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "7E0CF5A4729458799452435D2EFE44EF~YAAQNa0sF8/af8GaAQAAUt4oyx3YJ9pVzPY4BFH4tip2Uz7h2HkK2kjif6EzxO4RkEXLmjxC1Lj6EChTbw0EXigV2940dKy9mRmXqrET296wDzrVqdfGG1r5kBmr5V+OPdVHh8Jj0lNcV8svRsvbziYJE8lTNdRE/rHwZPTYPdngmZsU8Kc4uDfb11/f4I6mLpa57TGSivJB6hx4DF4UfM5b5cNzKTFnaqXycgHgVi/oozsSojoP4OeADwSLmJVxNvftc5lToIOmHQFd4V5LvnQUd3WHslPx0Q0AY57tNu9xtuI/P4nQ5TKex59Rsx/Um6RObH4X8ulwsApANnHly5YUvM+yz/5BLBtbdLb9E8qwZMBwONhFodr4O81tm1Yylkgftqi+xuZnzmrLfKez+5vb~3359537~4534322"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1795881048",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Sat+Nov+29+2025+00%3A50%3A48+GMT%2B0900+(Korean+Standard+Time)&version=202505.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2ba46434-f4e6-492c-9b04-2e65681b06fa&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.iberdrola.es%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0"
+    },
+    {
+        "name": "conversion_path_fecha_visita",
+        "domain": "www.iberdrola.es",
+        "path": "/",
+        "expiry": "1769529049",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "2025-10-29 0:50:49"
+    },
+    {
+        "name": "conversion_path_url_visita",
+        "domain": "www.iberdrola.es",
+        "path": "/",
+        "expiry": "1769529049",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "https:\\\\www.iberdrola.es/"
+    },
+    {
+        "name": "ak_bmsc",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1764352241.18943",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "B6A7D12DC9952AC7DFE21AFBEE487340~000000000000000000000000000000~YAAQNa0sF0Xdf8GaAQAAZvAoyx1EX1h4bnaGlcKDZbZj4XgiSsXfxHPzJyWonbTSAsH5gtyav4W4OjLHQzDc0H37YJAvF/4fMA+13VRC7zat8GgbdmzJMOJXshbOMb8O8Icd/YzC7vGCI2meSsbzT/OfRZihueXEeKjrA/H2L5gRoXVtMz/OYllJv/uT94FMfPLOMqHOolvwLcLcm20mgkc45LZfEHEmW/LNQ36mB36dxb72/m0/8HjbXIuphNF/O9spEIvzh3w65MsqzIg3LQmFqc+t04/n5F2KGzl7n1A5YR34uJD8XoWGBnROoGqfKWwOkhRcyt+oQxFfIJB43Da0z8nDdlEAiUktoCrS1nfkj1a7zl5GJPjoecEmgEapHxcb2kvVi6E1dQKfVrjA2pjagmLk5smlWv53lOPvQzLyflxkoWY/BWoVnHi4qB1OL5wCsSfzDoL8qhwH/a6qZ3YGQwalVvc2sCcq+0risYGRt60k6CpEUWDPtMlIRQnbjkQfrdAh"
+    },
+    {
+        "name": "_abck",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1795881050.01914",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "6B4E261738F891D6D89162450276618A~-1~YAAQNa0sFw7ef8GaAQAApfMoyw7Mh96N2FAs4zTLcZqgtAvIPKCbYcWj7oVM49bLuoSy791CA1GFB+Nzy8ikkHqcyYzl5gF6cWMQtFhbrZtOQIvQ9vGuoggz35LvETfu/0VxV2iHFB3b2b9TR/bNg5yfDJI6SFRf+Sq3rh5zL8trU7gKhfAJHmmAAqNngQe2PqVOuNn3G/h5LR2WjTDWs9uat5Lb3qiHFIkAE/aBlcd2/DKrqQGATdE8LU9PFavzBTISHK/CDRUu0pMRc/R/DWmFOI4NDRcqvkbcO958WrZYAxUmPZ39MegBv/cEkvPbVhNIbX1oQBqEvUYIXLbgjrSy7jCQ97yaW/NUkOTEdeIYspbD7tVuXI23kuQQoIulRw1NgGtirLPaWydWqJPYBAvOL1dHOaDCsCxwPJpwqyDEUbE/+axCFxRF33AA0qEodwTlSN8WC/Y++rNg3fz04zt0vBUi8mLuJngquef2Rpk6wKpLB4RpjAfbpmnucHmbsDrXVbvnjBa78SzIrU90gxyp9KIZ+ok0uo66QpHryd7MGei1qCKs9oFsTAuVnr1OUujTA85EKa3pB5bQU4z0GxU=~-1~-1~-1~AAQAAAAE%2f%2f%2f%2f%2f%2f7ttqnKpKikTU4nXgyF6Kd1VmXOLYPe+WFQFr6xV3q8Of7snMJ4naLV1hX2xcrn7k7DJImYmfL6Q7v9BRESiGz0GZhubqAS0Gjj~-1"
+    },
+    {
+        "name": "bm_sv",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1764352248.11094",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "A7A013224C7E0D3CE540945F40168A80~YAAQNa0sFyTef8GaAQAAAfQoyx2nnLEkql5dT3TpqojgrgHnqXoILZVKgs4fsZ+fODiBNerRljdgPOqS/zoSRu/4EoYvkKwS18dR5HG7axEMFbWTYMhNpKBmueknFD3CFZkWZXe2KHVbhY8nDA970MNld6oH7e8pEAyaSB14m1BXuWdQbXkJ2xXb6Mi7R3awmUFq8tZoZgHoeaMw/bi+iIypgDjz6+ynaHh5DOwR01iQCrE7fDbKpqlBBj7TvqlRtUg=~1"
+    },
+    {
+        "name": "RT",
+        "domain": ".www.iberdrola.es",
+        "path": "/",
+        "expiry": "1764949852",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "\"z=1&dm=www.iberdrola.es&si=b1c72153-1e8d-49cb-9b77-bfdcf50ac9cf&ss=mij1hejo&sl=1&tt=8gf&rl=1&ld=8gh\""
+    },
+    {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "path": "/",
+        "expiry": "1798041053.21501",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1B4105DDBB006358002D136FBA296276"
+    },
+    {
+        "name": "MR",
+        "domain": ".bat.bing.com",
+        "path": "/",
+        "expiry": "1764949853.21512",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "_uetsid",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1764431452",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "047a08d0cc7211f0bef1db610753352f|zobtqd|2|g1e|0|2158"
+    },
+    {
+        "name": "_uetvid",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1798041052",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "047a3330cc7211f095e2255b19500b24|vkvhn4|1764345052655|1|1|bat.bing.com/p/conversions/c/l"
+    },
+    {
+        "name": "QuantumMetricSessionID",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1764346872",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "39beb190e9eec704716222e0ddd05cf8"
+    },
+    {
+        "name": "QuantumMetricUserID",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1795881053",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1a0c52512b5b0c8796d6d4eb115fc780"
+    },
+    {
+        "name": "_womtp_id.27415bd060e971dd45ac7f9fd48a489d.988b",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1827417056",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "fbfea1076d3f23e5f7b873df799b1971d05be73c.1764345056.1.1764345056.1764345056."
+    },
+    {
+        "name": "_womtp_ses.27415bd060e971dd45ac7f9fd48a489d.988b",
+        "domain": ".iberdrola.es",
+        "path": "/",
+        "expiry": "1764346855",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "b768942349cc2ce1ddc34eccf8c7f318edb68463"
+    }
+]

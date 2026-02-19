@@ -1,0 +1,52 @@
+[
+    {
+        "name": "JSESSIONID",
+        "domain": "www.bancaditalia.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "F739588B88D76F486A5971FD0C103E35"
+    },
+    {
+        "name": "dmid",
+        "domain": "www.bancaditalia.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "45c4bdd3-66a6-40dd-9caf-6a828e275f88"
+    },
+    {
+        "name": "TS012609f9",
+        "domain": ".www.bancaditalia.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "011612bbe90e2b2101275d85b51b967447dd710528334426bed945793b34b20d3f8ef410be7edaa27a87db6a20e1bdfbd8f766b3f73f5937e82bed228d7ebd00e9552892bda4f73aea61aeb7e3abc54f6bf7c818dd"
+    },
+    {
+        "name": "isCookie",
+        "domain": "www.bancaditalia.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "OK"
+    },
+    {
+        "name": "cookiepolicy",
+        "domain": "www.bancaditalia.it",
+        "path": "/",
+        "expiry": "1779712878",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1-1779712878126"
+    }
+]

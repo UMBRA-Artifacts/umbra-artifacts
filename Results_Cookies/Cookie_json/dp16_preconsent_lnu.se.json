@@ -1,0 +1,52 @@
+[
+    {
+        "name": "ASP.NET_SessionId",
+        "domain": "lnu.se",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "p3tknkixdrvalfi3slk3yc4a"
+    },
+    {
+        "name": "EPIPRODSRV",
+        "domain": "lnu.se",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".fonts.net",
+        "path": "/",
+        "expiry": "1764076373.73766",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "vr0xHH.khy6jFSrVXuCq56g4j4EGl06GAF_9CqFXHmY-1764074573-1.0.1.1-hqFfkQOHAQYAO0Cmbw.SBF6Sxtzem7Jh7qV..UtNlrbNbzTEjkUHs4..10Rl1BOZsrcyxNrzQZ1PjZrX6y9yt9ddwj.XslJ9w4c839RinjQ"
+    },
+    {
+        "name": "imgvault5SVR",
+        "domain": "lnu.se",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "2"
+    },
+    {
+        "name": "cookieyes-consent",
+        "domain": ".lnu.se",
+        "path": "/",
+        "expiry": "1795610573",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "consentid:cFhvS1NvNmQyNkl0eTZWYjF6WGtiZ1pRcm9abGNBQ0I,consent:no,action:,necessary:yes,functional:no,analytics:no,performance:no,advertisement:no,other:no,lastRenewedDate:1727958710000"
+    }
+]

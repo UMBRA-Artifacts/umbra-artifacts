@@ -1,0 +1,112 @@
+[
+    {
+        "name": "CMSSESSIONID",
+        "domain": "www.pzu.pl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "Q6prztJblCBmHc4JcM6Any0pb81izR5gHyaboDK9.solum4"
+    },
+    {
+        "name": "restricted_data",
+        "domain": "www.pzu.pl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "!zX5Mo7I70p44MseCfZe1ivJw01U60h3nCPZC8DIZbw8AZy/E7xeyM8TGSW5pEjLbZLrrKndS6n3liWA="
+    },
+    {
+        "name": "TS018ad5aa",
+        "domain": "www.pzu.pl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "010a4be0372b6875ad1cb40d3d6885db37b5f9f0978524c1a7b5148542eccb4312aef0d6fbffcbfdad4f5d998320913490ca4f1986"
+    },
+    {
+        "name": "__cmpiuid",
+        "domain": "d.delivery.consentmanager.net",
+        "path": "/",
+        "expiry": "1798349720.99762",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "b915bd40de9de8caa62e97f4e7a2af19"
+    },
+    {
+        "name": "__cmpiuid",
+        "domain": ".pzu.pl",
+        "path": "/",
+        "expiry": "1795757723",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "b915bd40de9de8caa62e97f4e7a2af19"
+    },
+    {
+        "name": "__cmpcvcx85227",
+        "domain": ".pzu.pl",
+        "path": "/",
+        "expiry": "1769405723",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "__s1052_s23_c47900_s2612_s1104_s1409_s905_s977_c46484_s1475_c49779__"
+    },
+    {
+        "name": "__cmpcpcx85227",
+        "domain": ".pzu.pl",
+        "path": "/",
+        "expiry": "1769405723",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "__1__"
+    },
+    {
+        "name": "__cmpcvc",
+        "domain": ".pzu.pl",
+        "path": "/",
+        "expiry": "1769405723",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "__s1052_s23_c47900_s2612_s1104_s1409_s905_s977_c46484_s1475_c49779__"
+    },
+    {
+        "name": "__cmpcpc",
+        "domain": ".pzu.pl",
+        "path": "/",
+        "expiry": "1769405723",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "__1__"
+    },
+    {
+        "name": "TS33830425027",
+        "domain": "www.pzu.pl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "0815fe60cdab2000ae94a4861899e10c57303da6c3f75e3c34133ce62e15dffcbf60756d3e0a8e3508e527638a1130004dddefc0e4a41b13cd3f18a3637b4e93f1e3375c032c10080a915c2f49fa3ce04e6f84bd7d94853d8e1368c0062bde88"
+    },
+    {
+        "name": "_dd_s",
+        "domain": "www.pzu.pl",
+        "path": "/",
+        "expiry": "1764222648",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "0",
+        "value": "logs=1&id=dae360cf-6cc1-485f-9f7c-3050b2cb8f28&created=1764221726219&expire=1764222626219"
+    }
+]

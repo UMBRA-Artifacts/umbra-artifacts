@@ -1,0 +1,72 @@
+[
+    {
+        "name": "JSESSIONID",
+        "domain": "www.inrs.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "38E56AA8E2D48536518DBFDA99C45DBA"
+    },
+    {
+        "name": "hst",
+        "domain": "www.inrs.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "server1"
+    },
+    {
+        "name": "_pprv",
+        "domain": ".inrs.fr",
+        "path": "/",
+        "expiry": "1798563283",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6ImVzc2VudGlhbCJ9LCIxIjp7Im1vZGUiOiJvcHQtaW4ifSwiMiI6eyJtb2RlIjoib3B0LWluIn0sIjMiOnsibW9kZSI6Im9wdC1pbiJ9LCI0Ijp7Im1vZGUiOiJvcHQtaW4ifSwiNSI6eyJtb2RlIjoib3B0LWluIn0sIjYiOnsibW9kZSI6Im9wdC1pbiJ9LCI3Ijp7Im1vZGUiOiJvcHQtaW4ifX0sInB1cnBvc2VzIjpudWxsLCJfdCI6Im15OHk1MzdkfG1pa2o3bHZkIn0%3D"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".inrs.fr",
+        "path": "/",
+        "expiry": "1798563283",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7B%22browserId%22%3A%22mikj7lv9omeka7w5%22%2C%22_t%22%3A%22my8y537s%7Cmikj7lvs%22%7D"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".inrs.fr",
+        "path": "/",
+        "expiry": "1798563283",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAJ4AOQQFYAzAHZ8AH370A1gCspqAG58AvkA"
+    },
+    {
+        "name": "OptanonAlertBoxClosed",
+        "domain": ".www.inrs.fr",
+        "path": "/",
+        "expiry": "1795971286",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "2025-11-29T16:54:46.015Z"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".www.inrs.fr",
+        "path": "/",
+        "expiry": "1795971286",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isIABGlobal=false&datestamp=Sun+Nov+30+2025+01%3A54%3A46+GMT%2B0900+(Korean+Standard+Time)&version=6.27.0&hosts=&consentId=4721eacd-fee9-4d85-afd0-dcfc70327cd1&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0007%3A0%2CC0008%3A0"
+    }
+]

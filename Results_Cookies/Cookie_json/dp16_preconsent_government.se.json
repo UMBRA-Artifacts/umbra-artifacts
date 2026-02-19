@@ -1,0 +1,42 @@
+[
+    {
+        "name": "__cf_bm",
+        "domain": ".regeringen.se",
+        "path": "/",
+        "expiry": "1764358345.10605",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "SjqcWTTpEFw7likW6TIRIlTWIZsgfHkVBqpFq4OIXHc-1764356545-1.0.1.1-yZRyesAiDl4fp2_aNZ0p2v7xoriQQId28hey4LhfSubIz05_Bo1IcF6P19nuqZO51D2v02WqJvP5BJl6FXWF7t88X57Ji0OnZ5KYht.4AY8"
+    },
+    {
+        "name": "_pk_id.10.2f61",
+        "domain": "www.government.se",
+        "path": "/",
+        "expiry": "1798311745",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "ca4eb40fe2a77e53.1764356545."
+    },
+    {
+        "name": "_pk_ses.10.2f61",
+        "domain": "www.government.se",
+        "path": "/",
+        "expiry": "1764358345",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "cf_clearance",
+        "domain": ".government.se",
+        "path": "/",
+        "expiry": "1795892546.18167",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "4_NZtK2r5VO9vta7z4CdXMszSgHPWwco.mzuXBY_q.w-1764356546-1.2.1.1-wnrLYUMzvQwiN8b2_7uQG0uLVQ77wPTC0uMnMg5idDdzynXrpjjs.OESg2oX_TIEQTaN0lsJNoPfI_sQTqfTP5GT8Sg9GHjf6OMnv.bERYxyDOWk5Jh7P2eyeCvIFoCVU0CNpfZYU5oCj6IRcpbpMuEQNNLHUgd9SnfyfzVbJriZ2xb97n3.nBfWhgKRwJ_AQyWIIXzEijClBSaDwMP_e16roN8JMpqvo9O6fRYldS4"
+    }
+]

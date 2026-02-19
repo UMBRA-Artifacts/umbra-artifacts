@@ -1,0 +1,142 @@
+[
+    {
+        "name": "cs_fpid",
+        "domain": ".omroepbrabant.nl",
+        "path": "/",
+        "expiry": "1772020256",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "d1259d9c-87fc-4352-bdce-4a0bbbe5c08d"
+    },
+    {
+        "name": "deq_pers_digitalEventQueue_l",
+        "domain": ".omroepbrabant.nl",
+        "path": "/",
+        "expiry": "2079431456",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%7D"
+    },
+    {
+        "name": "deq_pers_digitalEventQueue_s",
+        "domain": ".omroepbrabant.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%7D"
+    },
+    {
+        "name": "pa_privacy",
+        "domain": "www.omroepbrabant.nl",
+        "path": "/",
+        "expiry": "1798199456",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%22optin%22"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".omroepbrabant.nl",
+        "path": "/",
+        "expiry": "1798199456",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22browserId%22%3A%22mieiljdemadthucl%22%2C%22_t%22%3A%22my2xj0pk%7Cmieiljdk%22%7D"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".omroepbrabant.nl",
+        "path": "/",
+        "expiry": "1798199456",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAJ4AmAB4ArAAwAHVAB9%2B9KPVTjWqEAF8gA"
+    },
+    {
+        "name": "deq_pers_digitalEventQueue_d",
+        "domain": ".omroepbrabant.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22pageview%22%3A%7B%22data%22%3A%7B%22page_referrer_input%22%3A%22https%3A%2F%2Fwww.omroepbrabant.nl%2F%22%7D%2C%22dataAttributes%22%3A%7B%22page_referrer_input%22%3A%7B%22expiry%22%3A%22DEFER%22%2C%22renew%22%3Afalse%7D%7D%7D%7D"
+    },
+    {
+        "name": "deq_pers_processedEventQueue_l",
+        "domain": ".omroepbrabant.nl",
+        "path": "/",
+        "expiry": "2079431456",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%7D"
+    },
+    {
+        "name": "deq_pers_processedEventQueue_s",
+        "domain": ".omroepbrabant.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%7D"
+    },
+    {
+        "name": "deq_pers_processedEventQueue_d",
+        "domain": ".omroepbrabant.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%7D"
+    },
+    {
+        "name": "_ain_cid",
+        "domain": "www.omroepbrabant.nl",
+        "path": "/",
+        "expiry": "1764073256.70627",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764071456704.554634256.8207692"
+    },
+    {
+        "name": "_ain_uid",
+        "domain": "www.omroepbrabant.nl",
+        "path": "/",
+        "expiry": "1779623456.7065",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764071456704.539189152.623848"
+    },
+    {
+        "name": "UID",
+        "domain": ".scorecardresearch.com",
+        "path": "/",
+        "expiry": "1797767457.40388",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "100dcbd5ec9754fa1fab37c1764071457"
+    },
+    {
+        "name": "XID",
+        "domain": ".scorecardresearch.com",
+        "path": "/",
+        "expiry": "1797767457.40394",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "100dcbd5ec9754fa1fab37c1764071457"
+    }
+]

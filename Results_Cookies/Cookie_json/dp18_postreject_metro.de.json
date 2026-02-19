@@ -1,0 +1,142 @@
+[
+    {
+        "name": "bm_ss",
+        "domain": ".metro.de",
+        "path": "/",
+        "expiry": "1764083348.52356",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ab8e18ef4e"
+    },
+    {
+        "name": "bm_so",
+        "domain": ".metro.de",
+        "path": "/",
+        "expiry": "1764166148.52397",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "2DFC06713F1EDB6F00013750D72B67B02BD55CC81BAB9BA7796AF5B03525A57D~YAAQnEg7F2987KqaAQAAs8VYuwXqK3OJF0wPtiZSXdZBIUJaByi7gJVejov40NwmeuoCl9/QujT1L3KnpxK5xyeMiNQgy9Dt2tDxzt/vg4gEhqwfPi1eD7h4rcZoFOu8I+2GonvlVz81x/KeRXXheH2SCXyrpINhRTDz6ACXs0c6BPBWSI8rbtyHEvuISIBBp/m9nV5rFhl61Zt//Doiar+Wwxtj8NhsCVWb5sNiYWCI8LzDrQEhlXWxMgfavFtjhEH6mnepteJeENth/peiK1g5sr/F5iIOhbuCb5MwqLEWWaW77voTvDtfaAlRq22P5d/qY/hWVhDAvvtVp0NV8dpG2z32uuUE2fuGjiZeONl8ztaLnXTsu88dS0jI6OF8RtVV7EaiMquUJYiiw3vcOfXg7lLdUc8kcJOnZqryuVIwIdYOe/UmC0eQroAa+c47Xb5aUhzHFAH00uwrxkg="
+    },
+    {
+        "name": "bm_lso",
+        "domain": ".www.metro.de",
+        "path": "/",
+        "expiry": "1766671749",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "2DFC06713F1EDB6F00013750D72B67B02BD55CC81BAB9BA7796AF5B03525A57D~YAAQnEg7F2987KqaAQAAs8VYuwXqK3OJF0wPtiZSXdZBIUJaByi7gJVejov40NwmeuoCl9/QujT1L3KnpxK5xyeMiNQgy9Dt2tDxzt/vg4gEhqwfPi1eD7h4rcZoFOu8I+2GonvlVz81x/KeRXXheH2SCXyrpINhRTDz6ACXs0c6BPBWSI8rbtyHEvuISIBBp/m9nV5rFhl61Zt//Doiar+Wwxtj8NhsCVWb5sNiYWCI8LzDrQEhlXWxMgfavFtjhEH6mnepteJeENth/peiK1g5sr/F5iIOhbuCb5MwqLEWWaW77voTvDtfaAlRq22P5d/qY/hWVhDAvvtVp0NV8dpG2z32uuUE2fuGjiZeONl8ztaLnXTsu88dS0jI6OF8RtVV7EaiMquUJYiiw3vcOfXg7lLdUc8kcJOnZqryuVIwIdYOe/UmC0eQroAa+c47Xb5aUhzHFAH00uwrxkg=^1764079749433"
+    },
+    {
+        "name": "BIGipServeridam-akamai-80",
+        "domain": "idam.metro.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "!/PrD4htiVSOClD37K3HPuPAXpNCsGGoHPATbg90O5fKtoPEiVq1oNg4Yh8QBWxcky8di7Uuyky7PY2c="
+    },
+    {
+        "name": "TS013eba19",
+        "domain": "idam.metro.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "0179c221a71fd042b34736dad60209c7089cb97238af3a1737f2119309bd3f029e0fbbc2e7fed8f5f16311e0f225802e2fe1cc80ef"
+    },
+    {
+        "name": "ak_bmsc",
+        "domain": ".metro.de",
+        "path": "/",
+        "expiry": "1764086949.75106",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "E8191CF2BC5C9CB38EB0836475B1EA63~000000000000000000000000000000~YAAQnEg7F4N87KqaAQAAf8pYux1lep0SMoyEJg9nknG119PZtNSRUvrd3TU65tp+AjvxXtg6PlrzCci9KVwZLkX/IP39RmY/ZJgIvS97pMA7X9OGAvIJsSWqnwDIQq+Jdp0jfrZoNvicjfpb8laokh3/+Dtbts9T8JhRLGC+6wejvZAxB90jg2XhxwVvA9rXFLT1uVpxAe0c03atuqv0QQZULtJWxp1IqhUhorVX0oTtuTlXCpTQVceZZ7DrQF11GHaK3Y/uJALZdwmTtR1Zr8rPqVBUpMEw2rDVmeikn8e0bIzVA+o6lxeLaGJ+EkNRuMlWvvmP4MvFlTSU2vhI0nb8BWiv+BsPg3SRJtm33L1DKK9EjfB58LikF/lPLha2wKA/eNy3wF0LB69M"
+    },
+    {
+        "name": "UserSettings",
+        "domain": ".metro.de",
+        "path": "/",
+        "expiry": "1795615749",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "SelectedStore=23819366-8454-44ad-b22a-00bcef118209"
+    },
+    {
+        "name": "bm_sz",
+        "domain": ".metro.de",
+        "path": "/",
+        "expiry": "1764094149.4116",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "584CD6E44091BBD84AB0090A1E6A3302~YAAQr0g7F77a+auaAQAAEs1Yux3fIqE0soN0q3T/TfcLdfPgYbc80YsWEx1TxgI2qFoX8Q2TnJxXeWSpiP5fEDCJqAoSoNHvTRzq5SyrcjlDIR8zH9vXZOZcRq+/JrzMk+j3PSy6TMnzLIUeB7xTyMqykh/1G051r9UxVJp9ohc1iGllCY6VdUw6h8cKBXQAj46acL+0CUkjoUA4t+qgMg39HfYS4or8+aqFtt2rvqFZvFqlt/DcrjgpcHZ0LfYlSybM1plZIfKzGuivXk+t3wonhhvY6Lg60ttzxFsbvgWuHsunU+J9SUBvyeSpT++Jey13SwfnZPhSibujwgHMxkFWQU8VWXQ3qrDFbyfpyrd8yF5Np5FlzdxrYl01~3289657~3224375"
+    },
+    {
+        "name": "allowedCookieCategories",
+        "domain": ".metro.de",
+        "path": "/",
+        "expiry": "1795615752",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "necessary%7Cv1"
+    },
+    {
+        "name": "_sid",
+        "domain": "www.metro.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "kishg2msbv5gkexlqmscxtsn"
+    },
+    {
+        "name": "TS0bf00709027",
+        "domain": "idam.metro.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "0858f2ad78ab200051c32839b0123d8f2922c357fc29ca012732c47d221de527440185be069349b8080bfa4b13113000f561e2e226d1a2b4c8a95613dec431ca38bbb9234a6c987f710b4776c8d13448031e23f665b4b004fc05a6b0b0b70b5e"
+    },
+    {
+        "name": "bm_sv",
+        "domain": ".metro.de",
+        "path": "/",
+        "expiry": "1764086953.67536",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "914888293CA7CC144256C8A24595032C~YAAQr0g7F/na+auaAQAA0tlYux0P5KlH0jULIWpX5IzexXWMVqiT/Myq32KRixEV6tefPOHr3i8R43LMl+uQMwIA9fRkPrzeHFGW0eLIxWZJ6jZHqt44kS7uC5Gdo2w+QWhMeyMwthlcAKLY4G4DMwjTN5I+muwILkdwCmzRbvtqocQgfbtM5OLYSm4Mjn6+nwOpVvn/vFj5b/piERTk4Jw7GxJq/qDEy3WXQr5mXEAc0MGFHYN7YCGn1wYocw==~1"
+    },
+    {
+        "name": "_abck",
+        "domain": ".metro.de",
+        "path": "/",
+        "expiry": "1795615755.37305",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "E44A18393AACF6DB586D1252A2240500~-1~YAAQr0g7Fxbb+auaAQAAdOBYuw78FFbZof6V2WQOfb4C+YR6VL4yaaZG4Sh310vcb9tj1x8P90PLIsbElUCKmme+EV5ouhyrhcLnkQYxodRlmSJWo71+h9IqNXdbHCsGhr9ICXttZrMceVc+HwSxXATAU7X/XcggzEeIJ08x8Ho3HEgn+Zr2cfOSMuJTa0Uf55bG5n4jAZtCFcIGgknZGY4kC+0M+0zwMYNz+G55uz2aV97bwWKoEoEa3Ts9/KcDoQnwE02KL7j8begsq64cgitOPVEVCgr8CPNCKS6NWilQE1/GsUH9QJgna/dTQsSfbaww4W1IHEz8qWELEpbWL2n0sFowSDd1JkP4GfVX3mldadH+I4onWa1TuM4YJtODAkTHCElIywafQsuQZPa54+EBilT9KIA3CkJDTecJtW/CSoQ1BuBFGVajwMN3vGFDxQiWMYEjxDyLqj1hnwRMuYvpdZXkfFgTvI3W1HrhJytf1WwV419zrXSnoGy5sD5xC0VwbqWYEMqKD+ja4SqJv5NZpp7fswOR7oxj8u7m25z4wq6qg99+3nJfMkY3zPzsqIBaIpgEZJ1T4GGx5vnuER8dxg11P0g/9g2sjoMpKXGDu4B6beZ80xc=~-1~-1~1764083350~AAQAAAAE%2f%2f%2f%2f%2fxd+DNpYTDuGG4oFZBvgDf29A6xBCKgogbKvgIrAU3PyyZFCGu+TT0w7yL81T0e9+qvtxd4v0svkOZbvhSvVmt1GaVeXjI60Yapt~-1"
+    },
+    {
+        "name": "bm_s",
+        "domain": ".metro.de",
+        "path": "/",
+        "expiry": "1766758156.91236",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "YAAQr0g7F1nb+auaAQAAd+ZYuwREoNlp2spTTDt0tdgtbd2i1YB6AC1c6WXFIvABzDJZshkL6S1H1HSjGGkBjQ15GPwCt4MOaFNMbrY2T4KD705n8DklOZB+qfEFYYaOQqs0cZCXwykRbZfxiYH9VIhNYa+emAwsBN2pjN2zhXvU0x9DLDLrm57WcRXb83N0Q6Q+N812WHTkjxFmr5MR7aarirgt31L6dCSc3k1zewM4MNI+6NPhCun6lv+yAJc9ug4HzCPnu9VdtksotKR0uIKvQZuZiWaTN9/NY1YBQvEkNo+Km/iE+27BR9XgMBPAAbkfbe41uOolQWr8ww+5YrGGKBWL5POxt+S9PaEDgm6rUuRyr9mYSLl6KsfZU26wEw/+KsCaJRbEJjmqz0iKY+H87OLg5gbuMEL/7WTtcGBT8BqoIvY6E96ClD4la3OsnxnD2LZu4I7x4jwlAeqcoLk0gEkusRIFDBgOnEVyWwN5YYm2ydzAEk3p5M1NdPvrHcS5gCWFkv5dNPQhhSPPSk/M82hEC7hVBqK6bRZeH56kaSSUgYBKqw=="
+    }
+]

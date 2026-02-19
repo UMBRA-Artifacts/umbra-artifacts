@@ -1,0 +1,152 @@
+[
+    {
+        "name": "dm_web__device_uuid",
+        "domain": "www.docmorris.de",
+        "path": "/",
+        "expiry": "1772203574.05794",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "89667f9f-a2ea-4e38-85e3-bbaae9b82bb6"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".docmorris.de",
+        "path": "/",
+        "expiry": "1764429375.05829",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "HjpGMOediBG8qkpdUAAIne2fFAgNyettFX05QNrauGM-1764427575-1.0.1.1-JccsJpMPEM02rlHZZg28vK.exNnvy6vAfB6w.xTuhQCtkF5tUTHmQunTm84dgV665By4PemBtCPz6TBrXpqSF7Q1OiPReUJe1Udj2UzCwzs"
+    },
+    {
+        "name": "_cfuvid",
+        "domain": ".docmorris.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "4clSDdKX2phI5H_Bk5IH4Xxau1i8XO7bNNvsIa7zdfg-1764427575053-0.0.1.1-604800000"
+    },
+    {
+        "name": "__Host-next-auth.csrf-token",
+        "domain": "www.docmorris.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "c2f9f52fb5c1c3e61179040fdeff3d5f24766216af1b302e652cec45da050081%7Cb34e3042fbcb7bb2800cd098e94a47b815eda992b955647a919b8f291bb15f41"
+    },
+    {
+        "name": "__Secure-next-auth.callback-url",
+        "domain": "www.docmorris.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "https%3A%2F%2Fwww.docmorris.de"
+    },
+    {
+        "name": "dm_web__new-registration",
+        "domain": "www.docmorris.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "on"
+    },
+    {
+        "name": "dm_web__new-login",
+        "domain": "www.docmorris.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "off"
+    },
+    {
+        "name": "dm_web__new-password-reset",
+        "domain": "www.docmorris.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "off"
+    },
+    {
+        "name": "__update-username",
+        "domain": "www.docmorris.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "_c321test_"
+    },
+    {
+        "name": "__cmpcpcx8604",
+        "domain": ".docmorris.de",
+        "path": "/",
+        "expiry": "1767019580",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "__51__"
+    },
+    {
+        "name": "ab.storage.sessionId.a59fb495-8456-458a-9058-201f2ee17edd",
+        "domain": ".docmorris.de",
+        "path": "/",
+        "expiry": "1798987579",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "g%3A10e30fb8-97dc-896e-0d1f-8b149cf6440c%7Ce%3A1764429379725%7Cc%3A1764427579725%7Cl%3A1764427579725"
+    },
+    {
+        "name": "ab.storage.deviceId.a59fb495-8456-458a-9058-201f2ee17edd",
+        "domain": ".docmorris.de",
+        "path": "/",
+        "expiry": "1798987579",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "g%3Af826f8d3-9c76-c7f1-04d7-68c1deacfa8c%7Ce%3Aundefined%7Cc%3A1764427579728%7Cl%3A1764427579728"
+    },
+    {
+        "name": "__cmpconsentx8604",
+        "domain": ".docmorris.de",
+        "path": "/",
+        "expiry": "1767019580",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CQboTlgQboTlgAfJcBDECHFgAAAAAAAAAAigAAAAAAAA"
+    },
+    {
+        "name": "__cmpcvcx8604",
+        "domain": ".docmorris.de",
+        "path": "/",
+        "expiry": "1767019580",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "__c2292_c78385_c2236_s23_c2202_s905_U__"
+    },
+    {
+        "name": "_dd_s",
+        "domain": "www.docmorris.de",
+        "path": "/",
+        "expiry": "1764428509",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "0",
+        "value": "rum=0&expire=1764428480686&logs=1&id=e77d7f34-4329-4376-975d-61d52a4b5330&created=1764427576531"
+    }
+]

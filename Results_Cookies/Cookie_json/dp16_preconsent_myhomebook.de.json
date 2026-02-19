@@ -1,0 +1,102 @@
+[
+    {
+        "name": "ak_bmsc",
+        "domain": ".myhomebook.de",
+        "path": "/",
+        "expiry": "1764442596.25496",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "628B916EDF703BA9F897BE01CE8D6F68~000000000000000000000000000000~YAAQFDggF9uyiqiaAQAAhoqL0B2wLUbqNHVaBaaJyPZLwC8UabkjbSSP00KgVbXHoj3OY1Yt4DB+hHYLHHhMyK9qMz1k6PsAq3/YVBD16/KANJPpd60agc9Y1M1GWa6VL7+ksLIOgobS13YvQih+Bvr4RnvC1Ld1pXHROlzitb0q2sCA7P4VbcfG1I0yxGtNVR7boJTG/cBUk4MGxBTJCgLtntgAG6zpRudkWwLNBxuZn+aef6h2ReCr9igvVPRRM9epPgsZj3dY3xQ0Jy+g8nnqQmrpuObiIg4e0LZAUnt2b8p9QYpeW+oiG5qRJUyu/P/mKL55ILjquw+hZ/QwQCffJzazXY4+5Ir9wmfKg19qxObOcgXaqtQDXi04I+kQI2AF54qeZcb3SZmEHXevPZw="
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".bitmovin.com",
+        "path": "/",
+        "expiry": "1764437197.44345",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "5EtsSlLo2FyTsV4rAXub01nAco2czokFZ9499c9rSBE-1764435397-1.0.1.1-jeOSU7K4gV.nK_R5LaTWKmx.k7IbYiDqYCj_.kaONADI78mKQ92SQ1rzYdcfaQvY4WJry4cJzIM7494AiqooKBWsfr3g1lMMy9wEWtPCtcY"
+    },
+    {
+        "name": "bm_sv",
+        "domain": ".myhomebook.de",
+        "path": "/",
+        "expiry": "1764442599.22284",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "BC94835F04326294327529A58E1F879F~YAAQFDggF/eyiqiaAQAANpKL0B2OwGs3T5sOYuB+uvWoj0VGBjxctheWXY61eX/F30+BK3on8RA6KDCUcvJiYt+1+bck/2Zj7mfVSoofRYDu58HXoAIKNY9ZDy0NKitU5p4dbZAqzsl+yyy9FQeMwMIrkLCjtk81B/bfKZrc1KHIlO3uVjyMumKNh9Xv1eFxYuESbOmj/7RgRxxBSRXboWASyrlJ5wqqDlLP0feJMPW0ng2WO5GDEFoHwVhfbZV/OyPF~1"
+    },
+    {
+        "name": "s_ecid",
+        "domain": ".myhomebook.de",
+        "path": "/",
+        "expiry": "1827507401.24177",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "MCMID%7C03341183422882075827865939786035655246"
+    },
+    {
+        "name": "AMCVS_B21B678254F601E20A4C98A5%40AdobeOrg",
+        "domain": ".myhomebook.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "AMCV_B21B678254F601E20A4C98A5%40AdobeOrg",
+        "domain": ".myhomebook.de",
+        "path": "/",
+        "expiry": "1827507399",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "-1124106680%7CMCIDTS%7C20422%7CMCMID%7C03341183422882075827865939786035655246%7CMCAID%7CNONE%7CMCOPTOUT-1764442599s%7CNONE%7CvVersion%7C5.2.0"
+    },
+    {
+        "name": "cmp_cv_list",
+        "domain": ".myhomebook.de",
+        "path": "/",
+        "expiry": "1767027400",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "adobe_cmp,"
+    },
+    {
+        "name": "_sp_su",
+        "domain": ".myhomebook.de",
+        "path": "/",
+        "expiry": "1795971400.08451",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "false"
+    },
+    {
+        "name": "s_cc",
+        "domain": ".myhomebook.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "true"
+    },
+    {
+        "name": "utag_main",
+        "domain": ".myhomebook.de",
+        "path": "/",
+        "expiry": "1795971401",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "v_id:019ad08b9244001f8973df6a8a0603068001a06001eb8$_sn:1$_se:4$_ss:0$_st:1764437201615$ses_id:1764435399238%3Bexp-session$_pn:1%3Bexp-session$_prevpage:myHOMEBOOK_home%3Bexp-1764439001617$ref_first:%3Bexp-session$vapi_domain:myhomebook.de$t_ss:1%3Bexp-session$my_ts:1764435400090%3Bexp-session$articleview:event207%3Bexp-session$channel:Direct%3Bexp-session$channelCat:%3Bexp-session$pa:%3Bexp-session$otb:%3Bexp-session"
+    }
+]

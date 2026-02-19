@@ -1,0 +1,132 @@
+[
+    {
+        "name": "__cfruid",
+        "domain": ".visa.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "3b500b7c32e156e908a4dfbd3296962b9525e753-1764163801"
+    },
+    {
+        "name": "_cfuvid",
+        "domain": ".visa.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "NyOrx3j8igVjVHhipaxm6Qlpv_IKeGNvshF61Gd_fMg-1764163801964-0.0.1.1-604800000"
+    },
+    {
+        "name": "__cfruid",
+        "domain": ".usa.visa.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "fc40e8b150e7deb29766a3544720cdf89243459c-1764163802"
+    },
+    {
+        "name": "_cfuvid",
+        "domain": ".usa.visa.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "hbWKf1VX9zVQqTPVou6biopLrALGNNqrR6qZebQMKU4-1764163802415-0.0.1.1-604800000"
+    },
+    {
+        "name": "__cfruid",
+        "domain": ".cdn.visa.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "d277f4fbab6200f03ce7263f3e70236cc23f45f4-1764163802"
+    },
+    {
+        "name": "_cfuvid",
+        "domain": ".cdn.visa.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "U893d0Qh82Xe760Mil9w2PZ8Iorv4J1.EMNWFqCGy84-1764163802740-0.0.1.1-604800000"
+    },
+    {
+        "name": "__Secure-YNID",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779715807.42238",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "13.YT=qzSwh49Cr4RHyfnmqWBqqfNECSd3h9YeP20fTYw5-Ch7CoAz442ZMM2XLCh5Tpz4nY9bOobXP3OfTyMDonU8Kf_gLZkIpY9iKhJt3rO0DjoijlblMcVoFtB952EUDz0_59y-S03VQTMjYghwQTlbjwz8Tu6xCBv6Y-uvQuwncel11mNq1qEBsbhC9qd2W40jS0WcCg4kPNOpvHCKfTvvR0qYjtSRZyFquo9acCKAkmPnEUv-12kqX1otM9IgoBssl8K4S8uvO_u6EZjfNUzf5udeo6WBcal1QpIGE4082IgTqlLmKuyAAE6LhydjN6m19AkCWS_tgX5Ylm5Rkze4Mg"
+    },
+    {
+        "name": "YSC",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2lzkCAdjWyw"
+    },
+    {
+        "name": "VISITOR_INFO1_LIVE",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779715807.42263",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "VPZDcwqZ9U4"
+    },
+    {
+        "name": "VISITOR_PRIVACY_METADATA",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779715807.42267",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CgJLUhIEGgAgUg%3D%3D"
+    },
+    {
+        "name": "__Secure-ROLLOUT_TOKEN",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779715807.42271",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CNjn2bTIwZG2sAEQkvq8qPaPkQMYkvq8qPaPkQM%3D"
+    },
+    {
+        "name": "optimizelySession",
+        "domain": ".visa.fr",
+        "path": "/",
+        "expiry": "1779715821",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1764163821812"
+    },
+    {
+        "name": "utag_main",
+        "domain": ".visa.fr",
+        "path": "/",
+        "expiry": "1795699925",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "v_id:019ac05b62e8001d2c762b12d11303068001406001eb8$_sn:1$_se:16%3Bexp-session$_ss:0%3Bexp-session$_st:1764165725981%3Bexp-session$ses_id:1764163805931%3Bexp-session$_pn:1%3Bexp-session$_prevpage:www.visa.fr%2F%3Bexp-1764167525997"
+    }
+]

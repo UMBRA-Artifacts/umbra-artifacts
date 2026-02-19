@@ -1,0 +1,292 @@
+[
+    {
+        "name": "JSESSIONID",
+        "domain": "auth.schwarzwaelder-bote.de",
+        "path": "/id/",
+        "expiry": "1764248180.04864",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "1764075380.932.46.24301|60c366e42809c04f4b7f6d8149adc60b"
+    },
+    {
+        "name": "MHSLASTUSERSTATE",
+        "domain": "www.schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "is-loggedout"
+    },
+    {
+        "name": "sp_optout_ga",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1795611377",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "true"
+    },
+    {
+        "name": "sp_optout_pa",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1795611377",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "true"
+    },
+    {
+        "name": "MHSNOFIXEDHEIGHT",
+        "domain": "www.schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "false"
+    },
+    {
+        "name": "pa_userstate",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1795643780",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "is-loggedout"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1798203378",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22browserId%22%3A%22miekxlcuixegrn8e%22%2C%22_t%22%3A%22my2zv2pa%7Cmiekxlda%22%7D"
+    },
+    {
+        "name": "_pprv",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1798203378",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6Im9wdC1vdXQifSwiMSI6eyJtb2RlIjoib3B0LWluIn0sIjIiOnsibW9kZSI6Im9wdC1vdXQifSwiMyI6eyJtb2RlIjoib3B0LW91dCJ9LCI0Ijp7Im1vZGUiOiJvcHQtb3V0In0sIjUiOnsibW9kZSI6Im9wdC1vdXQifSwiNiI6eyJtb2RlIjoib3B0LWluIn0sIjciOnsibW9kZSI6Im9wdC1pbiJ9fSwicHVycG9zZXMiOnsiMCI6IkFNIiwiMSI6IkFEIiwiMiI6IkNQIiwiMyI6IlBSIiwiNCI6IlBSIiwiNSI6IlBSIiwiNiI6IkFEIiwiNyI6IkRMIn0sIl90IjoibXkyenYycDR8bWlla3hsZDQifQ%3D%3D"
+    },
+    {
+        "name": "_gcl_au",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1771851379",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1.1.124057759.1764075379"
+    },
+    {
+        "name": "_ga_LL7KZ6SHWH",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1827147378",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764075378$o1$g0$t1764075378$j60$l0$h122039531"
+    },
+    {
+        "name": "_ga",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1827147378",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.989308907.1764075379"
+    },
+    {
+        "name": "test_cookie",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expiry": "1764076279.12746",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CheckForPermission"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1798203378",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIFYAODgNgCYADIL78OAdmGSAjOICctEAH18ZALYBPfgC8AbvwAOAYwA%2Ba%2BlADWAD1SsjIAL5A"
+    },
+    {
+        "name": "__pid",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1766667380",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": ".schwarzwaelder-bote.de"
+    },
+    {
+        "name": "__tbc",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1827147380",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7Bkpex%7DvBM0InX8mCmilz0tln7k1F9pFQSsWcBsCkRD3nkC_a8tepe6AbIJsL7sO0YkmjrG"
+    },
+    {
+        "name": "xbc",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1827147380",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7Bkpex%7DWd6XgQA5in5qSBim5sVQ8Mp4VZdyHA75jJ3GZzjoX6A-f6va-CHwCqCiFaL-8sS5bEeCXlDFcRiREBK3oH9XrJilHlSOsX2b647bLD58jzV5EXwWyZbJgZJUMhrBj0JG3m2Ywd8tnxXz8qc7w5TXeg"
+    },
+    {
+        "name": "_pcus",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1798203380",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJDU2NvcmU6NzU1YWVlODM4NjI3OTNkMTUzMzlmYTI5MDRkY2RiOGQ3NGQ3M2E2MTpub19zY29yZSIsIkxUczo4NjA2YzYyYzQwZWJkZDk2ZTdjY2RkZTI2MGQ3Y2M1MTIyMmNmYjdmOm5vX3Njb3JlIl19fSwiX3QiOiJteTJ6djRheXxtaWVreG15eSJ9"
+    },
+    {
+        "name": "cX_P",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1798203381",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "miekxlcuixegrn8e"
+    },
+    {
+        "name": "_sp_su",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1795611380.4372",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "false"
+    },
+    {
+        "name": "gckp",
+        "domain": ".cxense.com",
+        "path": "/",
+        "expiry": "1795611380.92423",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2d7k4lemovpl12qgjmgw56wrfc"
+    },
+    {
+        "name": "cX_G",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1798203380",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "cx%3A1bkftep0nxky91kdsja0k3s9z0%3Az8755ky5xxnq"
+    },
+    {
+        "name": "LANG",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1893675383",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "de_DE"
+    },
+    {
+        "name": "JSESSIONID",
+        "domain": "vx.schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1764248181.15076",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "1764075382.032.46.520128|653c49b6aba8aca696e2c805797cd2cb"
+    },
+    {
+        "name": "ch_sid",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1764078982.50942",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "90N1ATFt8acgxpa"
+    },
+    {
+        "name": "LANG_CHANGED",
+        "domain": ".schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "1764161783",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "de_DE"
+    },
+    {
+        "name": "LANG",
+        "domain": "www.schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "de_DE"
+    },
+    {
+        "name": "sid",
+        "domain": "schwarzwaelder-bote.weekli.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "fe3qfvs28kvqmrsl53ibdakooe"
+    },
+    {
+        "name": "JSESSIONID",
+        "domain": "www.schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "kusvdqtdzdrx15coxjh4l9flg"
+    },
+    {
+        "name": "BIGipServer~mhs.sir~lb-sir-revive_http",
+        "domain": "wer.schwarzwaelder-bote.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "3725270700.20480.0000"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "name": "_icl_visitor_lang_js",
+        "domain": "www.tec.be",
+        "path": "/",
+        "expiry": "1764436205.97914",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "nl"
+    },
+    {
+        "name": "PHPSESSID",
+        "domain": "www.tec.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "ktpo5nk81e6ke2q1sv62rtjgn4"
+    },
+    {
+        "name": "nitroCachedPage",
+        "domain": "www.tec.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "0"
+    },
+    {
+        "name": "_gcl_au",
+        "domain": ".tec.be",
+        "path": "/",
+        "expiry": "1772125808",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1.1.364772648.1764349809"
+    },
+    {
+        "name": "li_sugr",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expiry": "1772125809.97543",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "af3d51f1-0077-474f-8d66-412548600f4b"
+    },
+    {
+        "name": "bcookie",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expiry": "1795885809.97554",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "\"v=2&9f171dc5-3b94-4952-8417-27f2c90da0a1\""
+    },
+    {
+        "name": "lidc",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expiry": "1764436210.2341",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "\"b=TGST02:s=T:r=T:a=T:p=T:g=3663:u=1:x=1:i=1764349809:t=1764436209:v=2:sig=AQECX818Mu6fR7qw8a_7Ba6Y--UpxFys\""
+    },
+    {
+        "name": "_ga_1NS523WDKY",
+        "domain": ".tec.be",
+        "path": "/",
+        "expiry": "1827421809",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764349809$o1$g0$t1764349809$j60$l0$h0"
+    },
+    {
+        "name": "_ga",
+        "domain": ".tec.be",
+        "path": "/",
+        "expiry": "1827421809",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.2.83074808.1764349809"
+    },
+    {
+        "name": "_gid",
+        "domain": ".tec.be",
+        "path": "/",
+        "expiry": "1764436209",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.2.983761830.1764349809"
+    },
+    {
+        "name": "_fbp",
+        "domain": ".tec.be",
+        "path": "/",
+        "expiry": "1772125809",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "fb.1.1764349809368.194400738855278432"
+    },
+    {
+        "name": "_hjSessionUser_2001735",
+        "domain": ".tec.be",
+        "path": "/",
+        "expiry": "1795885809",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJpZCI6ImIzNjdlMDZkLWRlOWMtNTAyOS05YTYwLWJiNGIwYjBkOTMzZCIsImNyZWF0ZWQiOjE3NjQzNDk4MDk0NzEsImV4aXN0aW5nIjpmYWxzZX0="
+    },
+    {
+        "name": "_hjSession_2001735",
+        "domain": ".tec.be",
+        "path": "/",
+        "expiry": "1764351609",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJpZCI6IjU2NzY0ZDNlLTk5YWUtNGQ0Yy1iMjQ4LTFkNjk5NzkwZDU4YSIsImMiOjE3NjQzNDk4MDk0NzMsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0="
+    },
+    {
+        "name": "UserMatchHistory",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expiry": "1766941809.52392",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "AQK0KPW_80l31AAAAZrLcZMg8K3bUcyZExmALh36PeZ3BWXygbBW-Yw-BohmEWx-afgTyakLD3aFXw"
+    },
+    {
+        "name": "AnalyticsSyncHistory",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expiry": "1766941809.52396",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "AQJoQYb4yHopNQAAAZrLcZMgILqS_2ODLHn7Gn1vxogEDeHSTM4SEHu2Eq_haEtt3HC8SRvrLqevrJKjdDcA5g"
+    },
+    {
+        "name": "_ga_SM6XY2HBMK",
+        "domain": ".tec.be",
+        "path": "/",
+        "expiry": "1827421809",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.2.s1764349809$o1$g0$t1764349809$j60$l0$h0"
+    },
+    {
+        "name": "bscookie",
+        "domain": ".www.linkedin.com",
+        "path": "/",
+        "expiry": "1795885809.79579",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "\"v=1&20251128171009ff5cccbb-e89d-4f3a-8813-49c34d96aeeaAQHXD7OeQh7yBsIK13iE6u7altW6Nbd4\""
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".linkedin.com",
+        "path": "/",
+        "expiry": "1764351609.79591",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "PCSSmRkAs5GAaJzw6l10zLUOGhY53yxb_x.XxGjcJnc-1764349809-1.0.1.1-VsvHYSE0smnciJrsE4c_Syw9af73QQxIhckDWGU991ECeK_ogWI_piw1v_Yi87hpBA8HrmijVXHpIfznxqk_HwvSlkeemT0EzJqzmETy130"
+    }
+]

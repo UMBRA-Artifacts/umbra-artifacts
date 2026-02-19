@@ -1,0 +1,232 @@
+[
+    {
+        "name": "thirdparty",
+        "domain": "widgets.outbrain.com",
+        "path": "/nanoWidget/externals/cookie",
+        "expiry": "1764224513.74611",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "yes"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".mediahuis.be",
+        "path": "/",
+        "expiry": "1764222710.87829",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "T6I9mJ36ZA5S7fg0N5qcvs.oT3Iur8_oGTgwCb0..Jo-1764220910-1.0.1.1-850VM4PtoE_mIfWF.h0qGlpGnZbF9lLmmKWi.ODgnaCtHtQgPdKebkXd8RRyJAYBimKI6H1Cbf5kmnWI0m1QCLclKqirLq9c65c2Gtw70cY"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".onesignal.com",
+        "path": "/",
+        "expiry": "1764222711.56189",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "Y_RxRjqJyjjzk2YHcr6IAHl2YPOuI1Op9ZtIqLllZYE-1764220911-1.0.1.1-OkND7e0IX3wBRYIHn87U_61S2hzhq2SSH90CZKziA5UpUk4pWui9tyqyRhLp8Q3qEI6Jgv.EsNPbFqAcLcna9sWQwMOxeyDB6L8f7rTpR1E"
+    },
+    {
+        "name": "clientid",
+        "domain": "www.metronieuws.nl",
+        "path": "/",
+        "expiry": "1795756912",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1764220912317_79526148"
+    },
+    {
+        "name": "_ga_WSHVBJBTJW",
+        "domain": ".metronieuws.nl",
+        "path": "/",
+        "expiry": "1827292912",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "GS2.1.s1764220912$o1$g0$t1764220912$j60$l0$h0"
+    },
+    {
+        "name": "CLID",
+        "domain": "www.clarity.ms",
+        "path": "/",
+        "expiry": "1795756912.56813",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "a6cb2dfaafc944dab5b6d51bb78badac.20251127.20261127"
+    },
+    {
+        "name": "_ga_6926F5B6MM",
+        "domain": ".metronieuws.nl",
+        "path": "/",
+        "expiry": "1827292912",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "GS2.1.s1764220912$o1$g0$t1764220912$j60$l0$h0"
+    },
+    {
+        "name": "_ga",
+        "domain": ".metronieuws.nl",
+        "path": "/",
+        "expiry": "1827292912",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "GA1.1.1764220912292_85465387"
+    },
+    {
+        "name": "_clck",
+        "domain": ".metronieuws.nl",
+        "path": "/",
+        "expiry": "1795756912",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1porvaq%5E2%5Eg1d%5E0%5E2157"
+    },
+    {
+        "name": "_ain_cid",
+        "domain": "www.metronieuws.nl",
+        "path": "/",
+        "expiry": "1764222713.26649",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764220913265.968968415.0625865"
+    },
+    {
+        "name": "_ain_uid",
+        "domain": "www.metronieuws.nl",
+        "path": "/",
+        "expiry": "1779772913.26704",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764220913265.129520422.88330445"
+    },
+    {
+        "name": "_clsk",
+        "domain": ".metronieuws.nl",
+        "path": "/",
+        "expiry": "1764307313",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "hdadz2%5E1764220913440%5E1%5E1%5El.clarity.ms%2Fcollect"
+    },
+    {
+        "name": "didomi_token",
+        "domain": ".metronieuws.nl",
+        "path": "/",
+        "expiry": "1795843313",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "eyJ1c2VyX2lkIjoiMTlhYzNjMmMtNzg2NC02ZGEwLWFlZmEtZjgwZDVlZDllNGRlIiwiY3JlYXRlZCI6IjIwMjUtMTEtMjdUMDU6MjE6NTMuNTQyWiIsInVwZGF0ZWQiOiIyMDI1LTExLTI3VDA1OjIxOjUzLjU0M1oiLCJ2ZXJzaW9uIjpudWxsfQ=="
+    },
+    {
+        "name": "obuid",
+        "domain": ".outbrain.com",
+        "path": "/",
+        "expiry": "1771996913.9725",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "695afe48-253f-4ea4-800f-7976354c67fe"
+    },
+    {
+        "name": "UID",
+        "domain": ".scorecardresearch.com",
+        "path": "/",
+        "expiry": "1797916913.61031",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1D31b706602eeec43ce866e1764220913"
+    },
+    {
+        "name": "XID",
+        "domain": ".scorecardresearch.com",
+        "path": "/",
+        "expiry": "1797916913.61035",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1D31b706602eeec43ce866e1764220913"
+    },
+    {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "path": "/",
+        "expiry": "1797916915.03873",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2D1448D251496FAF28DC5E63503E6E8F"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1764825715.03884",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "SRM_B",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1797916915.03889",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2D1448D251496FAF28DC5E63503E6E8F"
+    },
+    {
+        "name": "SM",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "C"
+    },
+    {
+        "name": "MUID",
+        "domain": ".clarity.ms",
+        "path": "/",
+        "expiry": "1797916915.12564",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2D1448D251496FAF28DC5E63503E6E8F"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1764825715.12571",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "ANONCHK",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1764221515.12576",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "name": "auth0_8VmYoMJIvB1mZRDamQPQLYj8fvfnlaZ8_config",
+        "domain": "www.noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "env=production&brand=nhd&prefix=&version=v2"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1764217511.78016",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0GQJL0k0kXVW29JZFjVWAVqknGLPP.sXKKddH1nYmB4-1764215711-1.0.1.1-cSk2l7Sb5u3NCy3_7ITHqaqDmI8jm9yI2sycDX22tfve9zKWA9ZLS.Pcp.SF3s8waplCbP4OLkLmIY6dJBY.F16UlOq3DSdTaoFoEtjuuU0"
+    },
+    {
+        "name": "did",
+        "domain": "login.mediahuis.com",
+        "path": "/",
+        "expiry": "1795773312.47935",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "s%3Av0%3A6d7efe72-c6e4-41e9-8589-09031a8abd1a.I9rUbxskLY2XKOk5lXfCtcjSiIjWW8Okl5np6Bne9mc"
+    },
+    {
+        "name": "did_compat",
+        "domain": "login.mediahuis.com",
+        "path": "/",
+        "expiry": "1795773312.4794",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "s%3Av0%3A6d7efe72-c6e4-41e9-8589-09031a8abd1a.I9rUbxskLY2XKOk5lXfCtcjSiIjWW8Okl5np6Bne9mc"
+    },
+    {
+        "name": "auth0_8VmYoMJIvB1mZRDamQPQLYj8fvfnlaZ8_silent_auth",
+        "domain": "www.noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1764217512.50644",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "1764215712501"
+    },
+    {
+        "name": "mh_pw_se",
+        "domain": "www.noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1795751714.33622",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "bTdB9rprXZ/GEXmAgpZstL5UgVMEOlIwwSTKrLnhPDJS3zhIiyeaRCEe/RlvXFWHZtrknA==:$Yw6r++w/pMMKBBHS"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".mediahuis.be",
+        "path": "/",
+        "expiry": "1764217514.68113",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "_VT0KutGfy8gBj_YLG6Qx_ChtRrA1Ogslg2XiKnwdCs-1764215714-1.0.1.1-RBS6jMr.QpqbgTydoj3cggpK9UoG3b_fklPU8Nw.YpASwqD6_ytbsCDOFW40NOCmcGzIEkmj69oWunNtbyWxP98xfHYlkYCndRmEWbyJ0d0"
+    },
+    {
+        "name": "dsy-color-mode",
+        "domain": "www.noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "2079575715",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "0",
+        "value": "auto"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".kaching.eu.com",
+        "path": "/",
+        "expiry": "1764217515.30313",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "TDFY8sEFz4Ioch35hysSjMPcH5khRoSNQeik6wj8CLk-1764215715-1.0.1.1-jWTIB95yhsunQsgaCpxQ_fb1Fy6VRw4q2opUXPWP_VLvXnATAwR4oaoSj6bnAmdHo8zRx_Jlwh4tNS.p_lK0kmAo4ziC8wlJIDFyDGoyERA"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".ijmuidercourant.nl",
+        "path": "/",
+        "expiry": "1764217515.31127",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "H1q75F2dAYknZFirBf.v8SlCJNPsPp3FkH6mFjRHooM-1764215715-1.0.1.1-HLzZUnm7KoOwHvTN2umZR8wGLBmTg5g7Cbq0lQB7C6zBrWfQmVGrpW98aa.zuwpZdG3ss_z2L_cyFfLFddEE3tKkREswRZYOrsabqc5KQPc"
+    },
+    {
+        "name": "cs_fpid",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "4356215715",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764215715518_59569173"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1798343715",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmDgdgCsAgBwAGAGwAWAEzjh3AJzDJAkAF8gA"
+    },
+    {
+        "name": "didomi_token",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1795838116",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "eyJ1c2VyX2lkIjoiMTlhYzM3MzctYTBjYy02ZGI1LThjMTQtNzQ1N2E1MzNmZTUxIiwiY3JlYXRlZCI6IjIwMjUtMTEtMjdUMDM6NTU6MTYuMzY0WiIsInVwZGF0ZWQiOiIyMDI1LTExLTI3VDAzOjU1OjE2LjM2NVoiLCJ2ZXJzaW9uIjpudWxsfQ=="
+    },
+    {
+        "name": "_mhtc_cId",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1766894117",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "09349c0d-1fc3-4681-ba8a-78083ad81c0c"
+    },
+    {
+        "name": "CLID",
+        "domain": "www.clarity.ms",
+        "path": "/",
+        "expiry": "1795751716.98057",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "099444bbd870415cbb31006141b2fab3.20251127.20261127"
+    },
+    {
+        "name": "_fbp",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1771991717",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "fb.1.1764215717015.499995509464605665"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".mhtr.be",
+        "path": "/",
+        "expiry": "1764217517.04584",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "phOHM61EQI4t1kq.gbfuvxVhmyrEWFhLTdCy53PKKxc-1764215717-1.0.1.1-cfbOho6_Z3GxhKXhinDa4Q1Yqwm05sznBU42TLFvh06UnVR4AaF250GGIehQpRENg8ATXSXm9ILgY_zdKOfO6VyHLOxljnK_WAZD2nN75Cg"
+    },
+    {
+        "name": "_mhtc_sId",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1764217531",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "244bf603-2509-4d29-853a-66ae414dc498"
+    },
+    {
+        "name": "_ain_cid",
+        "domain": "www.noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1764217517.14741",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764215717146.377129889.9966564"
+    },
+    {
+        "name": "_ain_uid",
+        "domain": "www.noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1779767717.14757",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764215717146.822141604.2660635"
+    },
+    {
+        "name": "_hjSessionUser_290494",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1795751717",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJpZCI6IjY4MDU4YmFmLTAxNzMtNTQzYi1hMmI1LWJhYTdjNDY1ZTdhNCIsImNyZWF0ZWQiOjE3NjQyMTU3MTcxODUsImV4aXN0aW5nIjp0cnVlfQ=="
+    },
+    {
+        "name": "_hjSession_290494",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "1764217517",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJpZCI6ImFkMDE5MGRkLTY4ZmEtNGQzYS04OGIzLWY3ZWUyN2I2ZmQ3MCIsImMiOjE3NjQyMTU3MTcxODcsInMiOjEsInIiOjEsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0="
+    },
+    {
+        "name": "_clsk",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": ""
+    },
+    {
+        "name": "_clck",
+        "domain": ".noordhollandsdagblad.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": ""
+    },
+    {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "path": "/",
+        "expiry": "1797911718.7985",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0511C1690B596FD5022BD7D80AD56EAB"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1764820518.79862",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "SRM_B",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1797911718.79867",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0511C1690B596FD5022BD7D80AD56EAB"
+    },
+    {
+        "name": "SM",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "C"
+    },
+    {
+        "name": "MUID",
+        "domain": ".clarity.ms",
+        "path": "/",
+        "expiry": "1797911718.8144",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0511C1690B596FD5022BD7D80AD56EAB"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1764820518.81448",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "ANONCHK",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1764216318.81453",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    }
+]

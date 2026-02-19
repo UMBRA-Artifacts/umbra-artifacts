@@ -1,0 +1,242 @@
+[
+    {
+        "name": "__cf_bm",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1764261874.33652",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2gYULjx53Eab.RjyPNtjoNNEKqGH2D842A0.KpUkRKM-1764260074-1.0.1.1-31TXzOV_8ODH4_P4Tbwb4lsH9BEP6AljhienM.GdxyrH2rr6kAHwjNzJP9MlHnH573mF4rs0HxmbtxsxRSsEy58Kx8ngTvTPb45fZ9FfIP8"
+    },
+    {
+        "name": "auth0_HZQ5SBU9uoD4x13pmjLtJXKtTpd1fNFi_config",
+        "domain": "lc.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "env=production&brand=lcd&prefix=%2F&version=v2"
+    },
+    {
+        "name": "did",
+        "domain": "login.mediahuis.com",
+        "path": "/",
+        "expiry": "1795817674.88087",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "s%3Av0%3A7031843b-eb95-4553-867b-69a41eb1ea96.SHMlmC3ewDgK8lDjldXbGKqyuDa276rsiQgjo5MtbYE"
+    },
+    {
+        "name": "did_compat",
+        "domain": "login.mediahuis.com",
+        "path": "/",
+        "expiry": "1795817674.88098",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "s%3Av0%3A7031843b-eb95-4553-867b-69a41eb1ea96.SHMlmC3ewDgK8lDjldXbGKqyuDa276rsiQgjo5MtbYE"
+    },
+    {
+        "name": "auth0_HZQ5SBU9uoD4x13pmjLtJXKtTpd1fNFi_silent_auth",
+        "domain": "lc.nl",
+        "path": "/",
+        "expiry": "1764261874.90153",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "1764260074888"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".mediahuis.be",
+        "path": "/",
+        "expiry": "1764261875.77871",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "Yw_c.LCiDislbk1FWKzrlCOw47eaUI3j6KK9X0yfc10-1764260075-1.0.1.1-0Mis1y2mbHGjgRjw.vMlV8sKfMmEKx3Ha6KWr1OWQNEC8zq6i7Flwa3IHwuLGbm5jnKS0orN07ZuK9Ia2jQHwUDyJKGch_v7Slf7VbmnM4c"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".kaching.eu.com",
+        "path": "/",
+        "expiry": "1764261876.42822",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ajCJzmwpWwg_jQW79U244Je9G9g6ZdQ8cKpJ43.QGOI-1764260076-1.0.1.1-hvw_vRIe4kBTmbZm2CTUkspUlaAhWFrJKZpO8DZYaDb3EVKzBuMlnoZHUs0ps6Tob9DagtgkOgKFTmtW3C2ejUD9hL_WGsALPSIF91igk4A"
+    },
+    {
+        "name": "_ain_cid",
+        "domain": "lc.nl",
+        "path": "/",
+        "expiry": "1764261879.40383",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764260078518.359862848.24800575"
+    },
+    {
+        "name": "_ain_uid",
+        "domain": "lc.nl",
+        "path": "/",
+        "expiry": "1779812079.40551",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764260078518.553538158.9031457"
+    },
+    {
+        "name": "_ga_VEF628JYJ7",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1827332078",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764260078$o1$g0$t1764260078$j60$l0$h347810025"
+    },
+    {
+        "name": "_ga",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1827332078",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.392741878.1764260079"
+    },
+    {
+        "name": "_harvest_web_user",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1795796078",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "e09394a7-c1bb-4115-a6e5-2f50fb4b2ea5"
+    },
+    {
+        "name": "cs_fpid",
+        "domain": "lc.nl",
+        "path": "/",
+        "expiry": "64836260078",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1764260078908_94232191"
+    },
+    {
+        "name": "UID",
+        "domain": ".scorecardresearch.com",
+        "path": "/",
+        "expiry": "1797956079.1978",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "13C07a9bfaf2420a22ebe391764260079"
+    },
+    {
+        "name": "XID",
+        "domain": ".scorecardresearch.com",
+        "path": "/",
+        "expiry": "1797956079.19789",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "13C07a9bfaf2420a22ebe391764260079"
+    },
+    {
+        "name": "_harvest_ss_user",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1797956123.14303",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "e09394a7-c1bb-4115-a6e5-2f50fb4b2ea5"
+    },
+    {
+        "name": "_harvest__ga",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1797956123.14315",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "392741878.1764260079"
+    },
+    {
+        "name": "_harvest_ss_user_meta",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1797956123.14319",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22start%22%3A%222025-11-27T16%3A14%3A39.062518%2B00%3A00%22%7D"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1798388079",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g"
+    },
+    {
+        "name": "FPID",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1827332080.0832",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "FPID2.2.OFg38Q%2Bh%2F4CpxR63wXSWY9jXwQeEJcHbPuZYpFD%2Fj7Y%3D.1764260079"
+    },
+    {
+        "name": "FPLC",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1764332080.08324",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "xh8Zj%2F%2FmuC7b58QDDGkIESjTPmjtDy0Y46SiioL7X1aR78mgkIM1C5OHC0gsGSkbH6v9SacXpsr2BINwzFVmoDAFYzBODI2mxfaCfghzmfx4gso3nyftV%2BXJNLmAUw%3D%3D"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".mhtr.be",
+        "path": "/",
+        "expiry": "1764261880.94301",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "fdWNkfsZDsNi6J0zs.lB9m127Nyh0WW2U.HnZ2mXAAg-1764260080-1.0.1.1-q0VTe8MnOO985YbJbviYXoXyU0fqfSR79SytZviIekpItKREBI4WG2KYJIdXaHJGwpsLJjx5PpF6RqpK4Aq.vr3EYV7dkiUNk.JhXXShUpg"
+    },
+    {
+        "name": "_mhtc_cId",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1766938482",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "89fe1979-4e81-445d-b9ae-4123a243b164"
+    },
+    {
+        "name": "_mhtc_sId",
+        "domain": ".lc.nl",
+        "path": "/",
+        "expiry": "1764261896",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "9184741d-ace1-453e-9ee0-306d343badcd"
+    }
+]

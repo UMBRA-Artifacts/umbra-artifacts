@@ -1,0 +1,52 @@
+[
+    {
+        "name": "_hjSessionUser_5317061",
+        "domain": ".actionlogement.fr",
+        "path": "/",
+        "expiry": "1795778815",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJpZCI6ImMwYzAxNTUxLTdlZWUtNTc5NS05MTg1LWRkZGYyMDQ2ODc0YiIsImNyZWF0ZWQiOjE3NjQyNDI4MTUyMDIsImV4aXN0aW5nIjpmYWxzZX0="
+    },
+    {
+        "name": "_hjSession_5317061",
+        "domain": ".actionlogement.fr",
+        "path": "/",
+        "expiry": "1764244648",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJpZCI6IjkzZWY1MTJkLWE3ZjAtNGVhMC05ZWRjLTQwNjA1YmU1NzZkYyIsImMiOjE3NjQyNDI4MTUyMDMsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0="
+    },
+    {
+        "name": "etuix",
+        "domain": ".actionlogement.fr",
+        "path": "/",
+        "expiry": "1798198016.3893",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "30SN7ShNWd7_HGmr0Kkl5NW9a0kEFUMOZQv69nkJmWB7uFtq0KxQzQ--"
+    },
+    {
+        "name": "cookiefirst-consent",
+        "domain": "www.actionlogement.fr",
+        "path": "/",
+        "expiry": "1795346818",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22necessary%22%3Atrue%2C%22performance%22%3Afalse%2C%22functional%22%3Afalse%2C%22advertising%22%3Afalse%2C%22timestamp%22%3A1764242818%2C%22type%22%3A%22category%22%2C%22version%22%3A%22ba6c1f78-5277-4ae5-b496-1492dea17f49%22%7D"
+    },
+    {
+        "name": "eulerian",
+        "domain": ".actionlogement.fr",
+        "path": "/",
+        "expiry": "1798198019.88979",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    }
+]

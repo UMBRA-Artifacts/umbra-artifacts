@@ -1,0 +1,32 @@
+[
+    {
+        "name": "_GRECAPTCHA",
+        "domain": "www.google.com",
+        "path": "/recaptcha",
+        "expiry": "1779629591.15522",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "09ADiQh0cvD4klu1Lubh3y4ZxZznNIRL6WnYyI9AF7dPujB3DH5DO0OR9x3zwWare9GfpNdIE4xXACJH30jUE2X8Q"
+    },
+    {
+        "name": "_lscache_vary",
+        "domain": "micso.it",
+        "path": "/",
+        "expiry": "1764250385.81867",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "a25ecd0498a5fa223696f4b5be7fca98"
+    },
+    {
+        "name": "pixelcat_id",
+        "domain": "micso.it",
+        "path": "/",
+        "expiry": "1795613589",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "acf87042b6"
+    }
+]

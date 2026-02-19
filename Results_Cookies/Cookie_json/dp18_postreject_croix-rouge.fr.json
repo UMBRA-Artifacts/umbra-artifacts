@@ -1,0 +1,72 @@
+[
+    {
+        "name": "pageviewCount",
+        "domain": ".croix-rouge.fr",
+        "path": "/",
+        "expiry": "1797857592",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "_pprv",
+        "domain": ".croix-rouge.fr",
+        "path": "/",
+        "expiry": "1798289592",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6Im9wdC1vdXQifSwiMSI6eyJtb2RlIjoib3B0LWluIn0sIjIiOnsibW9kZSI6Im9wdC1pbiJ9LCIzIjp7Im1vZGUiOiJvcHQtaW4ifSwiNCI6eyJtb2RlIjoib3B0LWluIn0sIjUiOnsibW9kZSI6Im9wdC1pbiJ9LCI2Ijp7Im1vZGUiOiJvcHQtaW4ifSwiNyI6eyJtb2RlIjoib3B0LWluIn19LCJwdXJwb3NlcyI6eyIwIjoiQU0iLCIxIjoiQUQiLCIyIjoiQ1AiLCIzIjoiUFIiLCI0IjoiUFIiLCI1IjoiUFIiLCI2IjoiQUQiLCI3IjoiREwifSwiX3QiOiJteTRmNnk0dXxtaWcwOWdzdSJ9"
+    },
+    {
+        "name": "i18n_redirected",
+        "domain": "www.croix-rouge.fr",
+        "path": "/",
+        "expiry": "1795697594",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "fr"
+    },
+    {
+        "name": "_pk_id.60.ef89",
+        "domain": "www.croix-rouge.fr",
+        "path": "/",
+        "expiry": "1798116796",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "2029f1c4440a8a2d.1764161596."
+    },
+    {
+        "name": "_pk_ses.60.ef89",
+        "domain": "www.croix-rouge.fr",
+        "path": "/",
+        "expiry": "1764163395",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "OptanonAlertBoxClosed",
+        "domain": ".croix-rouge.fr",
+        "path": "/",
+        "expiry": "1766753597",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "2025-11-26T12:53:17.977Z"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".croix-rouge.fr",
+        "path": "/",
+        "expiry": "1766753598",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Wed+Nov+26+2025+21%3A53%3A18+GMT%2B0900+(Korean+Standard+Time)&version=202310.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=e6b082c4-55c9-44c9-9675-d38e02a540b2&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0008%3A0%2CC0005%3A0&hosts=H160%3A1%2CH446%3A1%2CH262%3A1%2CH263%3A1%2CH140%3A1%2CH345%3A1%2CH149%3A1%2CH480%3A1%2CH362%3A1%2CH462%3A1%2CH215%3A1%2CH273%3A1%2CH481%3A1%2CH255%3A0%2CH257%3A0%2CH436%3A0%2CH193%3A0%2CH99%3A0%2CH437%3A0%2CH474%3A0%2CH199%3A0%2CH438%3A0%2CH142%3A0%2CH456%3A0%2CH399%3A0%2CH39%3A0%2CH477%3A0%2CH461%3A0%2CH55%3A0%2CH406%3A0%2CH413%3A0%2CH415%3A0%2CH251%3A0%2CH452%3A0%2CH198%3A0%2CH202%3A0%2CH467%3A0%2CH441%3A0%2CH171%3A0%2CH212%3A0%2CH442%3A0%2CH2%3A0%2CH478%3A0%2CH443%3A0%2CH444%3A0%2CH10%3A0%2CH445%3A0%2CH16%3A0%2CH447%3A0%2CH448%3A0%2CH18%3A0%2CH449%3A0%2CH128%3A0%2CH475%3A0%2CH129%3A0%2CH453%3A0%2CH70%3A0%2CH105%3A0%2CH454%3A0%2CH455%3A0%2CH200%3A0%2CH29%3A0%2CH479%3A0%2CH493%3A0%2CH33%3A0%2CH180%3A0%2CH457%3A0%2CH228%3A0%2CH476%3A0%2CH181%3A0%2CH182%3A0%2CH183%3A0%2CH131%3A0%2CH136%3A0%2CH458%3A0%2CH44%3A0%2CH45%3A0%2CH232%3A0%2CH460%3A0%2CH46%3A0%2CH185%3A0%2CH50%3A0%2CH463%3A0%2CH464%3A0%2CH465%3A0%2CH466%3A0%2CH56%3A0%2CH186%3A0%2CH187%3A0%2CH469%3A0%2CH470%3A0%2CH386%3A0%2CH439%3A0%2CH241%3A0&genVendors="
+    }
+]

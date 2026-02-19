@@ -1,0 +1,72 @@
+[
+    {
+        "name": "akaalb_hzb",
+        "domain": "www.helios-gesundheit.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2147483647~op=~rv=57~m=~os=~id=0d72a12ca79a55d19c3f629d8e8b87af"
+    },
+    {
+        "name": "ak_bmsc",
+        "domain": ".helios-gesundheit.de",
+        "path": "/",
+        "expiry": "1764351738.27227",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "E6355516F348CBC404EA4831CFE35D74~000000000000000000000000000000~YAAQJa0sFyhH2cGaAQAAoiQhyx2Bo3IWRPOHghWOM+3PuBXHfY1F+nspbnnXjHIdu7rmH3H/+fizJ9xBBS+oSWSeqaKVV7jbmh31hvbXeeme3JvgNBoUf+wfzc395Bkl7LShaaEF3gyOH0s7TMA0njCics6gn4KatVJrnXb8bdwqsiEJmqzPl+SdY3oSD88VPohZpnIL6XicbkfH64h79EU5O8itGJ+K+u6J1+TeSBiO0B9BGBEKRjNPV1w4uJ4QwCzTNTHnwwEzdxLwjeciadYwGV9o0662MA2TGbyjTS+6RosKQD/0nYNz5CkMJNpJYBxBSDpBnPXxNgEkM0AAEWWsY4V60s168dC1X7HffCqDJUIyFpicbgX03aQUUig/A0e2Oc4L57u2s54v3jTZZnoYcV2BCHkg"
+    },
+    {
+        "name": "affinity",
+        "domain": "www.helios-gesundheit.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "\"516b4623a5595746\""
+    },
+    {
+        "name": "_gcl_au",
+        "domain": ".helios-gesundheit.de",
+        "path": "/",
+        "expiry": "1772120539",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1.1.318734750.1764344539"
+    },
+    {
+        "name": "test_cookie",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expiry": "1764345439.98535",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CheckForPermission"
+    },
+    {
+        "name": "adobeujs-optin",
+        "domain": ".helios-gesundheit.de",
+        "path": "/",
+        "expiry": "1795880543",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22aam%22%3Afalse%2C%22adcloud%22%3Afalse%2C%22aa%22%3Afalse%2C%22campaign%22%3Afalse%2C%22ecid%22%3Afalse%2C%22livefyre%22%3Afalse%2C%22target%22%3Afalse%2C%22mediaaa%22%3Afalse%7D"
+    },
+    {
+        "name": "CookieConsent",
+        "domain": "www.helios-gesundheit.de",
+        "path": "/",
+        "expiry": "1795880542",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "{stamp:%27zs1MPQilPyxa6pKhW8WtwCaSpIUoFWTa+WuywgyW6SeidLj57cj1Vw==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1764344542976%2Cregion:%27kr%27}"
+    }
+]

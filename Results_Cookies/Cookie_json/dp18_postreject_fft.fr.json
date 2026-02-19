@@ -1,0 +1,92 @@
+[
+    {
+        "name": "_pprv",
+        "domain": ".fft.fr",
+        "path": "/",
+        "expiry": "1798208159",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6ImVzc2VudGlhbCJ9LCI3Ijp7Im1vZGUiOiJvcHQtaW4ifX0sInB1cnBvc2VzIjpudWxsLCJfdCI6Im15MzJwazVzfG1pZW5zMnRzIn0%3D"
+    },
+    {
+        "name": "TCID",
+        "domain": ".fft.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": ""
+    },
+    {
+        "name": "TCPID",
+        "domain": ".fft.fr",
+        "path": "/",
+        "expiry": "1798035359",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1251122315597035482300"
+    },
+    {
+        "name": "__Secure-next-auth.callback-url",
+        "domain": "www.fft.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "https%3A%2F%2Fwww.fft.fr"
+    },
+    {
+        "name": "__Host-next-auth.csrf-token",
+        "domain": "www.fft.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "5bd0fdb2177780ed5966c957a793a6463dff1c0ea287f7ee8f9045d963ce72f8%7Cbf002d43cd77e88a60d7dce2e0bfdbc7269a739d010bffbf706f33f362b1af35"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".fft.fr",
+        "path": "/",
+        "expiry": "1798208160",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22browserId%22%3A%22miens2tpcmtk8552%22%2C%22_t%22%3A%22my32pku4%7Cmiens3i4%22%7D"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".fft.fr",
+        "path": "/",
+        "expiry": "1798208160",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAJ4BmAEwAHANZgArAB9%2B9KEgjD6MkAF8gA"
+    },
+    {
+        "name": "TC_PRIVACY",
+        "domain": ".www.fft.fr",
+        "path": "/",
+        "expiry": "1797776164",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1%40008%7C105%7C3288%40%405%401764080164283%2C1764080164283%2C1797776164283%40"
+    },
+    {
+        "name": "TC_PRIVACY_CENTER",
+        "domain": ".www.fft.fr",
+        "path": "/",
+        "expiry": "1797776164",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": ""
+    }
+]

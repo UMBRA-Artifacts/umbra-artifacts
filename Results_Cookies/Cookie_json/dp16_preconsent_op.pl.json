@@ -1,0 +1,392 @@
+[
+    {
+        "name": "acc_segment",
+        "domain": "www.op.pl",
+        "path": "/",
+        "expiry": "1795888067.03368",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "72"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "www.op.pl",
+        "path": "/",
+        "expiry": "1795888067.03397",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764352066"
+    },
+    {
+        "name": "X-Onet-App",
+        "domain": ".poczta.onet.pl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "poczta.onet.pl.front.onetapi.pl"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "poczta.onet.pl",
+        "path": "/",
+        "expiry": "1795888068.00896",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "31"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "poczta.onet.pl",
+        "path": "/",
+        "expiry": "1795888068.00899",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764352067"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "konto.onet.pl",
+        "path": "/",
+        "expiry": "1795888069.10898",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "95"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "konto.onet.pl",
+        "path": "/",
+        "expiry": "1795888069.10907",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764352068"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "static-konto.onet.pl",
+        "path": "/",
+        "expiry": "1795888071.58958",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "55"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "static-konto.onet.pl",
+        "path": "/",
+        "expiry": "1795888071.58962",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764352071"
+    },
+    {
+        "name": "_uetsid",
+        "domain": ".onet.pl",
+        "path": "/",
+        "expiry": "1764438474",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "5e3287f0cc8211f0bda439ecc7c6d8bf"
+    },
+    {
+        "name": "_uetvid",
+        "domain": ".onet.pl",
+        "path": "/",
+        "expiry": "1798048074",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "5e32efe0cc8211f0b0dae162920d8d7f"
+    },
+    {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "path": "/",
+        "expiry": "1798048075.68594",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "03EFED97358A6662289BFB2534FD67BF"
+    },
+    {
+        "name": "MR",
+        "domain": ".bat.bing.com",
+        "path": "/",
+        "expiry": "1764956875.68599",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "_ga_4XEGZVVW3Y",
+        "domain": ".onet.pl",
+        "path": "/",
+        "expiry": "1827424074",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764352074$o1$g0$t1764352074$j60$l0$h0"
+    },
+    {
+        "name": "_ga",
+        "domain": ".onet.pl",
+        "path": "/",
+        "expiry": "1827424074",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.236587737.1764352075"
+    },
+    {
+        "name": "__adblocker",
+        "domain": "konto.onet.pl",
+        "path": "/",
+        "expiry": "1764352375",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "false"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "sgqcvfjvr.onet.pl",
+        "path": "/",
+        "expiry": "1795888075.64699",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "40"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "sgqcvfjvr.onet.pl",
+        "path": "/",
+        "expiry": "1795888075.64708",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764352075"
+    },
+    {
+        "name": "ea_uuid",
+        "domain": ".events.ocdn.eu",
+        "path": "/",
+        "expiry": "1922032076.37991",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "202511281847560301302739"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "events.ocdn.eu",
+        "path": "/",
+        "expiry": "1795888076.38001",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "70"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "events.ocdn.eu",
+        "path": "/",
+        "expiry": "1795888076.38005",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764352076"
+    },
+    {
+        "name": "__gfp_64b",
+        "domain": ".onet.pl",
+        "path": "/",
+        "expiry": "1798480076",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "jcgbKQ.6c.3NheiCTuZlEsXwWU55j78npvvuVpvUV3D.r7|1764352076|2|pl.ruid|8|8:3:32"
+    },
+    {
+        "name": "ea_uuid",
+        "domain": ".onet.pl",
+        "path": "/",
+        "expiry": "1922032076",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "202511281847560301302739"
+    },
+    {
+        "name": "ats_ri",
+        "domain": ".onet.pl",
+        "path": "/",
+        "expiry": "1769708876",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ri=202511281847560301302739&model=202511281847560301302739&models=eyJzcmMiOiJndSIsImF0c19yaSI6IjIwMjUxMTI4MTg0NzU2MDMwMTMwMjczOSJ9&ttl_ms=3600000&expires_ms=1764355676896&version=1764352076.782&fs=519f"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "csr.onet.pl",
+        "path": "/",
+        "expiry": "1795888077.18835",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764352076"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "csr.onet.pl",
+        "path": "/",
+        "expiry": "1795888077.18827",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "53"
+    },
+    {
+        "name": "Gruid",
+        "domain": ".ruid.gemius.pl",
+        "path": "/",
+        "expiry": "1798480077.43916",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1|600902945"
+    },
+    {
+        "name": "__gfp_ruid",
+        "domain": ".onet.pl",
+        "path": "/",
+        "expiry": "1798480115",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "9ucgoCsHT_pam5Stuf9CTgjm9qvYjb3ILX9ZMI1rK.z.37|1764438476|2|10|0"
+    },
+    {
+        "name": "__gfp_ruid_pub",
+        "domain": ".onet.pl",
+        "path": "/",
+        "expiry": "1798480115",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "9ucgoCsHT_pam5Stuf9CTgjm9qvYjb3ILX9ZMI1rK.z.37"
+    },
+    {
+        "name": "receive-cookie-deprecation",
+        "domain": ".hit.gemius.pl",
+        "path": "/",
+        "expiry": "1798480105.88541",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "lib.onet.pl",
+        "path": "/",
+        "expiry": "1795888077.93056",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "36"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "lib.onet.pl",
+        "path": "/",
+        "expiry": "1795888077.93064",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764352077"
+    },
+    {
+        "name": "adp_dmp_dls",
+        "domain": ".onet.pl",
+        "path": "/",
+        "expiry": "1764956877",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22sso%22%3A1764956877938%2C%22sympatia%22%3A1764956877938%2C%22geo%22%3A1764956877938%2C%22dmp1px%22%3A1764438477938%7D"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "cmp.dreamlab.pl",
+        "path": "/",
+        "expiry": "1795888078.1948",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "30"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "cmp.dreamlab.pl",
+        "path": "/",
+        "expiry": "1795888078.19488",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764352077"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "cmp.ringpublishing.com",
+        "path": "/",
+        "expiry": "1795888078.47996",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "82"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "cmp.ringpublishing.com",
+        "path": "/",
+        "expiry": "1795888078.48003",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764352078"
+    },
+    {
+        "name": "Gdyn",
+        "domain": ".hit.gemius.pl",
+        "path": "/",
+        "expiry": "1798480105.88556",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "KlSVjMXGQMGGE1D6i19QrFRvssGMg1AiL6nxmGt1OHh5LGDnGsRP5MbtGKGGqXB0gGllle82GGUrxFs_EFSG"
+    },
+    {
+        "name": "Gdynp",
+        "domain": ".hit.gemius.pl",
+        "path": "/",
+        "expiry": "1798480105.88562",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "N9mG4Nb8.HScTVOZyoEQJbD7J78gQL.TAZT4So7TQRj.W7"
+    }
+]

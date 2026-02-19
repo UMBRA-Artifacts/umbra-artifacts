@@ -1,0 +1,62 @@
+[
+    {
+        "name": "__cf_bm",
+        "domain": ".eniro.se",
+        "path": "/",
+        "expiry": "1764358724.72953",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1qbc79FquuZAEllGd1gjXgAL5YgWoi1vMBPV0I72Ew8-1764356924-1.0.1.1-dAE64OF0CP1P2O6b8_ISTaCmb48jwsmRsKm_KGge5UD7Fj6EQmiND7V.qAF5ZndMzeTosfglpX7jXhdc.2m8kTPecxUb0Zup_W2PKoJYQdQ"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".eniro.com",
+        "path": "/",
+        "expiry": "1764358725.07116",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "acZWCXxjOWkiwdtyL5vlmz2Y7RmqpanLXmhn6btPous-1764356925-1.0.1.1-AMFHkkQZ.JCWKYonnlZCvPh.ho5cnprU3_cGASX0PHCsIxZok9IpKN4UkMrd6wSyQkKDShpJYum005E2e.5FOru3uk12RjiN2TAo2jmbA18"
+    },
+    {
+        "name": "cf_clearance",
+        "domain": ".eniro.se",
+        "path": "/",
+        "expiry": "1795892925.51214",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "h2UD5lIWuhl5Vyt298HzSOr9s2L6o.sOKrDDsgCj1mY-1764356925-1.2.1.1-5W.nDu0i5S1BkUsVJrD1j9OrMczX.9dowCM2tRCh0MTZCstfoAd6jpn5cSMDUPvbpM2pNTSC_gmC71qRA.pXWhItNUEKdpdx55zlFylRLgEx8o2XTMPOvZTN6oUNHRoCAYkLtSknOaXOEgehWzCXV6O9Z7DZKfVTuBjFl6_bSO7rHLdIScn3DggpANLExPkyp5xe6TK13Pi3HuG5heHGvRzmMEwwiNCl2oQF_r7DMiA"
+    },
+    {
+        "name": "_enid",
+        "domain": ".eniro.se",
+        "path": "/",
+        "expiry": "1795892927",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "47cgw4eyob2intkoxay401rkbg9u1tzm5ph2tnao"
+    },
+    {
+        "name": "_ensess",
+        "domain": ".eniro.se",
+        "path": "/",
+        "expiry": "1764358727",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1vwj618uvts7v59eypev"
+    },
+    {
+        "name": "usprivacy",
+        "domain": ".www.eniro.se",
+        "path": "/",
+        "expiry": "1798052927.55751",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "1---"
+    }
+]

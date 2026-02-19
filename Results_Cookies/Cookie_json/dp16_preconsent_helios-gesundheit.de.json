@@ -1,0 +1,62 @@
+[
+    {
+        "name": "akaalb_hzb",
+        "domain": "www.helios-gesundheit.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2147483647~op=~rv=88~m=~os=~id=f4072410c283514e096cfd32ceeba1ef"
+    },
+    {
+        "name": "ak_bmsc",
+        "domain": ".helios-gesundheit.de",
+        "path": "/",
+        "expiry": "1764351049.37663",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "9A31F49DB71A262BE391E24C12FF5C25~000000000000000000000000000000~YAAQLK0sF8/0ycOaAQAAo6EWyx0nNFNTCKl5uzWHVoEp8ifOo0kWE3oO+sVacCOZ4pAKSNm6Gnd71AgRJWkzX2fPGrTFgqa+9TqjFBserwpQ1sI2QpuZMPFWPhqMwjri7Bl/NXvZRjunFaMRvl1y2SaRC6g+UJHKwgF7uJt0OIZ0RSQyXK3ZK3U7j5qxZOE2U6s7uKNizL/6GkLkESF0Kbrv3Vn6hNU1kysDNg/UpXEMvPo5f6OH6/OrqSrxtR293zIPQ/smclIDuT6qVne/So/M99FsNNst0RFpyE3lhiBo4cKF8QJQo91PnirNtnjCRpVFWQbMOdICM0HCFzrCIMaBJKeXgNpTrXoYFiP/wxm1n3IPbU1SHgMr9/Zz9mtviGnVC4tt0E14Ix3auqKJBn+TBUBhmmVH"
+    },
+    {
+        "name": "_gcl_au",
+        "domain": ".helios-gesundheit.de",
+        "path": "/",
+        "expiry": "1772119850",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1.1.1842597574.1764343850"
+    },
+    {
+        "name": "adobeujs-optin",
+        "domain": ".helios-gesundheit.de",
+        "path": "/",
+        "expiry": "1795879851",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22aam%22%3Afalse%2C%22adcloud%22%3Afalse%2C%22aa%22%3Afalse%2C%22campaign%22%3Afalse%2C%22ecid%22%3Afalse%2C%22livefyre%22%3Afalse%2C%22target%22%3Afalse%2C%22mediaaa%22%3Afalse%7D"
+    },
+    {
+        "name": "test_cookie",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expiry": "1764344751.07631",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CheckForPermission"
+    },
+    {
+        "name": "affinity",
+        "domain": "www.helios-gesundheit.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "\"70755def6af25027\""
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "name": "_pctx",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1798291673",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBWDgBgEAmAMwA2ABzi%2BATlkAWESAC%2BQA"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1798291673",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22browserId%22%3A%22mig1i26ahpmn4nj4%22%7D"
+    },
+    {
+        "name": "__pid",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1766755673",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": ".futurezone.at"
+    },
+    {
+        "name": "ch_sid",
+        "domain": ".tinypass.com",
+        "path": "/",
+        "expiry": "1764167275.32487",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "3zi5C3kLi7ShZO6"
+    },
+    {
+        "name": "LANG",
+        "domain": ".tinypass.com",
+        "path": "/",
+        "expiry": "1893763674",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "de_DE"
+    },
+    {
+        "name": "__tbc",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1827235673",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7Bkpex%7DZLdWdi0tJU-YzbSruRSPWabNTvIbYAkHKwZa_PccOqGJgKiQrLCSHIVaFe6tI2kE"
+    },
+    {
+        "name": "__pat",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1766755673",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "3600000"
+    },
+    {
+        "name": "__pvi",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1764250073",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "eyJpZCI6InYtbWlnMWkyNmgzbHQ0NnBmaCIsImRvbWFpbiI6Ii5mdXR1cmV6b25lLmF0IiwidGltZSI6MTc2NDE2MzY3MzkzNX0%3D"
+    },
+    {
+        "name": "xbc",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1827235673",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7Bkpex%7Dhi22dXavzJc3UeHrdJTlAGh35fjaDSGzvS6KFLRh48FUGUSWbLa56oOg_6mqlgMYxouieSoV6ooXj7JC3XROAQ"
+    },
+    {
+        "name": "_pcus",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1798291673",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJMVGM6N2E5YTkxYzM1YTZjODNmOGU3Y2ZiZWI0MTAzMWUzNDVhZWE0NWYwZDpub19zY29yZSIsIkxUczo5MjExZmM3NDE4Zjc2ODUyZDM2N2I0N2I4M2E1YmQ3NTgzNDM3ODRhOm5vX3Njb3JlIiwiQ1Njb3JlOjE1YzIzZTU4Mzk0N2VhMzIyYjE3NzhlMTNlMzBmMzk3NWVmNzA2YzY6bm9fc2NvcmUiXX19fQ%3D%3D"
+    },
+    {
+        "name": "cX_P",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1798291673",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "mig1i26ahpmn4nj4"
+    },
+    {
+        "name": "gckp",
+        "domain": ".cxense.com",
+        "path": "/",
+        "expiry": "1795699674.42981",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "3idi9b5wtnxaigi0xcuros8nq"
+    },
+    {
+        "name": "cX_G",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1798291674",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "cx%3A1qqm8ozegzkcl1z5rq7115rs8d%3A2aahned6vqc54"
+    },
+    {
+        "name": "LANG_CHANGED",
+        "domain": ".tinypass.com",
+        "path": "/",
+        "expiry": "1764250074",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "de_DE"
+    },
+    {
+        "name": "LANG",
+        "domain": "futurezone.at",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "de_DE"
+    },
+    {
+        "name": "__pil",
+        "domain": ".futurezone.at",
+        "path": "/",
+        "expiry": "1766755674",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "de_DE"
+    },
+    {
+        "name": "JSESSIONID",
+        "domain": ".tinypass.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "DFC5421EBBA59452AD1E3201E8F20CE1"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "_pk_id.101.e3aa",
+        "domain": ".sorbonne-universite.fr",
+        "path": "/",
+        "expiry": "1798034151",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "b52d6d5e1296caae.1764078951."
+    },
+    {
+        "name": "_pk_ses.101.e3aa",
+        "domain": ".sorbonne-universite.fr",
+        "path": "/",
+        "expiry": "1764080751",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    }
+]

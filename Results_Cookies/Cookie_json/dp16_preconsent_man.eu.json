@@ -1,0 +1,42 @@
+[
+    {
+        "name": "OptanonConsent",
+        "domain": ".man.eu",
+        "path": "/global/",
+        "expiry": "1796093153",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Mon+Dec+01+2025+11%3A45%3A53+GMT%2B0900+(Korean+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.man.eu%2Fglobal%2Fen%2Fhomepage.html&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A0"
+    },
+    {
+        "name": "affinity",
+        "domain": "www.man.eu",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "\"bbcb1330335ec809\""
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".vimeo.com",
+        "path": "/",
+        "expiry": "1764558954.47083",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": ".fNAjIsUFfmNx8qWfrKfzySFyzVs28GPE.OLDqzydI0-1764557154-1.0.1.1-lE1Y069PC.VRpgs8MAyIlq.JUE31qoZCvgKtKctzcRUW4M1aGs7d5uA3PWC7n9uW"
+    },
+    {
+        "name": "_cfuvid",
+        "domain": ".vimeo.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2Lvh4rYwx1vRZo0_5r8I_a5ziTT1em8MTUMHgpizj80-1764557154469-0.0.1.1-604800000"
+    }
+]

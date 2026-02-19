@@ -1,0 +1,32 @@
+[
+    {
+        "name": "_GRECAPTCHA",
+        "domain": "www.google.com",
+        "path": "/recaptcha",
+        "expiry": "1779767635.41255",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "09ADiQh0d42tb0KyRDuB7sRcnG--363LJIXZW28X5rOxbsXTVBDDtH2gLN3WUtU60AvgKHeU9xNMp_w8f922AJSxY"
+    },
+    {
+        "name": "_pk_id.eO35a5m3on.a5f5",
+        "domain": "www.uniroma3.it",
+        "path": "/",
+        "expiry": "1798170835",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "7ddb622f511792c4.1764215635."
+    },
+    {
+        "name": "_pk_ses.eO35a5m3on.a5f5",
+        "domain": "www.uniroma3.it",
+        "path": "/",
+        "expiry": "1764217434",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    }
+]

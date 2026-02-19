@@ -1,0 +1,142 @@
+[
+    {
+        "name": "language",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "1795608382.2891",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "it"
+    },
+    {
+        "name": "betexPtk",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "1795608382.28921",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "betexLocale%3Dit%7EbetexRegion%3DGBR"
+    },
+    {
+        "name": "vid",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "1795564800.28931",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "b773a126-5d88-4c2d-a130-ae075bfbb599"
+    },
+    {
+        "name": "wsid",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "e289a21d-065d-4ff3-95cc-69fe93e75735"
+    },
+    {
+        "name": "TrackingTags",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "1767960382.2893",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "prod_vertical=prospect_page"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "1764074182.28934",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "4p8MlDH01UdLcWpGrbu6_7l0vzYESafa0JXsNFufMeA-1764072382-1.0.1.1-hR6JbblMHZWH8YZr6m8xPM41J2yv6Q91XAWjUX.DkTx.VGPzT4ZIww.URGrZ_4NgT87IYtU.mDIVay4jaULobmpqcdCPsDdfnltaeBhHdVs"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".cdnppb.net",
+        "path": "/",
+        "expiry": "1764074182.42007",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "Y2NU.Cb3apSWmoH7bnTMHD5xfn8mAtaTpPazQpYG6YM-1764072382-1.0.1.1-wQ1AGlyDe.RtmSfuafIZILD2otzckKP4nrLgtZuJJTAGlpw.zf3kXreGHdcSWZ27if258NQXQsi1Xp8hJHi8tvlC3paxnoillwgitFmKsqA"
+    },
+    {
+        "name": "bfsd",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "1795608382",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "ts=1764072382453|st=p"
+    },
+    {
+        "name": "thx_guid",
+        "domain": "regstat.betfair.com",
+        "path": "/",
+        "expiry": "1919592382.83699",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "af1010181c182402ebec04f72813140f"
+    },
+    {
+        "name": "tmx_guid",
+        "domain": "regstat.betfair.com",
+        "path": "/",
+        "expiry": "1919592382.83707",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "AAycOq2_JeUETsKPwSdrEwX_T60qESXTmG3vME0rzsw4LlKK29mO8vNIlU3ZLx_N9z-pjwK-r9ZBSEEQq9aRs5Pe-Chh6Q"
+    },
+    {
+        "name": "storageSSC",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "1795608383",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "lsSSC%3D1"
+    },
+    {
+        "name": "cf_clearance",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "1795608383.60752",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "gmv_gnkooolLqSViUSogAm5OKR3I9W6HqANGkEt6lh0-1764072383-1.2.1.1-AVIjBhA3fLF63ZEG7fA0dAotEKO5i9YB5NU8WZJzFSX5kE8dUFoMBZKWKDCW.3gFljClJyv8NsvwXN_BpY4X3BMAcB8WO8kR1VGhOKYdDnZ385sKPMiuJjx38_OV2uavHx5XvPlpxU.2ZnpVWvpZgOoHdyc3fKEF0JsccAtLbPjEdBnfPPv6Cb_X11181Y9I7kbPJDTJqFuMW82aP5zrUScFrwDpzj7tOtGkEokuHqE"
+    },
+    {
+        "name": "OptanonAlertBoxClosed",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "1779624385",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "2025-11-25T12:06:25.984Z"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".betfair.it",
+        "path": "/",
+        "expiry": "1779624386",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Tue+Nov+25+2025+21%3A06%3A26+GMT%2B0900+(Korean+Standard+Time)&version=202501.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6475f194-5925-4e35-b234-0f0cbc4fb949&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0&intType=2"
+    }
+]

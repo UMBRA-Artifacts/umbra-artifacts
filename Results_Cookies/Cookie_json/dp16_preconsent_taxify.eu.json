@@ -1,0 +1,12 @@
+[
+    {
+        "name": "boltlocale",
+        "domain": "bolt.eu",
+        "path": "/",
+        "expiry": "1766664475.67469",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "en"
+    }
+]

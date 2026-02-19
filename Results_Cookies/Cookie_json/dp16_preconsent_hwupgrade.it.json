@@ -1,0 +1,172 @@
+[
+    {
+        "name": "hwu_session",
+        "domain": ".hwupgrade.it",
+        "path": "/",
+        "expiry": "1796345188.00027",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "a74a086ee1dd2699b57c2492d663faf8"
+    },
+    {
+        "name": "YSC",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "oOu6w9ja_jY"
+    },
+    {
+        "name": "VISITOR_INFO1_LIVE",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779897199.12669",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "GO2Rq_HfvLw"
+    },
+    {
+        "name": "VISITOR_PRIVACY_METADATA",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779897199.12674",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CgJLUhIEGgAgNw%3D%3D"
+    },
+    {
+        "name": "NID",
+        "domain": ".google.com",
+        "path": "/",
+        "expiry": "1780156394.51716",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "526=M1o8yAImxNuFNn_mbNZlAsou2Vi7JckhbgzlaqWdt0_mRZX0YAJPz_j9UX2DFodLWITCF4_mRqGiCjUkODoARdHkSXb0Dgos2Po7NVuUZwC9sbJX2LXS7IwZD8FzqlNUPs5OO9YCzLmIJX8ADZqvwfnY0RV6xjUnlVu-6FcvWd7wYM-e3gP_3urxTDkLEL3v1tUbPSebbmD9"
+    },
+    {
+        "name": "__io_d",
+        "domain": ".hwupgrade.it",
+        "path": "/",
+        "expiry": "1764346098",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1_705468254"
+    },
+    {
+        "name": "__io_lv",
+        "domain": "www.hwupgrade.it",
+        "path": "/",
+        "expiry": "1795881198",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1764345198933"
+    },
+    {
+        "name": "__io",
+        "domain": "www.hwupgrade.it",
+        "path": "/",
+        "expiry": "1795881278",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "c160d87b1.078cbc5d8_1764345198934"
+    },
+    {
+        "name": "__io_session_id",
+        "domain": ".hwupgrade.it",
+        "path": "/",
+        "expiry": "1764347078",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "9a6424b91.777463d53_1764345198935"
+    },
+    {
+        "name": "__io_nav_state12762",
+        "domain": ".hwupgrade.it",
+        "path": "/",
+        "expiry": "1764346098",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22current%22%3A%22%2F%22%2C%22currentDomain%22%3A%22www.hwupgrade.it%22%2C%22previousDomain%22%3A%22%22%7D"
+    },
+    {
+        "name": "__io_unique_12762",
+        "domain": "www.hwupgrade.it",
+        "path": "/",
+        "expiry": "1795881198",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "29"
+    },
+    {
+        "name": "__io_uh",
+        "domain": "www.hwupgrade.it",
+        "path": "/",
+        "expiry": "1764428400",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "__io_visit_12762",
+        "domain": "www.hwupgrade.it",
+        "path": "/",
+        "expiry": "1764346098",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "__Secure-YNID",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779897192.12643",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "13.YT=AbAN__3KS_UO3tdP_yyy8-MY2ZqnK74GQE5vEjJyR3R5235Zyi72E-WM0oAl0wNVVg16FDQuxBaHzbEqXDIgflEiCfG8sSdB5zVbKn5vrp1EkwPl1PvfmXiayrxmvxWvaISLqiniJzAWzXUPzENZd9uRcybL-4Lc5mnFr_s6f0qBbh421s8uX6Xa8BKIO1FLKJ9VVQ177xT5e5y6BGaOmnhIO2qPZ9zTn17EwMoSTJ12Oy0ojWcJ795Hdws2nxC-DdUJSb7CP0DPi3K4vT-HAGfR-qNhrJQzBJ9mvOXGJX3Wrc1H1oi-J3sloSy8dxHu0QyOjdKfWiD1_PD_oeoufA"
+    },
+    {
+        "name": "__Secure-ROLLOUT_TOKEN",
+        "domain": ".youtube.com",
+        "path": "/",
+        "expiry": "1779897199.12657",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CPni-PbK4JnVARDgl-aDmpWRAxik4eSGmpWRAw%3D%3D"
+    },
+    {
+        "name": "io_uid6add47a81c3d7c9d86da4836f7496796",
+        "domain": ".tt.onthe.io",
+        "path": "/",
+        "expiry": "1764431599.7684",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "29"
+    },
+    {
+        "name": "io_user_hash",
+        "domain": ".tt.onthe.io",
+        "path": "/",
+        "expiry": "1787241199.76848",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "c160d87b1.078cbc5d8_1764345198934"
+    }
+]

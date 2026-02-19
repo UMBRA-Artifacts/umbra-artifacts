@@ -1,0 +1,212 @@
+[
+    {
+        "name": "geo",
+        "domain": "www.hoy.es",
+        "path": "/",
+        "expiry": "1764346312.29019",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "{\"c\": \"KR\",\"r\": \"41\",\"o\": \"AS\"}"
+    },
+    {
+        "name": "_ga",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1827331913",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.215270072.1764259914"
+    },
+    {
+        "name": "demdex",
+        "domain": ".demdex.net",
+        "path": "/",
+        "expiry": "1779811914.73766",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "89323511463135339610797608222767885820"
+    },
+    {
+        "name": "_ga_NM78HC2BT9",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1827331914",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764259913$o1$g1$t1764259914$j60$l0$h0"
+    },
+    {
+        "name": "AMCVS_9854C13E58403FEB0A495D53%40AdobeOrg",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "dextp",
+        "domain": ".demdex.net",
+        "path": "/",
+        "expiry": "1779811914",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "771-1-1764259914333"
+    },
+    {
+        "name": "ev_sid",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1795363914",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "6928784a62ef7501afb70ba9"
+    },
+    {
+        "name": "ev_did",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1795363914",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "6928784a62ef7501afb70ba8"
+    },
+    {
+        "name": "voc-rtim",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1766851914",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "{ \"geo-europe\" : false}"
+    },
+    {
+        "name": "vocuser_uuid",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1795795914",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1d1a5bc0-7408-45a4-9639-d6ec29ddb298"
+    },
+    {
+        "name": "vocuser_nfryl_volver_al_origen",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1764346314",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "https%3A%2F%2Fwww.hoy.es%2F"
+    },
+    {
+        "name": "kndctr_9854C13E58403FEB0A495D53_AdobeOrg_identity",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1798387914",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CiY4ODgwNTQ5OTkyNzc3MTE5NzU5MDg1MzkxNTE3Mzc2Mzg4MzAwMlIRCOHF17CsMxgBKgRKUE4zMAPwAeHF17CsMw=="
+    },
+    {
+        "name": "kndctr_9854C13E58403FEB0A495D53_AdobeOrg_cluster",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1764261715.86881",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "jpn3"
+    },
+    {
+        "name": "s_ecid",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1827331914.5951",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "MCMID%7C88805499927771197590853915173763883002"
+    },
+    {
+        "name": "dpm",
+        "domain": ".dpm.demdex.net",
+        "path": "/",
+        "expiry": "1779811914.73776",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "89323511463135339610797608222767885820"
+    },
+    {
+        "name": "AMCV_9854C13E58403FEB0A495D53%40AdobeOrg",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1827331914",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "179643557%7CMCIDTS%7C20420%7CMCMID%7C88805499927771197590853915173763883002%7CMCAAMLH-1764864714%7C11%7CMCAAMB-1764864714%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1764267114s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20427%7CvVersion%7C5.5.0"
+    },
+    {
+        "name": "voc_paywall",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1795795914",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "https://www.hoy.es|anonimo"
+    },
+    {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expiry": "1827331914.69619",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "AHWqTUlsfCJxvJvL2GK0GGwbpH5gAzpN_wCTEhsW6KFZpvbftePcze2peZCiiPFRuOM"
+    },
+    {
+        "name": "didomi_token",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "1795882315",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJ1c2VyX2lkIjoiMTlhYzYxNWUtNTYyYS02MzUyLWEyY2MtMDc1M2I1OWJmNmQ5IiwiY3JlYXRlZCI6IjIwMjUtMTEtMjdUMTY6MTE6NTUuMTA2WiIsInVwZGF0ZWQiOiIyMDI1LTExLTI3VDE2OjExOjU1LjEwN1oiLCJ2ZXJzaW9uIjpudWxsfQ=="
+    },
+    {
+        "name": "vtm_op",
+        "domain": ".hoy.es",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "true"
+    },
+    {
+        "name": "__bs_id",
+        "domain": "www.hoy.es",
+        "path": "/",
+        "expiry": "1795795917",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.215270072.1764259914"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "name": "acc_segment",
+        "domain": "www.newsweek.pl",
+        "path": "/",
+        "expiry": "1795968669.79871",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "90"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "www.newsweek.pl",
+        "path": "/",
+        "expiry": "1795968669.79899",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432669"
+    },
+    {
+        "name": "ea_uuid",
+        "domain": ".events.ocdn.eu",
+        "path": "/",
+        "expiry": "1922112670.55552",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "202511291711103417107343"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "events.ocdn.eu",
+        "path": "/",
+        "expiry": "1795968670.55557",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "11"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "events.ocdn.eu",
+        "path": "/",
+        "expiry": "1795968670.55558",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432670"
+    },
+    {
+        "name": "ea_uuid",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1922112670",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "202511291711103417107343"
+    },
+    {
+        "name": "_gcl_au",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1772208670",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1.1.18244651.1764432671"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "livebar.onet.pl",
+        "path": "/",
+        "expiry": "1795968671.02035",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "20"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "livebar.onet.pl",
+        "path": "/",
+        "expiry": "1795968671.02042",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432670"
+    },
+    {
+        "name": "ats_ri",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1769789471",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ri=202511291711103417107343&model=202511291711103417107343&models=eyJzcmMiOiJndSIsImF0c19yaSI6IjIwMjUxMTI5MTcxMTEwMzQxNzEwNzM0MyJ9&ttl_ms=3600000&expires_ms=1764436271130&version=1764432670.962&fs=519f"
+    },
+    {
+        "name": "adp_dmp_dls",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1765037471",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22sso%22%3A1765037471136%2C%22sympatia%22%3A1765037471136%2C%22geo%22%3A1765037471136%2C%22dmp1px%22%3A1764519071136%7D"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "csr.onet.pl",
+        "path": "/",
+        "expiry": "1795968671.27455",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "83"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "csr.onet.pl",
+        "path": "/",
+        "expiry": "1795968671.27463",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432671"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "cdn.raspaid.pl",
+        "path": "/",
+        "expiry": "1795968671.34149",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "69"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "cdn.raspaid.pl",
+        "path": "/",
+        "expiry": "1795968671.34156",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432670"
+    },
+    {
+        "name": "adp_session",
+        "domain": ".csr.onet.pl",
+        "path": "/",
+        "expiry": "1922112671.8656",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "bHU6MjAyNTExMjkxNzExMTAzNDE3MTA3MzQz"
+    },
+    {
+        "name": "adp_cpd",
+        "domain": ".csr.onet.pl",
+        "path": "/",
+        "expiry": "1764605471.8657",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "\"eJyrrgUAAXUA+Q==\""
+    },
+    {
+        "name": "acc_segment",
+        "domain": "cmp.dreamlab.pl",
+        "path": "/",
+        "expiry": "1795968672.02967",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "58"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "cmp.dreamlab.pl",
+        "path": "/",
+        "expiry": "1795968672.02975",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432671"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "cmp.ringpublishing.com",
+        "path": "/",
+        "expiry": "1795968672.22251",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "85"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "cmp.ringpublishing.com",
+        "path": "/",
+        "expiry": "1795968672.22255",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432672"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "simetra.tracking.ringieraxelspringer.tech",
+        "path": "/",
+        "expiry": "1795968672.41736",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "30"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "simetra.tracking.ringieraxelspringer.tech",
+        "path": "/",
+        "expiry": "1795968672.41744",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432672"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "lib.onet.pl",
+        "path": "/",
+        "expiry": "1795968672.58216",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "71"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "lib.onet.pl",
+        "path": "/",
+        "expiry": "1795968672.58223",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432672"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "konto.onet.pl",
+        "path": "/",
+        "expiry": "1795968673.73566",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "48"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "konto.onet.pl",
+        "path": "/",
+        "expiry": "1795968673.73577",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432673"
+    },
+    {
+        "name": "smvr",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "2079792673",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "eyJ2aXNpdHMiOjEsInZpZXdzIjoxLCJ0cyI6MTc2NDQzMjY3MzgwMiwiaXNOZXdTZXNzaW9uIjp0cnVlfQ=="
+    },
+    {
+        "name": "smuuid",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "2079792674",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "19ad061fc0e-eebad02b9495-aeb676b0-22ec0f72-0f524d80-f6e47a1aa709"
+    },
+    {
+        "name": "dedup_camp",
+        "domain": ".csr.onet.pl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "\"eJwNwQERACAIA8AuJNgYglqNo7v+tzl8kQL4QXJppVJ227hxeMIuKyPkWTHzABW7CyA=\""
+    },
+    {
+        "name": "_pctx",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1798560675",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzICYAWAdgA4uXAMwBOPjwCMXPmJEBWYSAC%2BQA"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1798560675",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22browserId%22%3A%22mikhnph6msznvnrt%22%7D"
+    },
+    {
+        "name": "_smvs",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1764519075",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "DIRECT"
+    },
+    {
+        "name": "__tbc",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1827504675",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7Bkpex%7DgLKWaEvl-rP64RLMzLqKCz3mIzYEd-Oy868gM-0rkyQdRoY1ZCqBdWshbZgp6UK5"
+    },
+    {
+        "name": "__pat",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1767024675",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "3600000"
+    },
+    {
+        "name": "__pvi",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1764519075",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "eyJpZCI6InYtbWlraG5waGQ3YTZoMmhwZSIsImRvbWFpbiI6Ii5uZXdzd2Vlay5wbCIsInRpbWUiOjE3NjQ0MzI2NzU2MjB9"
+    },
+    {
+        "name": "xbc",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1827504675",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7Bkpex%7DjxsvUlIlXBs8qppDeDEaPSF8i_trf4EA19JDbkW1PoM"
+    },
+    {
+        "name": "_pcus",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1798560675",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJMVGM6ZjZjOTIxNTlhNDE4MGZkY2ZkY2ZiYWRhNDFiNDYyM2VmYTgzMzBkOTpub19zY29yZSJdfX19"
+    },
+    {
+        "name": "cX_P",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1798560675",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "mikhnph6msznvnrt"
+    },
+    {
+        "name": "gckp",
+        "domain": ".cxense.com",
+        "path": "/",
+        "expiry": "1795968676.08449",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "3klcias5m3eck3c6zsmvf49f9w"
+    },
+    {
+        "name": "cX_G",
+        "domain": ".newsweek.pl",
+        "path": "/",
+        "expiry": "1798560676",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "cx%3A3h1vgnz28170p15wc318x7z2y6%3A3rdslfbhcsmqy"
+    },
+    {
+        "name": "__adblocker",
+        "domain": "www.newsweek.pl",
+        "path": "/",
+        "expiry": "1764432978",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "false"
+    },
+    {
+        "name": "paywallscript_monitoring_sent",
+        "domain": "www.newsweek.pl",
+        "path": "/",
+        "expiry": "1764434486",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "acc_segment_ts",
+        "domain": "cdn.newsweek.pl",
+        "path": "/",
+        "expiry": "1795968690.64195",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764432689"
+    },
+    {
+        "name": "acc_segment",
+        "domain": "cdn.newsweek.pl",
+        "path": "/",
+        "expiry": "1795968690.64188",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "90"
+    }
+]

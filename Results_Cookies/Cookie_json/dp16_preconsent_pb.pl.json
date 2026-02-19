@@ -1,0 +1,342 @@
+[
+    {
+        "name": "JSESSIONID",
+        "domain": "id.exp.pb.pl",
+        "path": "/id/",
+        "expiry": "1764244612.78483",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "1764071813.618.38.152997|60c366e42809c04f4b7f6d8149adc60b"
+    },
+    {
+        "name": "__io_d",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1764072708",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1_705468254"
+    },
+    {
+        "name": "__io_lv",
+        "domain": "www.pb.pl",
+        "path": "/",
+        "expiry": "1795607808",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1764071808811"
+    },
+    {
+        "name": "__io",
+        "domain": "www.pb.pl",
+        "path": "/",
+        "expiry": "1795607828",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "b6ddbb796.8d3f82832_1764071808811"
+    },
+    {
+        "name": "__io_session_id",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1764073628",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "30c0f4164.1bac6d4ca_1764071808813"
+    },
+    {
+        "name": "__io_nav_state42035",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1764072708",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22current%22%3A%22%2F%22%2C%22currentDomain%22%3A%22www.pb.pl%22%2C%22previousDomain%22%3A%22%22%7D"
+    },
+    {
+        "name": "__io_unique_42035",
+        "domain": "www.pb.pl",
+        "path": "/",
+        "expiry": "1795607808",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "25"
+    },
+    {
+        "name": "__io_uh",
+        "domain": "www.pb.pl",
+        "path": "/",
+        "expiry": "1764082800",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "__io_visit_42035",
+        "domain": "www.pb.pl",
+        "path": "/",
+        "expiry": "1764072708",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "_card_cookie",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "10404071808",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "(not_set),(not_set),(not_set),(not_set)"
+    },
+    {
+        "name": "pb_url",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1764115008",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "https://www.pb.pl/"
+    },
+    {
+        "name": "_ga_S6N9810DT6",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1827143809",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764071809$o1$g0$t1764071809$j60$l0$h0"
+    },
+    {
+        "name": "io_uidf8d0d03079ee656fce3fa73cf662d299",
+        "domain": ".tt.onthe.io",
+        "path": "/",
+        "expiry": "1764158209.7246",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "25"
+    },
+    {
+        "name": "io_user_hash",
+        "domain": ".tt.onthe.io",
+        "path": "/",
+        "expiry": "1786967809.72465",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "b6ddbb796.8d3f82832_1764071808811"
+    },
+    {
+        "name": "didomi_token",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1795694210",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "eyJ1c2VyX2lkIjoiMTlhYmFkZmEtNjY3Ni02ZWM0LTlkOTktZTA5OTViMWY1NTFlIiwiY3JlYXRlZCI6IjIwMjUtMTEtMjVUMTE6NTY6NTAuNjYzWiIsInVwZGF0ZWQiOiIyMDI1LTExLTI1VDExOjU2OjUwLjY2M1oiLCJ2ZXJzaW9uIjpudWxsfQ=="
+    },
+    {
+        "name": "_pctx",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1798199811",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAmADgBYAbAGYADPwCskgJwB2HtOGyQAXyA"
+    },
+    {
+        "name": "_pprv",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1798199811",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6Im9wdC1pbiJ9LCIxIjp7Im1vZGUiOiJvcHQtb3V0In0sIjIiOnsibW9kZSI6Im9wdC1vdXQifSwiMyI6eyJtb2RlIjoib3B0LW91dCJ9LCI0Ijp7Im1vZGUiOiJvcHQtb3V0In0sIjUiOnsibW9kZSI6Im9wdC1vdXQifSwiNiI6eyJtb2RlIjoib3B0LWluIn0sIjciOnsibW9kZSI6Im9wdC1pbiJ9fSwicHVycG9zZXMiOm51bGx9"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1798199811",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22browserId%22%3A%22mieit369q0grvbx3%22%7D"
+    },
+    {
+        "name": "__pid",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1766663812",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": ".pb.pl"
+    },
+    {
+        "name": "__tbc",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1827143813",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7Bkpex%7D0Mir1Gcss0qpnC-BxVd0GT4dB6q3TISFPRCOYWOym67y2ZwwxEeVQhGlSfhLZICC"
+    },
+    {
+        "name": "xbc",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1827143813",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7Bkpex%7D4e7WGhgZQnmh_CKLTIUFWDlfg2dnhjmz94Lke3Vrg9jifuVt2-xb7rbOdWfEyK7FfHiusiiztFLS9W2GGqMWFmyCECCe5PTy07GTSp7xHi4Ab2jh0xjyYIZsdkT4eUSw"
+    },
+    {
+        "name": "_pcus",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1798199813",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJMVHM6NjE5ZmJjYzA4NGI2M2JmOThkODkyY2JiZDViM2E5YjBlYjg4ODdmMzpub19zY29yZSIsIkxUcmVnOjRlMWQzMWYzMzQ4ODRhMzE2ZjM4MzAyZWM0MzUxMjY1MzA4M2U5MWQ6bm9fc2NvcmUiXX19fQ%3D%3D"
+    },
+    {
+        "name": "LANG",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1893671817",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "pl_PL"
+    },
+    {
+        "name": "TestIfCookieP",
+        "domain": ".smartadserver.com",
+        "path": "/",
+        "expiry": "1795607815.85415",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ok"
+    },
+    {
+        "name": "JSESSIONID",
+        "domain": "vx.exp.pb.pl",
+        "path": "/",
+        "expiry": "1764244615.72179",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "1764071816.204.49.111284|653c49b6aba8aca696e2c805797cd2cb"
+    },
+    {
+        "name": "pbw",
+        "domain": ".smartadserver.com",
+        "path": "/",
+        "expiry": "1795607815.85395",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "%24b%3d16930%3b%24o%3d99999%3b%24sw%3d1920%3b%24sh%3d1200"
+    },
+    {
+        "name": "pid",
+        "domain": ".smartadserver.com",
+        "path": "/",
+        "expiry": "1771804800.85422",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "867500823840336980"
+    },
+    {
+        "name": "receive-cookie-deprecation",
+        "domain": ".smartadserver.com",
+        "path": "/",
+        "expiry": "1779623815.85426",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "sasd2",
+        "domain": ".smartadserver.com",
+        "path": "/",
+        "expiry": "1764158215.85431",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "q=%24qc%3D1308335759%3B%24ql%3DHigh%3B%24qpc%3D100-011%3B%24qpc%3D10*%3B%24qpc%3D100*%3B%24qpc%3D100-*%3B%24qpc%3D100-0*%3B%24qpc%3D100-01*%3B%24qpc%3D100-011*%3B%24qt%3D117_3025_79437t%3B%24dma%3D0%3B%24qo%3D3&c=1&l=-190479267&lo=-760396461&lt=638996686155335680&o=1"
+    },
+    {
+        "name": "sasd",
+        "domain": ".smartadserver.com",
+        "path": "/",
+        "expiry": "1764158215.85436",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "%24qc%3D1308335759%3B%24ql%3DHigh%3B%24qpc%3D100-011%3B%24qpc%3D10*%3B%24qpc%3D100*%3B%24qpc%3D100-*%3B%24qpc%3D100-0*%3B%24qpc%3D100-01*%3B%24qpc%3D100-011*%3B%24qt%3D117_3025_79437t%3B%24dma%3D0%3B%24qo%3D3"
+    },
+    {
+        "name": "LANG_CHANGED",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1764158217",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "pl_PL"
+    },
+    {
+        "name": "_ga",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1827143817",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.2.507105961.1764071809"
+    },
+    {
+        "name": "_gid",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1764158217",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.2.1818600489.1764071817"
+    },
+    {
+        "name": "_gat_pianoTracker",
+        "domain": ".pb.pl",
+        "path": "/",
+        "expiry": "1764071877",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    }
+]

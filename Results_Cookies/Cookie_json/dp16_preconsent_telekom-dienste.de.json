@@ -1,0 +1,152 @@
+[
+    {
+        "name": "DTROOFID",
+        "domain": "www.telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "!80BN1PvQhS+LnZtE9F57mOunpEOtRF7fymJ6wDmyd93WKksBu7yzAeazyoYi8uXkz/mTjmU5KtvkjkwHTKS+9RQ4XKszhiVhjFgxS3V4G50="
+    },
+    {
+        "name": "rxVisitor",
+        "domain": ".telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "17642428562933K5EHA5B02MOQ7DGDO0V1RGUTJBF2Q1O"
+    },
+    {
+        "name": "dtSa",
+        "domain": ".telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "-"
+    },
+    {
+        "name": "tel_usr_ids",
+        "domain": ".telekom.de",
+        "path": "/",
+        "expiry": "1772018859",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "%7B%7D"
+    },
+    {
+        "name": "rxvt",
+        "domain": ".telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1764244659287|1764242856294"
+    },
+    {
+        "name": "dtPC",
+        "domain": ".telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "-30469$242856290_301h5vTTRELFCPSAJEQBKPWJHAHJPLMHKDVVRS-0e0"
+    },
+    {
+        "name": "dtCookie",
+        "domain": ".telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "v_4_srv_34_sn_AT98GRH7O2KC5EM81JQUGGU2M9MAI1H8_perc_100000_ol_0_mul_1_app-3A36ca2804bc84e1ff_0_rcs-3Acss_0"
+    },
+    {
+        "name": "JSESSIONID",
+        "domain": "www.telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "rj_sXrRFWjuTvatJOi28F3ybeMLqzLMIvwyXnXYE.pu1_production_01_qdeuj5"
+    },
+    {
+        "name": "first_encounter",
+        "domain": ".telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "tvo",
+        "domain": ".telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "undefined"
+    },
+    {
+        "name": "wt_rla",
+        "domain": ".telekom.de",
+        "path": "/",
+        "expiry": "1769426860",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "196380495960676%2C7%2C1764242859763%3B316202539684123%2C7%2C1764242859768"
+    },
+    {
+        "name": "utag_main",
+        "domain": ".telekom.de",
+        "path": "/",
+        "expiry": "1795778860",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "v_id:019ac5119bad001d196a0c1966ac03068001c06001eb8$_sn:1$_se:7$_ss:0$_st:1764244660168$ses_id:1764242856878%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:7%3Bexp-session"
+    },
+    {
+        "name": "nexus-session",
+        "domain": "www.telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "wqat3v9cMN2pvqsjP7NL"
+    },
+    {
+        "name": "8ae3443ad3534fb8e2637575114a6f6f",
+        "domain": "omega-webfrontend.dsa.telekom-dienste.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1334e18dd2b4002c331b5fd49f8cb5ba"
+    },
+    {
+        "name": "56b2ce656422cd664a7afc84c0fd92d2",
+        "domain": "omega-dsa.telekom.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "ed7c0c02ca97623811cfccc5abb58d54"
+    }
+]

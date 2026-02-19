@@ -1,0 +1,62 @@
+[
+    {
+        "name": "__cmpcc",
+        "domain": "www.volksstimme.de",
+        "path": "/",
+        "expiry": "1798345215",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "_k5a",
+        "domain": ".volksstimme.de",
+        "path": "/",
+        "expiry": "1795753216",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "0",
+        "value": "61@{\"u\":[{\"uid\":\"bwMEk0EabpXm4LZd\",\"ts\":1764217216},1764307216]}"
+    },
+    {
+        "name": "__cmpcc",
+        "domain": "a.delivery.consentmanager.net",
+        "path": "/",
+        "expiry": "1764217576.40458",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "2"
+    },
+    {
+        "name": "10h6o3j5lc4s_uid",
+        "domain": ".dl.volksstimme.de",
+        "path": "/",
+        "expiry": "1771993220.98813",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "4dbb3a612a49be88"
+    },
+    {
+        "name": "__dl97",
+        "domain": ".volksstimme.de",
+        "path": "/",
+        "expiry": "1771993220.98823",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "__cmpcccu56033",
+        "domain": ".volksstimme.de",
+        "path": "/",
+        "expiry": "1765426826",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "aCQbji9sAAsCFhqaGOR5E0tRarRLKiwDKLAA1LUwsaqxLQwMmWq1GWUZDQQMCBqJMAFQCRGA"
+    }
+]

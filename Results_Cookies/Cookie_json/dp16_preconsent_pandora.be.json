@@ -1,0 +1,182 @@
+[
+    {
+        "name": "FPID",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "1827421593.64149",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "d2ddc5ad-7161-40a6-ae04-e542f30fe0d1"
+    },
+    {
+        "name": "rxVisitor0k6271jt",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "176434958803890I5QMAHO9T4PBASC9IKC0T2J66SE54Q"
+    },
+    {
+        "name": "lang",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "1764435989.65491",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "nl"
+    },
+    {
+        "name": "last_visited_page",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "1795885590",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "%2Fresidential%2Fnl"
+    },
+    {
+        "name": "adobeujs-optin",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "1827421591",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22aam%22%3Afalse%2C%22adcloud%22%3Afalse%2C%22aa%22%3Atrue%2C%22campaign%22%3Afalse%2C%22ecid%22%3Afalse%2C%22livefyre%22%3Afalse%2C%22target%22%3Atrue%2C%22mediaaa%22%3Afalse%7D"
+    },
+    {
+        "name": "dtSa0k6271jt",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "-"
+    },
+    {
+        "name": "s_gpv",
+        "domain": "www2.telenet.be",
+        "path": "/",
+        "expiry": "1764351391",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "homepage"
+    },
+    {
+        "name": "language",
+        "domain": "www2.telenet.be",
+        "path": "/",
+        "expiry": "1764435991",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "'nl'"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "1795885592",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Sat+Nov+29+2025+02%3A06%3A32+GMT%2B0900+(Korean+Standard+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1030e064-4fe7-48a7-a4d5-658fd60a3513&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww2.telenet.be%2Fresidential%2Fnl&groups=C001%3A1%2CC003%3A1%2CC002%3A0%2CC004%3A0%2CC007%3A0%2CC005%3A0"
+    },
+    {
+        "name": "kndctr_1EF86DCB632345E10A495F9E_AdobeOrg_cluster",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "1764351392.47672",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "jpn3"
+    },
+    {
+        "name": "kndctr_1EF86DCB632345E10A495F9E_AdobeOrg_identity",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "1798477592.36896",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CiY4NDQzMzU3Njk0OTY0NTQyMDA0MDg5OTUyNTg3OTU4OTQxODM4NVIRCISGudusMxgBKgRKUE4zMALwAYSGudusMw%3D%3D"
+    },
+    {
+        "name": "mbox",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "1827594392.47683",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "session%2384433576949645420040899525879589418385%2DaBTaUE%231764351452"
+    },
+    {
+        "name": "mboxEdgeCluster",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "1764351392.47689",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "32"
+    },
+    {
+        "name": "AMCV_1EF86DCB632345E10A495F9E%40AdobeOrg",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "1798045592",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "MCMID|84433576949645420040899525879589418385"
+    },
+    {
+        "name": "rxvt0k6271jt",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1764351393125|1764349588040"
+    },
+    {
+        "name": "dtPC0k6271jt",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "11$349588036_269h-vMTTCLQCAEQPNMPUORPLLUFQERKHURIAU-0e0"
+    },
+    {
+        "name": "BIGipServerapaaem.prd.cust.telenet.be",
+        "domain": "www2.telenet.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "!ACcLegtSy3apKqgw4UFiNvcQnpaAdhXUY2FOl1llK/F2uVnSOdNZwJdScRfNApLWRfbjU/ohmk1jSESu48FNCQtxaPkbbcFb69UAz62p"
+    },
+    {
+        "name": "dtCookie0k6271jt",
+        "domain": ".telenet.be",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "v_4_srv_11_sn_1CE502DD4F688AF6A67E59B90915B82A_app-3A472b56b1e30d0ac3_1_ol_0_perc_100000_mul_1"
+    }
+]

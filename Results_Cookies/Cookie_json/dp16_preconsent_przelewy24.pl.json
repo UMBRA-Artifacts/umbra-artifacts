@@ -1,0 +1,92 @@
+[
+    {
+        "name": "CLID",
+        "domain": "www.clarity.ms",
+        "path": "/",
+        "expiry": "1795968807.47246",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "bd086284a48a4d718b74d7a68ff3742e.20251129.20261129"
+    },
+    {
+        "name": "_clck",
+        "domain": ".przelewy24.pl",
+        "path": "/",
+        "expiry": "1795968808",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "jszx0h%5E2%5Eg1f%5E0%5E2159"
+    },
+    {
+        "name": "_clsk",
+        "domain": ".przelewy24.pl",
+        "path": "/",
+        "expiry": "1764519209",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "v0rj8b%5E1764432809369%5E1%5E1%5El.clarity.ms%2Fcollect"
+    },
+    {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "path": "/",
+        "expiry": "1798128812.01847",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "3B0ABA1891336E751CFBACAB901A6FBF"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1765037612.01858",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "SRM_B",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1798128812.01864",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "3B0ABA1891336E751CFBACAB901A6FBF"
+    },
+    {
+        "name": "SM",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "C"
+    },
+    {
+        "name": "MUID",
+        "domain": ".clarity.ms",
+        "path": "/",
+        "expiry": "1798128812.03177",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "3B0ABA1891336E751CFBACAB901A6FBF"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1765037612.03184",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    }
+]

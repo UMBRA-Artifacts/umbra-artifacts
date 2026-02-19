@@ -1,0 +1,202 @@
+[
+    {
+        "name": "dwac_14891f436642434eecd524a193",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "duoUu9W8RcxLTgbxh0vQwtwjrKnko2HmG1o%3D|dw-only|||EUR|false|Europe%2FParis|true"
+    },
+    {
+        "name": "cqcid",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "abiBJsR86a8BXAXhnnPpOLavCD"
+    },
+    {
+        "name": "cquid",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "||"
+    },
+    {
+        "name": "dwpersonalization_5fdb1c0abda3a77202a5fe2613367408",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "1779895590.26042",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "899b9a38c22c6a698b4cfc2c8720260106230000000"
+    },
+    {
+        "name": "dwanonymous_5fdb1c0abda3a77202a5fe2613367408",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "1779895591.26051",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "abiBJsR86a8BXAXhnnPpOLavCD"
+    },
+    {
+        "name": "sid",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "duoUu9W8RcxLTgbxh0vQwtwjrKnko2HmG1o"
+    },
+    {
+        "name": "firstCampaign",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "1766935590.26059",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "wt_direct=direct"
+    },
+    {
+        "name": "lastCampaign",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "1766935590.26062",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "wt_direct=direct"
+    },
+    {
+        "name": "__cq_dnt",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "dw_dnt",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "dwsid",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "L_6aJHWJ1c72_FQx3Pg_YoU3IjZElvHkpugDIH-uatrqOjegufAB0FMTpJXd4eFd-gOJ8n0rQfnFrlEW7B6dEA=="
+    },
+    {
+        "name": "wt3_eid",
+        "domain": ".emp.de",
+        "path": "/",
+        "expiry": "1779895592",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%3B992076423508064%7C2176434359234706195%232176434359283126805"
+    },
+    {
+        "name": "wt3_sid",
+        "domain": ".emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%3B992076423508064"
+    },
+    {
+        "name": "cq_active",
+        "domain": "www.emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "true"
+    },
+    {
+        "name": "uuid",
+        "domain": ".cquotient.com",
+        "path": "/",
+        "expiry": "1798471593.43396",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "abiBJsR86a8BXAXhnnPpOLavCD"
+    },
+    {
+        "name": "__cq_uuid",
+        "domain": ".emp.de",
+        "path": "/",
+        "expiry": "1798471593.43643",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "abiBJsR86a8BXAXhnnPpOLavCD"
+    },
+    {
+        "name": "__cq_seg",
+        "domain": ".emp.de",
+        "path": "/",
+        "expiry": "1766935593.23266",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00"
+    },
+    {
+        "name": "wt_ttv2_s_992076423508064",
+        "domain": ".emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "9997"
+    },
+    {
+        "name": "wt_ttv2_s_992076423508064",
+        "domain": ".www.emp.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "9997"
+    },
+    {
+        "name": "wt_rla",
+        "domain": ".emp.de",
+        "path": "/",
+        "expiry": "1769527593",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "992076423508064%2C3%2C1764343592091"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE",
+        "domain": "signon.springer.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "de"
+    },
+    {
+        "name": "nemo_session",
+        "domain": "www.springerprofessional.de",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNlc3Npb24tY29udGV4dCI6Ik5vQ29udGV4dCIsImNvdW50cnlDb2RlUmVkaXJlY3QiOiJ0cnVlIiwicGFjNGpTZXNzaW9uSWQiOiJzcHJpbmdlcnByb2Zlc3Npb25hbF9kYzUzMTc4YS04NjY1LTRiNjQtYmIzNy03ZDMxYTQyZDM4NjciLCJjc3JmVG9rZW4iOiIyNWY1MGUxOWI0ZmVjOGU2MGE2NDc0N2NkYWFlYTIyY2NjMWJkZDZhLTE3NjQyNDIzNTI2NjAtOGZmZjY3MjUxZmE0M2YwZjM1YjBjZWYyIn0sIm5iZiI6MTc2NDI0MjM1MiwiaWF0IjoxNzY0MjQyMzUyfQ.-Yc2v6p6iPG2Wrtn97lmDXMpQVDtvAeXppcQbzQSyPY"
+    },
+    {
+        "name": "_ga",
+        "domain": ".springerprofessional.de",
+        "path": "/",
+        "expiry": "1827314354",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.274234358.1764242355"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".springerprofessional.de",
+        "path": "/",
+        "expiry": "1779794355",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Thu+Nov+27+2025+20%3A19%3A15+GMT%2B0900+(Korean+Standard+Time)&version=202509.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f97bdfec-2a4b-4748-8db2-7b990e26c89e&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.springerprofessional.de%2F&groups=C0002%3A0%2CC0004%3A0%2CC0001%3A1%2CC0003%3A0%2Cgad%3A0%2CC0009%3A0%2CV2STACK42%3A0"
+    },
+    {
+        "name": "_ga_193JFRQSFC",
+        "domain": ".springerprofessional.de",
+        "path": "/",
+        "expiry": "1827314376",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764242354$o1$g0$t1764242376$j38$l0$h0"
+    }
+]

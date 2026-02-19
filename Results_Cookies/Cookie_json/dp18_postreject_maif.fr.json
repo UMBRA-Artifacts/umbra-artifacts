@@ -1,0 +1,122 @@
+[
+    {
+        "name": "SERVERID",
+        "domain": "www.maif.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "s23431"
+    },
+    {
+        "name": "dtCookie",
+        "domain": ".maif.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "v_4_srv_19_sn_1230AF7AD827EA31DDD62C6F72AF69B2_perc_100000_ol_0_mul_1_app-3A54c60223a9c3cb79_0"
+    },
+    {
+        "name": "DISTRIBUTED_JSESSIONID",
+        "domain": "www.maif.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "02d18669-054c-4b92-a633-be1f336c2f39.browsing.23416"
+    },
+    {
+        "name": "TCPID",
+        "domain": ".maif.fr",
+        "path": "/",
+        "expiry": "1798469305",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "12511023482512162749175"
+    },
+    {
+        "name": "atuserid",
+        "domain": ".maif.fr",
+        "path": "/",
+        "expiry": "1780238905",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%22037ddcf1-116b-4e06-bbf9-f6b24b90e6bb%22%2C%22options%22%3A%7B%22end%22%3A%222026-05-31T14%3A48%3A25.285Z%22%2C%22path%22%3A%22%2F%22%7D%7D"
+    },
+    {
+        "name": "slb_route",
+        "domain": "www.maif.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "4d768d4c7b4a6db4c79eab0b6a2511ac"
+    },
+    {
+        "name": "TS017fea21",
+        "domain": ".maif.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "0159fbb0da5066999a77081af83bb5a23126621bb9b3d6d9850ff8da92a908a61158caf958b5a724c9ad31c38045d7d7d2520463afe5a7568645a43e2d343c41b892a00ae1d24f250dd83a7ca95655ca556d0b45e22be7bb2d6f5112c5dbe9b6f0b12cc69ea8018d03e8439bbd86876b72d8b28317"
+    },
+    {
+        "name": "_cs_mk_pa",
+        "domain": ".maif.fr",
+        "path": "/",
+        "expiry": "1764515905",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0.4051737153906818_1764514105296"
+    },
+    {
+        "name": "pageRef",
+        "domain": ".maif.fr",
+        "path": "/",
+        "expiry": "1764515905",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "accueil"
+    },
+    {
+        "name": "TC_PRIVACY",
+        "domain": ".maif.fr",
+        "path": "/",
+        "expiry": "1780066108",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1%40112%7C8%7C3418%40%408%401764514108593%2C1764514108593%2C1780066108593%40"
+    },
+    {
+        "name": "TC_PRIVACY_CENTER",
+        "domain": ".maif.fr",
+        "path": "/",
+        "expiry": "1780066108",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": ""
+    },
+    {
+        "name": "atauthority",
+        "domain": ".maif.fr",
+        "path": "/",
+        "expiry": "1780238908",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22name%22%3A%22atauthority%22%2C%22val%22%3A%7B%22authority_name%22%3A%22cnil%22%2C%22visitor_mode%22%3A%22exempt%22%7D%2C%22options%22%3A%7B%22end%22%3A%222026-05-31T14%3A48%3A28.602Z%22%2C%22path%22%3A%22%2F%22%7D%7D"
+    }
+]

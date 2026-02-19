@@ -1,0 +1,342 @@
+[
+    {
+        "name": "__rtbh.lid",
+        "domain": "www.quattroruote.it",
+        "path": "/",
+        "expiry": "1795610379",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%225ZxAQLxYywiCorOyYerr%22%2C%22expiryDate%22%3A%222026-11-25T12%3A39%3A39.033Z%22%7D"
+    },
+    {
+        "name": "XANDR_PANID",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expiry": "1771850381.5712",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "hhy4twLP-tOHG6yMVGlRRB_GZS6rgDIWOGpL0XFMirvN137XfJzwNUSkO-pJC-WYPyJTjC5yzan7fQvpUn-lPLP3OU-tVu5xek7OMazEqYI."
+    },
+    {
+        "name": "uuid2",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expiry": "1771850381.57127",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "6350268472650778191"
+    },
+    {
+        "name": "_gcl_au",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1771850379",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1.1.107760956.1764074379"
+    },
+    {
+        "name": "gtm_global_session",
+        "domain": "www.quattroruote.it",
+        "path": "/",
+        "expiry": "1764076107",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "true"
+    },
+    {
+        "name": "dicbo_id",
+        "domain": "www.quattroruote.it",
+        "path": "/",
+        "expiry": "1764074679",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22dicbo_fetch%22%3A1764074379614%7D"
+    },
+    {
+        "name": "_gid",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1764160779",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.2.727554302.1764074380"
+    },
+    {
+        "name": "gtm_gacid",
+        "domain": "www.quattroruote.it",
+        "path": "/",
+        "expiry": "1764077835",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1830405638.1764074380"
+    },
+    {
+        "name": "_ga_6JWB8WXKTP",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1827146379",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GS2.1.s1764074379$o1$g0$t1764074379$j60$l0$h164713902"
+    },
+    {
+        "name": "_ga",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1827146379",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "GA1.1.1830405638.1764074380"
+    },
+    {
+        "name": "GCILB",
+        "domain": "www.quattroruote.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "\"3e23dd87b6dd98cc\""
+    },
+    {
+        "name": "JSESSIONID",
+        "domain": "www.quattroruote.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "node018p7sdjtwfcff112md2kbdo7m7520773.node0"
+    },
+    {
+        "name": "__rtbh.uid",
+        "domain": "www.quattroruote.it",
+        "path": "/",
+        "expiry": "1795610380",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22unknown%22%2C%22expiryDate%22%3A%222026-11-25T12%3A39%3A40.450Z%22%7D"
+    },
+    {
+        "name": "_hjSessionUser_1868412",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1795610380",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJpZCI6ImUwMTc5NGNhLWE2MzktNWZkMS1iZDFjLTI2ZjRkNjZhNTQ5MSIsImNyZWF0ZWQiOjE3NjQwNzQzODA2NzEsImV4aXN0aW5nIjpmYWxzZX0="
+    },
+    {
+        "name": "_hjSession_1868412",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1764076180",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJpZCI6IjM5MjdhMjM4LTYwZDctNDI5OC05Yjk3LTU1YWI1NzA1OGMwZCIsImMiOjE3NjQwNzQzODA2NzIsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0="
+    },
+    {
+        "name": "ts",
+        "domain": ".creativecdn.com",
+        "path": "/",
+        "expiry": "1795610380.76846",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1764074380"
+    },
+    {
+        "name": "g",
+        "domain": ".creativecdn.com",
+        "path": "/",
+        "expiry": "1795610380.76834",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "XWPixs1wayRBp9BmHrP5_1764074380622"
+    },
+    {
+        "name": "c",
+        "domain": ".creativecdn.com",
+        "path": "/",
+        "expiry": "1795610380.76841",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "XWPixs1wayRBp9BmHrP5_XqEGcd1CHQGNXXrIGjlp_1764074380622"
+    },
+    {
+        "name": "rqrt",
+        "domain": "www.quattroruote.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": ""
+    },
+    {
+        "name": "_fbp",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1771850381",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "fb.1.1764074381333.45850916762438109"
+    },
+    {
+        "name": "wt_nv",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1779626381",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "wt_nv_s",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "anj",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expiry": "1771850381.57125",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "dTM7k!M4/0CxrEQF']wIg2C%>HxakZ!EKw[%Yj3%IM?<^4CLx]2C!Q_4xpsjQ*%Jt4E-EJgp5=b4@k<E3x-<bQ=:Kt32MbF%(jJx24HH!7`29^Vkq*^9Rkfl9RrTqN-:t>"
+    },
+    {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expiry": "1827146381.78675",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "AHWqTUn_NHZ5AcolrvurVcNrvVVhviEdtlcJ6bljDdDnvfgEun4cJMms5sRQ1n0gT64"
+    },
+    {
+        "name": "wtsid_778835614863159",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1"
+    },
+    {
+        "name": "wt_mcp_sid",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1764076183",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "3154551154"
+    },
+    {
+        "name": "wteid_778835614863159",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1779626384.52281",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "4176407438300338414"
+    },
+    {
+        "name": "__browsiSessionID",
+        "domain": "www.quattroruote.it",
+        "path": "/",
+        "expiry": "1764076183",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "d8c15635-6784-47ae-a64e-6ea87b035a74&false&DEFAULT&kr&desktop-4.52.1252"
+    },
+    {
+        "name": "__browsiUID",
+        "domain": "www.quattroruote.it",
+        "path": "/",
+        "expiry": "1795610383",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "55f8a73f-7c52-4eb0-9d21-3e5c000f32c0"
+    },
+    {
+        "name": "wt_rla",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "778835614863159%2C22%2C1764074381409"
+    },
+    {
+        "name": "sbss_6dbf457a-faa6-469e-94f4-a3221d744c98",
+        "domain": "site-see.slgnt.eu",
+        "path": "/",
+        "expiry": "1795610384.47244",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "05a848d4-8741-48d0-95bd-b2b6cab68f39"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".slgnt.eu",
+        "path": "/",
+        "expiry": "1764076184.47253",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "qIXcclZo1rA2f6Z_FiBjo5o7jo9RWt1g.d9Uy4RTUJg-1764074384-1.0.1.1-Mug2K0oRcQCPiOCKjXHnkBJydY8oYdct0eUYRGqzDosbhKM5owV3JA4Y7f2DXfiBWqKmjyhptF59SnVifdLJwZB5WN2R7055Ze1wnSGS4l4"
+    },
+    {
+        "name": "sbt_i",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1795610384",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "7YTU0OGEzODYtOTg3Mi00ZWYxLTg5MjYtYzgwNDA1MDcxMDUyOzMDVhODQ4ZDQtODc0MS00OGQwLTk1YmQtYjJiNmNhYjY4ZjM5OzsA="
+    },
+    {
+        "name": "sbt_p",
+        "domain": ".quattroruote.it",
+        "path": "/",
+        "expiry": "1795610384",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "H4sIAAAAAAAAAwGDAnz9/////x+LCAAAAAAAAANTZ1AxME20MLFIMdG1MDcx1AWyDHQtTZNSdJOMksySE5PMLNKMLVUMoEAXCwEDB16z7Z7FyMAAowkAkAp0LehakU3hhvL1pDDVMzIgMEyMv7A0saSkKL+oNL8kVS+zhIGhwZ4UeRjgKijKL0gtKslMLUZxFrp9+MyFYCTd+kR6giUjPzcV3WVYBWGAvTg1uSQzP48ot8JNwnBgGJEOFEHzbTw2txGlCAY4MzJTixKLkjMq8XoBBjCDmyJ/axPpb9bEHKCl6H7ALgpPwcn5eSWpeSUhlQWpRDkTYRyGO+UkiHMnW0pmETBBoDsJhzAM8IYEObq5eToH+4cGObsS5VYkEzEcK0+kY5kKktFdhEUIBrhcXMM8nV1DIgOIcyHUKAzXKeBwHdxAZICtXGMPcnVzDXINwlADYigR6XfmklKMLIFNDAY4XRwj/d3CXV29ifI8zCgM3ysT6T7OxLSS1KK8fFDJguoi3DJwtwY4BoX4uwFdTJRbUQ3EcLEKkS7mBXo5Hqfb8MvCAI+vv6+rXwgRAQ0DkICm3JeqRPqSWtUcm4u/r6OnH1FOJ1jFwaMq0dTEItHYwkzX0sLcSNckNc1Q18LSyEw32cLAxMDUwNzQwNQImw3orsPWMEDJiozR6CJDBhyE+o3GPoBZM9qOGm1HYVE+2o4abUeNtqMIen60HTXajqJvO4qB4Y78pfJnYFaDENSk/ysQ0nBfYWskObcRqVB5OpEKhWYRqVCYWIVqs4lU+HAOkQprFhCpcAWxCkMXEakwhFiFfUuIVHh3KZEK3y4nUiHnSiIV8qwmUqHaWiIVni0mQiE2QEAaAQAG5p2G0xQAAEYj9UGDAgAA5gV6OR6n2/DLwgCPr7+vq18IEQENA5CAptyXqkT6klrVHJuLv6+jpx9RTidYxcGjKtHUxCLR2MJM19LC3EjXJDXNUNfC0shMN9nCwMTA1MDc0MDUCJsN6K7D1jBAyYqM0egiQwYc"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "__codnp",
+        "domain": ".omni.se",
+        "path": "/",
+        "expiry": "1764167415",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": ""
+    },
+    {
+        "name": "_sp_su",
+        "domain": ".omni.se",
+        "path": "/",
+        "expiry": "1795617016.10779",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "false"
+    },
+    {
+        "name": "XANDR_PANID",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expiry": "1771857018.19864",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "NAUhBQxKJ-9NaGna6dDiu6qX9DK0iMmF6n9N7e0RVe33mAjd19GfPN-YLC7BGtKAeBbmJZ8WS-j26cuwuB5eN03RlG40hIllWm6wKNGBizg."
+    },
+    {
+        "name": "uuid2",
+        "domain": ".adnxs.com",
+        "path": "/",
+        "expiry": "1771857018.19874",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "7257211569009239665"
+    },
+    {
+        "name": "_pulsesession",
+        "domain": ".omni.se",
+        "path": "/",
+        "expiry": "1764082817",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "%5B%22sdrn%3Aschibsted%3Asession%3A08bf165e-9a98-4e70-91c3-ada9aa9df759%22%2C1764081017741%2C1764081017741%5D"
+    },
+    {
+        "name": "cis-jwt",
+        "domain": ".schibsted.com",
+        "path": "/",
+        "expiry": "1795617018.49843",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJraWQiOiIxIiwiYWxnIjoiSFMyNTYifQ.eyJyZUlzc3VlZEF0IjoiMjAyNS0xMS0yNVQxNDozMDoxOFoiLCJlbnZpcm9ubWVudElkIjoiYWY2MmY5MTMtN2M3Zi00NTMwLTgyZDctMzNmY2NiY2YwNWZhIiwiaXNzdWVkQXQiOiIyMDI1LTExLTI1VDE0OjMwOjE1WiJ9.DK7-ePlptnrL6Ih-pi8cLX_HepYeEhMf1BxfTwW80zI"
+    },
+    {
+        "name": "_pulse2data",
+        "domain": ".omni.se",
+        "path": "/",
+        "expiry": "1827153018",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "af62f913-7c7f-4530-82d7-33fccbcf05fa%2Cv%2C%2C1764685818000%2CeyJpc3N1ZWRBdCI6IjIwMjUtMTEtMjVUMTQ6MzA6MTVaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI1LTExLTI1VDE0OjMwOjE4WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..paqs1qMypYYNZoLcz5dXcg.uPI5kTowjYeAOme6uan4bIDsV2CfWgE0Ux8ME32Fr5KeJ4btAsaCNfJd1t6pydM2WRIWMNUewU_s4wQ070a90akCbZZKHx1X-EUIiPA3cli-HJCyW6mv1LFFr3QUexDx4N2OQgnNLlCWiy483Sij-BwRh2gfZIWy-SyaAzCgnpfyaBXZUepeHqgg2lnJAdJNsK4ruwXIcJSDweCW0axXo00WODmTpUcJxSL86WnrQ9n6RBZEI8Aqa8eb1l3j-idyKiIzFdoot655swaL-i18uNpyTlVMMnq0aCCRkVqTwnOY9qKXHXJPIvADv9gNYrs3Zq0o6V1WtBmzh4yKS5vNiyU0ImvK6bD7t6WWW41SalipHWmVO4nj8FfEDDhyJe8a.1jPjU8zxAgyhg5F_RWx7KA%2C7257211569009239665%2C1764095418501%2Ctrue%2C%2CeyJraWQiOiIyIiwiYWxnIjoiSFMyNTYifQ..NT1dMFcnVB2Pq_op4BKGgSK3tOxmmm4NK_5Uyxy7krM"
+    }
+]

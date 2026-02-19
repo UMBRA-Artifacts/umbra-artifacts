@@ -1,0 +1,142 @@
+[
+    {
+        "name": "LANG",
+        "domain": ".ignitioncasino.eu",
+        "path": "/",
+        "expiry": "1795881668.51199",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "en"
+    },
+    {
+        "name": "VISITED",
+        "domain": ".ignitioncasino.eu",
+        "path": "/",
+        "expiry": "2079630856.51228",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "true"
+    },
+    {
+        "name": "Device-Type",
+        "domain": ".ignitioncasino.eu",
+        "path": "/",
+        "expiry": "2079630856.51236",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "Desktop|false"
+    },
+    {
+        "name": "variant",
+        "domain": ".ignitioncasino.eu",
+        "path": "/",
+        "expiry": "2079630856.5124",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "v:0|lgn:0|dt:d|os:li|cntry:KR|cur:USD|jn:0|rt:o|pb:0"
+    },
+    {
+        "name": "AB",
+        "domain": "www.ignitioncasino.eu",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "variant"
+    },
+    {
+        "name": "randMktUserId",
+        "domain": "www.ignitioncasino.eu",
+        "path": "/",
+        "expiry": "1779897669",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "5|Thu May 28 2026"
+    },
+    {
+        "name": "__cf_bm",
+        "domain": ".js.ubembed.com",
+        "path": "/",
+        "expiry": "1764347469.57104",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "bhoDzJAZWgWVJqpKxZdFOB.QxXVAMKgcoJhIiwR6WQI-1764345669-1.0.1.1-OLogACTDKl4AcbqLxw3xYp78m.ugOIcJkCh9IEhq9hEmQxuODSYrKz_lFYe7alhJm9Fp0QmQOW_UdX.G98Z4GHVguxPRjmifpewYnhX.39g"
+    },
+    {
+        "name": "igncusttype",
+        "domain": "www.ignitioncasino.eu",
+        "path": "/",
+        "expiry": "1779897669",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "false"
+    },
+    {
+        "name": "TS016f4f7d",
+        "domain": ".www.ignitioncasino.eu",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "014b5d5d07d68e606281236bac92c3742f6835bfca79080a8c8d8fc6c74c875702f35b88b44d2300e8e65dff9922dd69683c51b85f"
+    },
+    {
+        "name": "_pk_id.5.e1e1",
+        "domain": "www.ignitioncasino.eu",
+        "path": "/",
+        "expiry": "1798300870",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "9872734d7282067c.1764345670."
+    },
+    {
+        "name": "_pk_ses.5.e1e1",
+        "domain": "www.ignitioncasino.eu",
+        "path": "/",
+        "expiry": "1764347470",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "_hjSessionUser_1203132",
+        "domain": ".ignitioncasino.eu",
+        "path": "/",
+        "expiry": "1795881706",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJpZCI6ImI2OGQzZjExLTliNDUtNTcxZS04MTg3LTRkN2Q4OThhYmM1ZCIsImNyZWF0ZWQiOjE3NjQzNDU3MDYxODgsImV4aXN0aW5nIjpmYWxzZX0="
+    },
+    {
+        "name": "_hjSession_1203132",
+        "domain": ".ignitioncasino.eu",
+        "path": "/",
+        "expiry": "1764347506",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "eyJpZCI6IjBmZWUxOGM1LTIwODEtNDE3NC05ZDJhLWU1M2UzMjQ2NWZjMSIsImMiOjE3NjQzNDU3MDYxODksInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MX0="
+    },
+    {
+        "name": "TS010f9cb0",
+        "domain": ".ignitioncasino.eu",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "014b5d5d07e554384470bdaf37df1dc7ded48d4a175c3215b17ee0f4e39bd20d73728ffb46163477bcedd4cd6426765f21477cd5df251e3d6e798f233fdaa262b4fabdbb2cca2bb20bb949f705f0b1169b9fc81acd87b83094842a3f24352d8c2de4c57450f935efa7a533ba20c6f4037d8f77234de7c3acf15f6290aea2e43f2a984e7882"
+    }
+]

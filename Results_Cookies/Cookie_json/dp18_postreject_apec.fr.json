@@ -1,0 +1,142 @@
+[
+    {
+        "name": "mogobiz_uuid",
+        "domain": "www.apec.fr",
+        "path": "/",
+        "expiry": "1795756593.71997",
+        "httpOnly": "1",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "CgEK8mkn3rGU/3xVChjnAg=="
+    },
+    {
+        "name": "ak_bmsc",
+        "domain": ".apec.fr",
+        "path": "/",
+        "expiry": "1764227793.72012",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "41D8819BF536BF3CBA844FE4AD245345~000000000000000000000000000000~YAAQvI5lX456maCaAQAAquW9wx2jVvrzIPPiP2LMglE+tqtsYgj8zhBniDc9YcCubNnJn7CfEeXnSmnbcTIH1P7HAEsJy3WNdiTvwK0GyxT3ZckYWAMIX77KbIrENZl3aIiiiPqFs/LuyvIgbtruPZkZjqnZxF67Xz7vYio8SBMOZY0ZSZ6Hap29iVoSKpVl0/MlaGCCSU6cGmHIPKxD1BvpHlrILQ7Ub1yKH4PjyOomVF4VZT1H/AOV6xyX1za9Cd0wPUq0h+gano2xnmfL30YqE7D0FnkTKVhOPt+i34O2fMDg3xli2entUCNfucZq1fk9yQyplQ2XYUsw4Pw0wNvmQqgNJQS6qobfwqVaHu8wCNh9P0CDn4RcfMQDA4oh9QrvqOQaW1Gg6dw="
+    },
+    {
+        "name": "atuserid",
+        "domain": "www.apec.fr",
+        "path": "/",
+        "expiry": "1798521395",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%2290f03f95-a7c7-4cb5-a8f1-9196b1e5fa79%22%2C%22options%22%3A%7B%22end%22%3A%222026-12-29T05%3A16%3A35.017Z%22%2C%22path%22%3A%22%2F%22%7D%7D"
+    },
+    {
+        "name": "atauthority",
+        "domain": "www.apec.fr",
+        "path": "/",
+        "expiry": "1798521395",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22name%22%3A%22atauthority%22%2C%22val%22%3A%7B%22authority_name%22%3A%22cnil%22%2C%22visitor_mode%22%3A%22exempt%22%7D%2C%22options%22%3A%7B%22end%22%3A%222026-12-29T05%3A16%3A35.019Z%22%2C%22path%22%3A%22%2F%22%7D%7D"
+    },
+    {
+        "name": "mogobiz_time",
+        "domain": "www.apec.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "2025-11-27T06:16:36+01:00"
+    },
+    {
+        "name": "srv_id",
+        "domain": ".www.apec.fr",
+        "path": "/",
+        "expiry": "1764825396.91032",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "1",
+        "value": "7ad58911a326e631e6c3baa765a91d15"
+    },
+    {
+        "name": "JSESSIONID",
+        "domain": "www.apec.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "E0BF3613CCB7B698E02AA0852928BFCE"
+    },
+    {
+        "name": "bm_sv",
+        "domain": ".apec.fr",
+        "path": "/",
+        "expiry": "1764227796.91047",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "C9596D3979335CA6A877BED132A5F00A~YAAQBZhUaAQEgauaAQAAHPK9wx3JixxNSCfsLfOb8hsbkLg/58gtOKHW8lPG7WhrfoUxZfGsWIisVSOSJk1KfbZ0FRRMtXZohlQCEFlOA9hxIBk1qOBQAi6SK/qNiQnUBoZebzMyIs55X7DpM1M0d1mcFjyKNBy42804aDpsl7XQEDQ5KQFkBSBDubla4eMAzkVNhMaMYUp5R2C+GIRfEsyGZvc1THcubjLwj2XuOjDu5ljQ6iIwRxyFy4eV~1"
+    },
+    {
+        "name": "bm_sz",
+        "domain": ".apec.fr",
+        "path": "/",
+        "expiry": "1764234993.97817",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "DC7C05FB61449C994EC1D78908CF4AAE~YAAQBZhUaAcEgauaAQAAZPK9wx375xi6vsaPVRjj8CWpUqiLAkoV/pLeHAz0jNQzi6DTYcUrt90y0IpSuYifYkvOxrw0HC7PU+3vWm0YOGJ1y/eimZeZ82NNMRBlPw5lBM4Ygj2KWHb1Kr5U2A/q35/j/0mCgfvLDVb2QIjpBdKNFL9a79/dEtVzWdxpyn/8cj19wfn7OJnCXHWbpRFHzDNOnw0hCwUURtnQJGbs2/ApsWQ1Ux9fX4HWIUeKFkU9e8LY3SZipfFBzgfRQ7SraGpyrDk6zi4eKSLFNL3KlllnVtpgx8Tps7T8mBZizEYIp/wREIbktqqQP8PrtGHoTaC/IbAA23iL7FTodTsXqbS+DxwYygRTfbR+WyawTIqqVSpEMBOhI0ElW2vtlyc0u/r2sQ==~3294519~3291442"
+    },
+    {
+        "name": "ry_ry-4p3cq10f_realytics",
+        "domain": ".apec.fr",
+        "path": "/",
+        "expiry": "1795756597",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "eyJpZCI6InJ5Xzk3RjRFNEIxLUQzMkItNDU1Ni1CNTE4LTlEQjZEQjMxQTYzNCIsImNpZCI6bnVsbCwiZXhwIjoxNzk1NzU2NTk3NDgyLCJjcyI6bnVsbH0%3D"
+    },
+    {
+        "name": "ry_ry-4p3cq10f_so_realytics",
+        "domain": ".apec.fr",
+        "path": "/",
+        "expiry": "1764222397",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "eyJpZCI6InJ5Xzk3RjRFNEIxLUQzMkItNDU1Ni1CNTE4LTlEQjZEQjMxQTYzNCIsImNpZCI6bnVsbCwib3JpZ2luIjp0cnVlLCJyZWYiOm51bGwsImNvbnQiOm51bGwsIm5zIjpmYWxzZSwic2MiOm51bGwsInNwIjpudWxsfQ%3D%3D"
+    },
+    {
+        "name": "OptanonAlertBoxClosed",
+        "domain": ".apec.fr",
+        "path": "/",
+        "expiry": "1779772600",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "2025-11-27T05:16:40.906Z"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".apec.fr",
+        "path": "/",
+        "expiry": "1779772600",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Thu+Nov+27+2025+14%3A16%3A40+GMT%2B0900+(Korean+Standard+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=422ee407-5091-433e-9388-532095b13982&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=2"
+    },
+    {
+        "name": "_abck",
+        "domain": ".apec.fr",
+        "path": "/",
+        "expiry": "1795756601.27162",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "4524B341B569C88C076869CFD8C11421~-1~YAAQBZhUaEQEgauaAQAAKwO+ww6ABh97F3wIp0d9kRrdA0jJdypGlH9qYummFpGvyfZdD2kJwb8QZFyFRuc70o4ci8Ozptt/sS8ZxKF/dbIhoxJgzmEUnPSp18pbyRJBP9/NJ1s6L83lWmwJuO2KWglWUDo1+Li1+Ev2eLq+RQ3ip2q/zRcI64HJTeX3IIKTHqFWe25KFeFd1qaMurpZrUJKuffg/g5OggWqstXGyg1cP/iexwH6RGGWvQQUcCh8T/2AnxpcGJXeSsi/6FewO1R1LrXie2MK91XotIuvqRwoZTTE7VEK0krp56KtSU/lQiZqLswqwU+M5pQRxU9YcAjpfJF0bN5cxpXH92Ob/XlKlUxq/EW8ux7oQLn+z88DLR+epMs3M9dwEN3H8WcHaHDZiyV9A/wimZumDJxHH8QACX/X/q5GnyGuzgYELTAau+6FAyoUTfhPbt4y3riELX6OhCov5pGSULficjAYp4AEw6vCkMnIoQSM9J5BhGntKwK3d/CYyJg48DQBDbhmMw==~-1~-1~1764224196~-1~-1"
+    }
+]

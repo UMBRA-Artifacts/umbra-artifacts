@@ -1,0 +1,192 @@
+[
+    {
+        "name": "MID",
+        "domain": ".modz.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "ywsge3j5tzk0xobbx51asiat"
+    },
+    {
+        "name": "MP",
+        "domain": ".www.modz.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "{\"FEMME\":{\"name\":\"FEMME\",\"gender\":\"FEMME\",\"sizes\":{},\"Version\":\"2.0\",\"lastupdated\":null},\"HOMME\":{\"name\":\"HOMME\",\"gender\":\"HOMME\",\"sizes\":{},\"Version\":\"2.0\",\"lastupdated\":null},\"FILLE\":{\"name\":\"FILLE\",\"gender\":\"FILLE\",\"sizes\":{},\"Version\":\"2.0\",\"lastupdated\":null},\"GARCON\":{\"name\":\"GARCON\",\"gender\":\"GARCON\",\"sizes\":{},\"Version\":\"2.0\",\"lastupdated\":null}}"
+    },
+    {
+        "name": "MPN",
+        "domain": ".www.modz.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "{\"FEMME\":{\"name\":\"FEMME\",\"gender\":\"FEMME\",\"sizes\":{},\"Version\":\"2.0\",\"lastupdated\":null},\"HOMME\":{\"name\":\"HOMME\",\"gender\":\"HOMME\",\"sizes\":{},\"Version\":\"2.0\",\"lastupdated\":null},\"FILLE\":{\"name\":\"FILLE\",\"gender\":\"FILLE\",\"sizes\":{},\"Version\":\"2.0\",\"lastupdated\":null},\"GARCON\":{\"name\":\"GARCON\",\"gender\":\"GARCON\",\"sizes\":{},\"Version\":\"2.0\",\"lastupdated\":null}}"
+    },
+    {
+        "name": "SERVERID",
+        "domain": "www.modz.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "H2a6w8MquKFYRy9kf4zVem"
+    },
+    {
+        "name": "SERVERID",
+        "domain": "pics21.modz.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1LKaiU64kVT6Jsa7"
+    },
+    {
+        "name": "CLID",
+        "domain": "www.clarity.ms",
+        "path": "/",
+        "expiry": "1795696927.70605",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "a5062c5e3a424a4bbf0e37db9a008e02.20251126.20261126"
+    },
+    {
+        "name": "SERVERID",
+        "domain": "pictures.modz.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "UJb3859KuFJeqiL5"
+    },
+    {
+        "name": "_clck",
+        "domain": ".modz.fr",
+        "path": "/",
+        "expiry": "1795696928",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1mz6o0k%5E2%5Eg1c%5E0%5E2156"
+    },
+    {
+        "name": "_pk_id.1.e939",
+        "domain": "www.modz.fr",
+        "path": "/",
+        "expiry": "1798116128",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "510de756556bab50.1764160928."
+    },
+    {
+        "name": "_pk_ses.1.e939",
+        "domain": "www.modz.fr",
+        "path": "/",
+        "expiry": "1764162728",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "path": "/",
+        "expiry": "1797856929.65316",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1C5145E10AEA68E4230C53510BC36984"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1764765729.65326",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "SRM_B",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1797856929.65332",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1C5145E10AEA68E4230C53510BC36984"
+    },
+    {
+        "name": "SM",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "C"
+    },
+    {
+        "name": "MUID",
+        "domain": ".clarity.ms",
+        "path": "/",
+        "expiry": "1797856928.72125",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "1C5145E10AEA68E4230C53510BC36984"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1764765728.72132",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "ANONCHK",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1764161528.72136",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "_clsk",
+        "domain": ".modz.fr",
+        "path": "/",
+        "expiry": "1764247328",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1y6q5td%5E1764160928798%5E1%5E1%5El.clarity.ms%2Fcollect"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".modz.fr",
+        "path": "/",
+        "expiry": "1795696928",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Wed+Nov+26+2025+21%3A42%3A08+GMT%2B0900+(Korean+Standard+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=925354d9-524f-4526-b242-6c73cf0ab19a&interactionCount=0&landingPath=https%3A%2F%2Fwww.modz.fr%2F&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&hosts=H3%3A0%2CH25%3A0%2CH5%3A0%2CH7%3A0%2CH57%3A0&genVendors="
+    }
+]

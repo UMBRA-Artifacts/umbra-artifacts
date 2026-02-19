@@ -1,0 +1,32 @@
+[
+    {
+        "name": "_pk_id.1.fa5c",
+        "domain": "www.polytechnique.edu",
+        "path": "/",
+        "expiry": "1798278040",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "8aa0b23e37f393e1.1764322840."
+    },
+    {
+        "name": "_pk_ses.1.fa5c",
+        "domain": "www.polytechnique.edu",
+        "path": "/",
+        "expiry": "1764324640",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "tarteaucitron",
+        "domain": "www.polytechnique.edu",
+        "path": "/",
+        "expiry": "1795858840",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "!googletagmanager=wait!sharethiscustom=wait!acast=wait!dailymotion=wait!vimeo=wait!youtube=wait"
+    }
+]

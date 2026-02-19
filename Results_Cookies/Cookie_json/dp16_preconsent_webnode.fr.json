@@ -1,0 +1,152 @@
+[
+    {
+        "name": "tu",
+        "domain": "www.webnode.com",
+        "path": "/fr",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "a47659f4d21550491e4b8d6e7ee4583b0a8ebf12.17640791386925b622dc5b2"
+    },
+    {
+        "name": "mfd",
+        "domain": "www.webnode.com",
+        "path": "/fr",
+        "expiry": "1764165539.08757",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "mfdp",
+        "domain": "www.webnode.com",
+        "path": "/fr",
+        "expiry": "2079611940.1442",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "hpversion",
+        "domain": "www.webnode.com",
+        "path": "/fr",
+        "expiry": "1766671139.08763",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "aiprompt"
+    },
+    {
+        "name": "PHPSESSID",
+        "domain": "www.webnode.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "1fe29cvnhirpuglqau1afcofjt"
+    },
+    {
+        "name": "ubh",
+        "domain": ".www.webnode.fr",
+        "path": "/",
+        "expiry": "1827151137.56962",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "ecff3cd79a943e76264942da24eef12688e2bfa7"
+    },
+    {
+        "name": "usi",
+        "domain": ".www.webnode.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "17640791376925b62168352"
+    },
+    {
+        "name": "tu",
+        "domain": "www.webnode.fr",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "ecff3cd79a943e76264942da24eef12688e2bfa7.17640791376925b62168352"
+    },
+    {
+        "name": "mfd",
+        "domain": "www.webnode.fr",
+        "path": "/",
+        "expiry": "1764165537.56967",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "mfdp",
+        "domain": "www.webnode.fr",
+        "path": "/",
+        "expiry": "2079611937.56968",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1"
+    },
+    {
+        "name": "PHPSESSID",
+        "domain": "www.webnode.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "oi2ddmv6phf4e6tvcimajgmhtk"
+    },
+    {
+        "name": "ubh",
+        "domain": ".www.webnode.com",
+        "path": "/",
+        "expiry": "1827151139.08742",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "a47659f4d21550491e4b8d6e7ee4583b0a8ebf12"
+    },
+    {
+        "name": "usi",
+        "domain": ".www.webnode.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "17640791386925b622dc5b2"
+    },
+    {
+        "name": "_ashkii",
+        "domain": ".webnode.com",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "JSON_eyJzaWQiOiJjNmNlZGRmNDhiZDA0YzE5ZDdkOTlhMWVhNDNkM2Y3NCIsImNrdGltZSI6IjE3NjQwNzkxNDIiLCJzc3AiOiIxIiwicHAiOiJBMDAifQ=="
+    },
+    {
+        "name": "_wicasa",
+        "domain": ".webnode.com",
+        "path": "/",
+        "expiry": "1771855142",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "JSON_eyJjaWQiOiJjNmNlZGRmNDhiZDA0YzE5ZDdkOTlhMWVhNDNkM2Y3NCIsImNrdGltZSI6IjE3NjQwNzkxNDIiLCJzY3AiOiIxIiwicGsiOiJBMDAiLCJja2Jvcm4iOiIxNzY0MDc5MTQyIiwibGFzdHJlZiI6Ind3dy53ZWJub2RlLmNvbVwvZnJcLyIsImxhc3Rkb21zcmMiOiIiLCJpc2NsaSI6IjEifQ=="
+    }
+]

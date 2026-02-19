@@ -1,0 +1,92 @@
+[
+    {
+        "name": "device_view",
+        "domain": "www.santemagazine.fr",
+        "path": "/",
+        "expiry": "1767019040.14812",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "full"
+    },
+    {
+        "name": "ts",
+        "domain": ".dailymotion.com",
+        "path": "/",
+        "expiry": "1798555036.80829",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "828861"
+    },
+    {
+        "name": "v1st",
+        "domain": ".dailymotion.com",
+        "path": "/",
+        "expiry": "1798555036.80837",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "8c92b163-401d-089b-a7b1-d46f8b5c48e4"
+    },
+    {
+        "name": "didomi_token",
+        "domain": ".santemagazine.fr",
+        "path": "/",
+        "expiry": "1788100637",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "eyJ1c2VyX2lkIjoiMTlhZDAwYmYtYzUyNy02Mjk2LThkODItZmNiZmRkNmYzYjA2IiwiY3JlYXRlZCI6IjIwMjUtMTEtMjlUMTQ6Mzc6MTcuNzc4WiIsInVwZGF0ZWQiOiIyMDI1LTExLTI5VDE0OjM3OjE3Ljc3OFoiLCJ2ZXJzaW9uIjpudWxsfQ=="
+    },
+    {
+        "name": "pa_privacy",
+        "domain": "www.santemagazine.fr",
+        "path": "/",
+        "expiry": "1798555038",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%22exempt%22"
+    },
+    {
+        "name": "_pcid",
+        "domain": ".santemagazine.fr",
+        "path": "/",
+        "expiry": "1798555038",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7B%22browserId%22%3A%22mikeavsyyxi1ushk%22%2C%22_t%22%3A%22my8t8d57%7Cmikeavt7%22%7D"
+    },
+    {
+        "name": "_pctx",
+        "domain": ".santemagazine.fr",
+        "path": "/",
+        "expiry": "1798555038",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAJ4AOfMNYBWYQB9%2B9ANZRCANzEgAvkA"
+    },
+    {
+        "name": "device_view",
+        "domain": "mon-compte.santemagazine.fr",
+        "path": "/",
+        "expiry": "1767019038.2894",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "full"
+    },
+    {
+        "name": "SESSID",
+        "domain": "mon-compte.santemagazine.fr",
+        "path": "/",
+        "expiry": "1795963038.28948",
+        "httpOnly": "1",
+        "sameSite": null,
+        "secure": "0",
+        "value": "7qcnoustruo5do442eit677gv9"
+    }
+]

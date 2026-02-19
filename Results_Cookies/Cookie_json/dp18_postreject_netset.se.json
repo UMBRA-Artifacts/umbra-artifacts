@@ -1,0 +1,22 @@
+[
+    {
+        "name": ".AspNetCore.Antiforgery.sesRmHo0Cw8",
+        "domain": "www.netset.se",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "1",
+        "sameSite": "Strict",
+        "secure": "0",
+        "value": "CfDJ8CEBCYCPeyxGkBN-camR1TOTjp0cGxtAyPs4uRyKetu8n11ox_VFP-YWQovz8kt_qSCpKzF6yd9QPyGf3StmkpHX2IMnIrabp5I7vAY2TGoCfZN_8q211cmsZunZvyiauvSgkN74oAeFDqDSPnb3sAM"
+    },
+    {
+        "name": "CookieScriptConsent",
+        "domain": "www.netset.se",
+        "path": "/",
+        "expiry": "1767105285",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "{\"googleconsentmap\":{\"ad_storage\":\"targeting\",\"analytics_storage\":\"performance\",\"ad_user_data\":\"targeting\",\"ad_personalization\":\"targeting\",\"functionality_storage\":\"functionality\",\"personalization_storage\":\"functionality\",\"security_storage\":\"functionality\"},\"action\":\"reject\",\"consenttime\":1744190149,\"categories\":\"[]\",\"key\":\"e27cf08c-5ed1-4fa0-9e0d-40193a3c8d4c\"}"
+    }
+]

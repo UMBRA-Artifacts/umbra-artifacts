@@ -1,0 +1,22 @@
+[
+    {
+        "name": "CN_geo_country_code",
+        "domain": ".glamour.es",
+        "path": "/",
+        "expiry": "1779988246.83401",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "KR"
+    },
+    {
+        "name": "fides_consent",
+        "domain": ".glamour.es",
+        "path": "/",
+        "expiry": "1795612888",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22consent%22%3A%7B%22sales_sharing_targeted_advertising%22%3Afalse%2C%22social_media%22%3Afalse%2C%22analytics%22%3Afalse%2C%22audience_measurement%22%3Afalse%2C%22functional%22%3Afalse%2C%22essential%22%3Atrue%7D%2C%22identity%22%3A%7B%22fides_user_device_id%22%3A%224624da8a-c704-4cf0-a760-87488df24907%22%7D%2C%22fides_meta%22%3A%7B%22version%22%3A%220.9.0%22%2C%22createdAt%22%3A%222025-11-25T13%3A21%3A22.267Z%22%2C%22updatedAt%22%3A%222025-11-25T13%3A21%3A28.458Z%22%2C%22consentMethod%22%3A%22reject%22%7D%2C%22tcf_consent%22%3A%7B%22system_consent_preferences%22%3A%7B%22ctl_a9a33f13-c6ba-41a2-9f8b-ec445ee246ba%22%3Afalse%7D%2C%22system_legitimate_interests_preferences%22%3A%7B%7D%7D%2C%22non_applicable_notice_keys%22%3A%5B%5D%2C%22fides_string%22%3A%22CQbcW8AQbcW8AGXABBENCGFgAAAAAAIAAAwIAAAS5ICyAkQWMAEUGAqARQAYQgeAoABRAgiCACAAgACAAQAAQAJBAACCAEAAAAAMAAAQACAAAJQIAAAAAAAAAAAAACAAAAAACCAQAAIAEAAAAAAAAAAAAAAIAABAAAAAAABEAAAgARAAAAAAAAAAEACAAAKAAAAAAAAAAAAgAAAAAAAAEAAAAAAgAAAAAAAACAAAAAAAAAAQAAEAYdAiAAWABUADkAMgA1ACYAFUALoAYgA3gB-gEQARIAjgBRgDKgHOAd0A9gD9gIoAi0BHAEmAKuAXMAxQBtADiAIdAReAkQBMgC2AFyAMsAbqA_sCOwE1QkBwABcAFQAXgA4AD0AMgA1ACYAFUAN4AfoBCAESAI4AZUA5wDugHsAgABFICOAJMAVcAuYBigDaAHEAQ6AkQBbEC5ALzAbqBCECF4E1SEBAABYANQAqgBiADeAH6Ac4B3AEUAI4AVcAuYBigDaAIdAXIA_slAWAAWABwAJgAVQAxQCIAIkARwAowCOAFXALmAYoA4gCHQEXgJEAU0AtiBcgF5gMsAhCBNUpAhAAWABUADkAMgA0ACYAFUAMQAfoBEAESAI4AUYAygBzgD9AItARwBIgCrgFzAMUAbQA4gCHQEXgJEAU0AtiBcgF5gMsAbqA_sCEIEdgJqloAgANQB3AEcAU0AAA%2C2~~dv.70.89.108.149.196.239.266.311.486.494.550.938.1092.1205.1230.1421.1558.1603.1653.1725.1810.1825.1827.1942.1967.2072.2074.2213.2316.2343.2510.2571.2572.2628.2677.2886.2887.2949.2973.3128.3130.3151.3155.3182.3234.3281.3290.3292.3324%22%2C%22tcf_version_hash%22%3A%22abdf7a3f29ec%22%7D"
+    }
+]

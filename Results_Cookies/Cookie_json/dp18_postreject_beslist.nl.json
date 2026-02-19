@@ -1,0 +1,152 @@
+[
+    {
+        "name": "test_uuid",
+        "domain": "www.beslist.nl",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "72c4f51a-1ed9-496a-b61e-327d21b109c0"
+    },
+    {
+        "name": "opt_seg",
+        "domain": ".beslist.nl",
+        "path": "/",
+        "expiry": "1772860444.80295",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "g6"
+    },
+    {
+        "name": "client_uuid",
+        "domain": ".beslist.nl",
+        "path": "/",
+        "expiry": "2079580445",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "d5b70c5c-868d-4039-b50f-3ea0ef76ca08"
+    },
+    {
+        "name": "sb_code",
+        "domain": ".beslist.nl",
+        "path": "/",
+        "expiry": "1764825245.45471",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "980c9a08-3186-4925-a421-d798b7b367db"
+    },
+    {
+        "name": "_gaclientid",
+        "domain": ".www.beslist.nl",
+        "path": "/",
+        "expiry": "1764222245",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1800948656.1764220446"
+    },
+    {
+        "name": "_gasessionid",
+        "domain": ".www.beslist.nl",
+        "path": "/",
+        "expiry": "1764222245",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "20251127|07323785"
+    },
+    {
+        "name": "_gahitid",
+        "domain": ".www.beslist.nl",
+        "path": "/",
+        "expiry": "1764222245",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "14:14:05"
+    },
+    {
+        "name": "bslstcache",
+        "domain": ".beslist.nl",
+        "path": "/",
+        "expiry": "1810876445.95237",
+        "httpOnly": "1",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "B184949077-1764220446-1810876446"
+    },
+    {
+        "name": "bslstuid",
+        "domain": ".beslist.nl",
+        "path": "/",
+        "expiry": "1810876445.95247",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "B184949077-1764220446"
+    },
+    {
+        "name": "xbslstuid",
+        "domain": ".beslist.nl",
+        "path": "/",
+        "expiry": "1810876445.95251",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "B184949077-1764220446"
+    },
+    {
+        "name": "bslstsid",
+        "domain": ".beslist.nl",
+        "path": "/",
+        "expiry": "1764222245",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "1",
+        "value": "810855066-1764222245962"
+    },
+    {
+        "name": "xbslstsid",
+        "domain": ".beslist.nl",
+        "path": "/",
+        "expiry": "1764222245",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "810855066-1764222245962"
+    },
+    {
+        "name": "beslistVisit",
+        "domain": ".www.beslist.nl",
+        "path": "/",
+        "expiry": "1764222246",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "150167798993009"
+    },
+    {
+        "name": "firstVisitID",
+        "domain": ".www.beslist.nl",
+        "path": "/",
+        "expiry": "1795756446",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "150167798993009"
+    },
+    {
+        "name": "cookie_banner",
+        "domain": ".beslist.nl",
+        "path": "/",
+        "expiry": "1795756447",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22functional%22%3A1%2C%22analytical%22%3A1%2C%22marketing%22%3A0%7D"
+    }
+]

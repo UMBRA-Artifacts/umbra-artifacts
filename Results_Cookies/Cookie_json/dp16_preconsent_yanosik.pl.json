@@ -1,0 +1,22 @@
+[
+    {
+        "name": "cookieyes-consent",
+        "domain": "www.yanosik.pl",
+        "path": "/",
+        "expiry": "1796048988",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "consentid:c213OW91aFFOdk41NlRYRnBRRjQ0cU9OOVh4Rk9IRFc,consent:no,action:,necessary:yes,functional:no,analytics:no,performance:no,advertisement:no,other:no"
+    },
+    {
+        "name": "test_cookie",
+        "domain": ".doubleclick.net",
+        "path": "/",
+        "expiry": "1764513892.14472",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "CheckForPermission"
+    }
+]

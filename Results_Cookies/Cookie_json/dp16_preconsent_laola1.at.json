@@ -1,0 +1,122 @@
+[
+    {
+        "name": "tru_token",
+        "domain": "www.laola1.at",
+        "path": "/",
+        "expiry": "1766807910",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "%7B%22jwt%22%3Anull%7D"
+    },
+    {
+        "name": "truendo-tcf-v2",
+        "domain": ".laola1.at",
+        "path": "/",
+        "expiry": "1795751910",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "CQbi80AQbi80AEwKnAENCGFsAP_gAEPgAACYJjJB5G7MbSFDKTZ3YJsEMAQP19hp5sAQBgAAgyABSBMEYIwEgkAhJASAIAACERIAIERBIAAgAAAAAEAAIIgAIQDAAAAQABAIIgBAAAEAAiBACAAIAABAAAAIAEBNAlQAmAiAQBIEQMBAwAAAgwAAAAAAAAARAAMABAgIQAAAAQAAAAAAgAIAAAAAAAAKABBIAAAAAAAAAAACABBHaCCAAuACgAKgAXAA4ACAAEgAKgAZAA0ACYAFUAMQAaAA_ACEAENAIgAiQBHACaAE4AKMAZYA0QByADnAHcAPiAfgB-wEHAQgAiwBHACSgFiAMUAZ8A4gB2wD2gH2AReAkQBKoCaQE2gKPAVIAtQBbAC5AFzALzAX-AxYBkgDLAGeANTAayA5YB44D-wIJgQhAjeBHYAA.YAAAAAAAAAAA"
+    },
+    {
+        "name": "truendo-ac",
+        "domain": ".laola1.at",
+        "path": "/",
+        "expiry": "1795751910",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": ""
+    },
+    {
+        "name": "_ain_cid",
+        "domain": "www.laola1.at",
+        "path": "/",
+        "expiry": "1764217710.77459",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764215910773.105582177.75284073"
+    },
+    {
+        "name": "_ain_uid",
+        "domain": "www.laola1.at",
+        "path": "/",
+        "expiry": "1779767910.77481",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "1",
+        "value": "1764215910773.982591905.3148162"
+    },
+    {
+        "name": "ppms_privacy_aa673c27-ff37-4f2a-a6b9-37fe201da36f",
+        "domain": "www.laola1.at",
+        "path": "/",
+        "expiry": "1795751912",
+        "httpOnly": "0",
+        "sameSite": "Strict",
+        "secure": "0",
+        "value": "{%22visitorId%22:%22200e494c-f7a0-4016-89b0-ce855e912a68%22%2C%22domain%22:{%22normalized%22:%22www.laola1.at%22%2C%22isWildcard%22:false%2C%22pattern%22:%22www.laola1.at%22}%2C%22consents%22:{%22analytics%22:{%22status%22:1}%2C%22remarketing%22:{%22status%22:1}}}"
+    },
+    {
+        "name": "_pk_id.aa673c27-ff37-4f2a-a6b9-37fe201da36f.a01e",
+        "domain": "www.laola1.at",
+        "path": "/",
+        "expiry": "1764217712",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "e43e5c9efec95d70.1764215913.1.1764215913.1764215913."
+    },
+    {
+        "name": "_pk_ses.aa673c27-ff37-4f2a-a6b9-37fe201da36f.a01e",
+        "domain": "www.laola1.at",
+        "path": "/",
+        "expiry": "1764217712",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "*"
+    },
+    {
+        "name": "_fbp",
+        "domain": ".laola1.at",
+        "path": "/",
+        "expiry": "1771991913",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "fb.1.1764215913052.557277511371165064"
+    },
+    {
+        "name": "ioam2018",
+        "domain": ".laola1.at",
+        "path": "/",
+        "expiry": "1793764716",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "0003c78d1222637306927cc6c%3A1793764716582%3A1764215916582%3A.laola1.at%3A1%3Aat_w_atlaola1%3ARedCont%2FSport%2FSonstiges%3Anoevent%3A1764215916582%3Ariww5f"
+    },
+    {
+        "name": "i00",
+        "domain": ".iocnt.net",
+        "path": "/",
+        "expiry": "1792314672.64194",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0000f4e59fdf80b746927cc6d0001%3B6927cc6d%3B6ad48d30"
+    },
+    {
+        "name": "truendo_cc",
+        "domain": ".laola1.at",
+        "path": "/",
+        "expiry": "1795751910",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "%7B%22ack%22%3Atrue%2C%22version%22%3A2%2C%22user_id%22%3A%22db0cedfc-b3f5-edfb-72c3-bc0ec2a64ec6%22%2C%22websiteid%22%3A%22ae5881e1-ad91-4933-ab2e-1c3b775f9933%22%2C%22prodirversion%22%3A12%2C%22panellanguage%22%3A%22de%22%2C%22preferences%22%3Afalse%2C%22marketing%22%3Atrue%2C%22necessary%22%3Atrue%2C%22statistics%22%3Atrue%2C%22social_content%22%3Afalse%2C%22social_sharing%22%3Afalse%2C%22add_features%22%3Afalse%2C%22exp%22%3A%222026-11-27T03%3A58%3A30.406Z%22%2C%22svc%22%3A%22H4sIAAAAAAAAA6tWKs1LSU3LzEtNUbIyrAUAba%2F7Vg8AAAA%3D%22%2C%22consent_sent%22%3A%22true%22%2C%22usv%22%3A1764215930631%7D"
+    }
+]

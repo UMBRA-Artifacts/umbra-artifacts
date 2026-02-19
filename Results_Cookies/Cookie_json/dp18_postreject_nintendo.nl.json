@@ -1,0 +1,52 @@
+[
+    {
+        "name": "OptanonAlertBoxClosed",
+        "domain": ".www.nintendo.com",
+        "path": "/nl-nl/",
+        "expiry": "1795695650",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "2025-11-26T12:20:50.625Z"
+    },
+    {
+        "name": "OptanonConsent",
+        "domain": ".www.nintendo.com",
+        "path": "/nl-nl/",
+        "expiry": "1795695651",
+        "httpOnly": "0",
+        "sameSite": "Lax",
+        "secure": "0",
+        "value": "isGpcEnabled=0&datestamp=Wed+Nov+26+2025+21%3A20%3A51+GMT%2B0900+(Korean+Standard+Time)&version=202503.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=V17%3A0%2CV9%3A0%2CV1%3A0%2CV10%3A0%2CV6%3A0%2CV5%3A0%2C&consentId=bbc32a3b-6591-412e-9f12-006ffca112fe&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0&intType=2&geolocation=KR%3B11&AwaitingReconsent=false"
+    },
+    {
+        "name": "_abck",
+        "domain": ".nintendo.com",
+        "path": "/",
+        "expiry": "1795695648.36144",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "1",
+        "value": "AE17B5A96AC728A77F1A09133195B9D7~-1~YAAQSwk+F+qjZbOaAQAAXfIbwA4fzNXedP4umHDgS2eKBJ6jjWdS0fsywSuo7XZxdpdBQ9QNy+h9QKQJcu0N0Vjgc/L4++rlg1PAGK8OmwfHnBuRE6GAtUSwspV9L/3Pw2IIBHbT1Yt8IE7q69cBqELis6tckiNHBTLktQqDagifyHbb9wzX9fiB9+ooCPK8RSoP8FULSC3A/Lk/kOeUHTuBjAGVM3ODFTxHdY4CN4TvoDGBEyGPWe4J/GLLIDDbw4asJHUkLEo+E0bjFNRM0P7u0lRIXLNlg15DQDLR6Ti/Xl6Lce6z3con4juT5d3BiGhAWKQ8g4P43mTnNIQyr9pIxD1uhj8upS2mNhsp2pIuEzCgyWhyv1RgyZDy6IEEpd4UvwKBK/glRWASXeDN1pv5dqNGTJicWk5cy0OJTBMFXlM3EpiZjyssq9A6KGKxg0kXjpkKXTh9~-1~-1~-1~-1~-1"
+    },
+    {
+        "name": "bm_sz",
+        "domain": ".nintendo.com",
+        "path": "/",
+        "expiry": "1764174048.36151",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "00BC18796FAA3BFC3CCA19D9079E2B36~YAAQSwk+F+ujZbOaAQAAXfIbwB1MFlzKztzmEDwdPFeSPEWwqn1MSZk4IuqC2rSt1ueayH/kA0fudtv9tiBdUvWeBIx+3RRlXQviswkOdBxMw9N2nlh/jEqqxeOVYXv/R2atn97PsiLgtTpT5YlxjvdiqhGBKzcZqK6ulQImC/9j0DWtiF6lw+yUJUx3dK0gmHR8GcPp35shljjxv1kMEQBe13vb6EEKfDVG5jk+1/K41/UBa7MS8IXi+4hlcdp/1ooYgKCKTlBATepXtX4no8aBFSnzkuygUdIS6YM1fip5+eWz98v67/TZZb+qYgZjeRPY3OWX52OGA4brvLfQulzNp5LDCX2uKcLHw3IFGkU1sA==~3617859~3684403"
+    },
+    {
+        "name": "NATID",
+        "domain": "accounts.nintendo.com",
+        "path": "/",
+        "expiry": "3340959649.22309",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "08c9d5e5e233cbce059869c81ed2894b06f5b417"
+    }
+]

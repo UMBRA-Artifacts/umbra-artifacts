@@ -1,0 +1,102 @@
+[
+    {
+        "name": "CLID",
+        "domain": "www.clarity.ms",
+        "path": "/",
+        "expiry": "1796049779.87945",
+        "httpOnly": "1",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "c7db219bc9fb4da6aaea22f90ca8057d.20251130.20261130"
+    },
+    {
+        "name": "_clck",
+        "domain": ".eprice.it",
+        "path": "/",
+        "expiry": "1796049780",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "1ijl6k9%5E2%5Eg1g%5E0%5E2160"
+    },
+    {
+        "name": "_clsk",
+        "domain": ".eprice.it",
+        "path": "/",
+        "expiry": "1764600180",
+        "httpOnly": "0",
+        "sameSite": null,
+        "secure": "0",
+        "value": "16i5wi6%5E1764513780718%5E1%5E1%5El.clarity.ms%2Fcollect"
+    },
+    {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "path": "/",
+        "expiry": "1798209783.56345",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0EF1208A7779605D30F7363E76F561AF"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1765118583.56356",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "SRM_B",
+        "domain": ".c.bing.com",
+        "path": "/",
+        "expiry": "1798209783.56361",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0EF1208A7779605D30F7363E76F561AF"
+    },
+    {
+        "name": "SM",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "-1",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "C"
+    },
+    {
+        "name": "MUID",
+        "domain": ".clarity.ms",
+        "path": "/",
+        "expiry": "1798209782.62877",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0EF1208A7779605D30F7363E76F561AF"
+    },
+    {
+        "name": "MR",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1765118582.62884",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    },
+    {
+        "name": "ANONCHK",
+        "domain": ".c.clarity.ms",
+        "path": "/",
+        "expiry": "1764514382.62889",
+        "httpOnly": "0",
+        "sameSite": "None",
+        "secure": "1",
+        "value": "0"
+    }
+]
