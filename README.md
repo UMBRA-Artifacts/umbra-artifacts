@@ -25,7 +25,7 @@ This directory provides keyword lists and linguistic indicators used to detect m
 
 - These lexicons support the automated text-based detection modules.
 
-- ### 4. Results_Cookies/Cookie_json/
+- ### 4. Results_Cookies/Cookie_json/ (Limited)
 This directory stores collected cookie records in JSON format.
 
 Each file includes information such as:
