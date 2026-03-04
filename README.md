@@ -15,7 +15,7 @@ EU/ → European websites (2000)
 USA/ → United States websites(2000)
 Tranco-10K/ → Tranco top-ranked websites (10000)
 
-### 3. Lexicons/
+### 3. Lexicons
 This directory provides keyword lists and linguistic indicators used to detect multiple categories of dark patterns, including:
 
 - Cookie information disclosure
